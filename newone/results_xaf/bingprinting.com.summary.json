@@ -1,0 +1,596 @@
+{
+  "root_domain": "bingprinting.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-18T14:25:37.624057+00:00",
+  "completed_at": "2026-11-18T14:26:46.619106+00:00",
+  "duration_ms": 68995,
+  "targets_scanned": [
+    "bingprinting.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "fullhunt",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 37,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 37,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 122,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 184,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 236,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 274,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 742,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1216,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2315,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 109,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3095,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3404,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3504,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3258,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30999,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36305,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42577,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61734,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingprinting.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65304,
+      "error": null
+    }
+  ]
+}
