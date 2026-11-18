@@ -1,0 +1,596 @@
+{
+  "root_domain": "admin-hotmail.org",
+  "recursive_depth": 0,
+  "started_at": "2026-11-18T13:55:00.184547+00:00",
+  "completed_at": "2026-11-18T13:56:05.615335+00:00",
+  "duration_ms": 65430,
+  "targets_scanned": [
+    "admin-hotmail.org"
+  ],
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 0,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "chaos",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 40,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 84,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 92,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 196,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 247,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 1092,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1139,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1342,
+      "error": "'NoneType' object is not iterable"
+    },
+    {
+      "resource": "rapiddns",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 1775,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 181,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3062,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3064,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3481,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3121,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 6844,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 10776,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30118,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34268,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61737,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "admin-hotmail.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65417,
+      "error": null
+    }
+  ]
+}
