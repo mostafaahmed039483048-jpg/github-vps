@@ -1,0 +1,596 @@
+{
+  "root_domain": "bingpix.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-18T14:05:53.628527+00:00",
+  "completed_at": "2026-11-18T14:07:32.625361+00:00",
+  "duration_ms": 98996,
+  "targets_scanned": [
+    "bingpix.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "censys",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 108,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 181,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 225,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 258,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 63,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 509,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1198,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1444,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 137,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3058,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3201,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3529,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3067,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32889,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42488,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49818,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61619,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65980,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingpix.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 98987,
+      "error": null
+    }
+  ]
+}

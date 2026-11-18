@@ -1,0 +1,596 @@
+{
+  "root_domain": "123pinnedsite.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-18T14:05:31.626423+00:00",
+  "completed_at": "2026-11-18T14:06:40.618421+00:00",
+  "duration_ms": 68991,
+  "targets_scanned": [
+    "123pinnedsite.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "digitalyama",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 67,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 188,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 196,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 59,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 271,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1040,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1008,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1275,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 130,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3081,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3347,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3473,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3129,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30290,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30136,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34956,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61592,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65981,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "123pinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65378,
+      "error": null
+    }
+  ]
+}
