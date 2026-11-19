@@ -1,0 +1,596 @@
+{
+  "root_domain": "gearspop.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T21:06:01.817400+00:00",
+  "completed_at": "2026-11-19T21:07:10.805205+00:00",
+  "duration_ms": 68987,
+  "targets_scanned": [
+    "gearspop.com"
+  ],
+  "total_unique_findings": 4,
+  "fresh_findings_count": 4,
+  "historical_findings_count": 0,
+  "new_findings_count": 4,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "github",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 106,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 178,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 271,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 70,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 447,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 1442,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2678,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 111,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3053,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3066,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3548,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3122,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26013,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33118,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 4,
+      "duration_ms": 44652,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 62111,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65976,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "gearspop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65572,
+      "error": null
+    }
+  ]
+}

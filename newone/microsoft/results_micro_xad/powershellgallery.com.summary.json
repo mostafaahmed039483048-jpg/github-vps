@@ -1,0 +1,596 @@
+{
+  "root_domain": "powershellgallery.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T20:57:30.811962+00:00",
+  "completed_at": "2026-11-19T20:58:39.806170+00:00",
+  "duration_ms": 68994,
+  "targets_scanned": [
+    "powershellgallery.com"
+  ],
+  "total_unique_findings": 8,
+  "fresh_findings_count": 8,
+  "historical_findings_count": 0,
+  "new_findings_count": 8,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "fullhunt",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 71,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 114,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 199,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 222,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 80,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 521,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 543,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1233,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 1309,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 7,
+      "duration_ms": 123,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3098,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3136,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3530,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3132,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31391,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39451,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 7,
+      "duration_ms": 45128,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61849,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65979,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "powershellgallery.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65298,
+      "error": null
+    }
+  ]
+}

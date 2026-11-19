@@ -1,0 +1,596 @@
+{
+  "root_domain": "garderjjerop.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T20:53:53.810753+00:00",
+  "completed_at": "2026-11-19T20:55:24.497949+00:00",
+  "duration_ms": 90687,
+  "targets_scanned": [
+    "garderjjerop.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "binaryedge",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 93,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 194,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 247,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 514,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 615,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1043,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1050,
+      "error": "'NoneType' object is not iterable"
+    },
+    {
+      "resource": "threatbook",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 120,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3038,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3118,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3399,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3136,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26422,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31609,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61715,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65984,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65253,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "garderjjerop.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 90678,
+      "error": null
+    }
+  ]
+}

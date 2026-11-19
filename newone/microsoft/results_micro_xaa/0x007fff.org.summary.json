@@ -1,0 +1,596 @@
+{
+  "root_domain": "0x007fff.org",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T20:57:35.810118+00:00",
+  "completed_at": "2026-11-19T20:58:44.805290+00:00",
+  "duration_ms": 68995,
+  "targets_scanned": [
+    "0x007fff.org"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "google",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 97,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 199,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 71,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 446,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 19,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 699,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 931,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1992,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 118,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3069,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3110,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3503,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3071,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29472,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55537,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61508,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61682,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "0x007fff.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65310,
+      "error": null
+    }
+  ]
+}
