@@ -1,0 +1,596 @@
+{
+  "root_domain": "projectmadeira.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T21:17:10.597730+00:00",
+  "completed_at": "2026-11-19T21:18:36.520934+00:00",
+  "duration_ms": 85923,
+  "targets_scanned": [
+    "projectmadeira.com"
+  ],
+  "total_unique_findings": 5,
+  "fresh_findings_count": 5,
+  "historical_findings_count": 0,
+  "new_findings_count": 5,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "arpsyndicate",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 75,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 177,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 236,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 284,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 73,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 474,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 925,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1153,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 104,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3064,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3049,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3289,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3110,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 9007,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32468,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61682,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65194,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65812,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "projectmadeira.com",
+      "recursion_depth": 0,
+      "findings_count": 5,
+      "duration_ms": 85910,
+      "error": null
+    }
+  ]
+}
