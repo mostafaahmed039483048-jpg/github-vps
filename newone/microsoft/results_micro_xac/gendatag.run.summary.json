@@ -1,0 +1,596 @@
+{
+  "root_domain": "gendatag.run",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T21:10:28.818495+00:00",
+  "completed_at": "2026-11-19T21:11:37.804887+00:00",
+  "duration_ms": 68986,
+  "targets_scanned": [
+    "gendatag.run"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "bevigil",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 60,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 110,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 186,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 284,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 579,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 486,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 921,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 967,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 132,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3048,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3082,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3391,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3162,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 11146,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28531,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32127,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61288,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65976,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "gendatag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65297,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "root_domain": "privacy.microsoft.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T21:11:12.809710+00:00",
+  "completed_at": "2026-11-19T21:12:22.172435+00:00",
+  "duration_ms": 69362,
+  "targets_scanned": [
+    "privacy.microsoft.com"
+  ],
+  "total_unique_findings": 16,
+  "fresh_findings_count": 16,
+  "historical_findings_count": 0,
+  "new_findings_count": 16,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "domscan",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 85,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 178,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 214,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 52,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 281,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 524,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 977,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1164,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 14,
+      "duration_ms": 118,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3085,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3099,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3296,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3107,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29254,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44126,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61876,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65982,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65603,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "privacy.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 15,
+      "duration_ms": 69346,
+      "error": null
+    }
+  ]
+}
