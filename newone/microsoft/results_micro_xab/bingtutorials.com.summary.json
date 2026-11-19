@@ -1,0 +1,596 @@
+{
+  "root_domain": "bingtutorials.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T21:20:55.812241+00:00",
+  "completed_at": "2026-11-19T21:22:16.403009+00:00",
+  "duration_ms": 80590,
+  "targets_scanned": [
+    "bingtutorials.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "dnsdumpster",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 78,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 189,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 211,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 267,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 56,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 470,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1164,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1458,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 103,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3047,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3040,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3294,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3084,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32045,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41454,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61363,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65981,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65644,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingtutorials.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 80580,
+      "error": null
+    }
+  ]
+}

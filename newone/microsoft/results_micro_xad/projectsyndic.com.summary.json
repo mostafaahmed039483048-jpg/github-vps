@@ -1,0 +1,596 @@
+{
+  "root_domain": "projectsyndic.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T21:20:50.812767+00:00",
+  "completed_at": "2026-11-19T21:22:03.026148+00:00",
+  "duration_ms": 72213,
+  "targets_scanned": [
+    "projectsyndic.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "google",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 102,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 197,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 226,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 282,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 453,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1462,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2734,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 113,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3060,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3072,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3590,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3102,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 10892,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28556,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61730,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65599,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "projectsyndic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 72205,
+      "error": null
+    }
+  ]
+}
