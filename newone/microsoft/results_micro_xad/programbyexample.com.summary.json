@@ -1,0 +1,596 @@
+{
+  "root_domain": "programbyexample.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-19T21:15:58.821468+00:00",
+  "completed_at": "2026-11-19T21:17:10.589565+00:00",
+  "duration_ms": 71768,
+  "targets_scanned": [
+    "programbyexample.com"
+  ],
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 0,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "arpsyndicate",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 84,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 182,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 213,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 266,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 487,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1199,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2167,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 119,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3078,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3054,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3290,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3148,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25495,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29921,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34095,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61778,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65970,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "programbyexample.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 71755,
+      "error": null
+    }
+  ]
+}
