@@ -1,23 +1,31 @@
 {
   "root_domain": "awl-mx.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:10:57.918280+00:00",
-  "completed_at": "2026-11-20T08:12:06.915142+00:00",
-  "duration_ms": 68996,
+  "started_at": "2026-11-20T21:39:53.353793+00:00",
+  "completed_at": "2026-11-20T21:41:03.991678+00:00",
+  "duration_ms": 70637,
   "targets_scanned": [
     "awl-mx.com"
   ],
   "total_unique_findings": 5,
   "fresh_findings_count": 5,
-  "historical_findings_count": 0,
-  "new_findings_count": 5,
+  "historical_findings_count": 5,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "facebook",
+      "resource": "chinaz",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +41,15 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "binaryedge",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -42,6 +58,70 @@
     },
     {
       "resource": "github",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +145,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "facebook",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "dnsdumpster",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -82,6 +162,30 @@
     },
     {
       "resource": "coderog",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,103 +209,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "intelx",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,27 +221,11 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 23,
       "error": null
     },
     {
       "resource": "huntermap",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "leakix",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +241,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "leakix",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -262,6 +254,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -305,31 +305,15 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "anubis",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 73,
+      "duration_ms": 77,
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 127,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,11 +329,27 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 193,
+      "duration_ms": 194,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 212,
       "error": null
     },
     {
@@ -361,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "reconeer",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 264,
+      "duration_ms": 69,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 289,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 448,
+      "duration_ms": 431,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 935,
+      "duration_ms": 1160,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1276,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,15 +453,23 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 5,
-      "duration_ms": 116,
+      "duration_ms": 114,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "shrewdeye",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1275,
+      "duration_ms": 3110,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -477,15 +485,7 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3209,
       "error": null
     },
     {
@@ -497,15 +497,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3064,
+      "duration_ms": 3360,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,27 +537,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "awl-mx.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3391,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3095,
+      "duration_ms": 3119,
       "error": null
     },
     {
-      "resource": "submd",
+      "resource": "waybackarchive",
       "target": "awl-mx.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 25514,
+      "findings_count": 4,
+      "duration_ms": 19826,
       "error": null
     },
     {
@@ -565,7 +557,15 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31548,
+      "duration_ms": 33085,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "awl-mx.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44752,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61368,
+      "duration_ms": 61467,
       "error": null
     },
     {
@@ -581,15 +581,15 @@
       "target": "awl-mx.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65880,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "crtsh",
       "target": "awl-mx.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65699,
+      "findings_count": 5,
+      "duration_ms": 70626,
       "error": null
     }
   ]

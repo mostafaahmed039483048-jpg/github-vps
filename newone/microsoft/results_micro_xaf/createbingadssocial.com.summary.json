@@ -1,39 +1,23 @@
 {
   "root_domain": "createbingadssocial.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:13:27.928429+00:00",
-  "completed_at": "2026-11-20T08:14:36.986805+00:00",
-  "duration_ms": 69058,
+  "started_at": "2026-11-20T21:40:44.321866+00:00",
+  "completed_at": "2026-11-20T21:41:53.246700+00:00",
+  "duration_ms": 68924,
   "targets_scanned": [
     "createbingadssocial.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "argosdns",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "bufferover",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "argosdns",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,23 +49,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
+      "resource": "dnsdb",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,55 +73,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
+      "resource": "certspotter",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +89,39 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "censys",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "bevigil",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +145,15 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "dnsdumpster",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +169,39 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "digitalyama",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "coderog",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "huntermap",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,23 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
       "resource": "leakix",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,14 +257,6 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 57,
-      "error": null
-    },
-    {
       "resource": "netlas",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
@@ -273,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "digitorus",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 104,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
@@ -321,11 +313,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "crtsh",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
+      "duration_ms": 52,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 92,
       "error": null
     },
     {
@@ -345,19 +345,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 192,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 259,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 305,
+      "duration_ms": 191,
       "error": null
     },
     {
@@ -369,19 +369,19 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 77,
+      "error": null
+    },
+    {
       "resource": "rsecloud",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56,
       "error": null
     },
     {
@@ -409,11 +409,19 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 271,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 27,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 505,
+      "duration_ms": 469,
       "error": null
     },
     {
@@ -429,15 +437,15 @@
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 965,
+      "duration_ms": 968,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1347,
+      "findings_count": 1,
+      "duration_ms": 102,
       "error": null
     },
     {
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 116,
-      "error": null
-    },
-    {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3082,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1349,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "riddler",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3092,
+      "duration_ms": 3067,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -497,7 +497,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "shrewdeye",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3053,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +513,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3408,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +537,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "createbingadssocial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3077,
+      "duration_ms": 3083,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29821,
+      "duration_ms": 28937,
       "error": null
     },
     {
@@ -557,15 +565,7 @@
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31841,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "createbingadssocial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34026,
+      "duration_ms": 32321,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61384,
+      "duration_ms": 42039,
       "error": null
     },
     {
@@ -581,15 +581,15 @@
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65973,
+      "duration_ms": 65915,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "waybackarchive",
       "target": "createbingadssocial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 69048,
+      "duration_ms": 65654,
       "error": null
     }
   ]
