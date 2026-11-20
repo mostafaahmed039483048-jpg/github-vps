@@ -1,23 +1,23 @@
 {
   "root_domain": "csharp.dev",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:38:32.918289+00:00",
-  "completed_at": "2026-11-20T08:39:38.912735+00:00",
-  "duration_ms": 65994,
+  "started_at": "2026-11-20T22:14:06.249113+00:00",
+  "completed_at": "2026-11-20T22:15:12.738816+00:00",
+  "duration_ms": 66489,
   "targets_scanned": [
     "csharp.dev"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
+      "resource": "dnsdb",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "binaryedge",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "arpsyndicate",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,15 +41,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "google",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +57,47 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "censys",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,87 +121,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
+      "resource": "dnsrepo",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "bevigil",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +145,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "argosdns",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +153,55 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "bufferover",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,15 +213,7 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,23 @@
       "error": null
     },
     {
+      "resource": "leakix",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "netlas",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,11 +269,11 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 27,
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "onyphe",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "quake",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +305,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "rapidapi",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,11 +317,19 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 67,
+      "duration_ms": 77,
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "hudsonrock",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 190,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,27 +345,19 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "hackertarget",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 261,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "reconeer",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 217,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 248,
+      "duration_ms": 62,
       "error": null
     },
     {
@@ -361,19 +369,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "alienvault",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 299,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 434,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "robtex",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 537,
+      "duration_ms": 517,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1185,
+      "duration_ms": 962,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1269,
+      "duration_ms": 1059,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 105,
+      "duration_ms": 110,
       "error": null
     },
     {
@@ -461,7 +461,15 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3078,
+      "duration_ms": 3083,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -477,15 +485,7 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3053,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3059,
       "error": null
     },
     {
@@ -505,23 +505,15 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "sitedossier",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 3272,
       "error": null
     },
     {
       "resource": "whoisfreaks",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "windvane",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3297,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,31 +541,7 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3094,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 2235,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22053,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "csharp.dev",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28684,
+      "duration_ms": 3095,
       "error": null
     },
     {
@@ -581,7 +549,31 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42250,
+      "duration_ms": 22281,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30832,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42252,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55716,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "csharp.dev",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65981,
+      "duration_ms": 65986,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "csharp.dev",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 66479,
       "error": null
     }
   ]
