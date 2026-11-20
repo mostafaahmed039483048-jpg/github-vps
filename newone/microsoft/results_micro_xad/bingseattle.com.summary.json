@@ -1,0 +1,596 @@
+{
+  "root_domain": "bingseattle.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T07:47:33.934678+00:00",
+  "completed_at": "2026-11-20T07:48:39.921242+00:00",
+  "duration_ms": 65986,
+  "targets_scanned": [
+    "bingseattle.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "google",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 200,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 228,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 290,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 17,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 484,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1233,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1496,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 93,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3052,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3051,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3293,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3078,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31399,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36927,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39281,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45038,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingseattle.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65971,
+      "error": null
+    }
+  ]
+}
