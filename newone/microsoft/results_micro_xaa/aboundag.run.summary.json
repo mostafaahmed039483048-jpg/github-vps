@@ -1,39 +1,23 @@
 {
   "root_domain": "aboundag.run",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:20:21.945354+00:00",
-  "completed_at": "2026-11-20T08:21:27.930740+00:00",
-  "duration_ms": 65985,
+  "started_at": "2026-11-20T21:58:08.975076+00:00",
+  "completed_at": "2026-11-20T21:59:14.245059+00:00",
+  "duration_ms": 65269,
   "targets_scanned": [
     "aboundag.run"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "facebook",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,39 +33,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
+      "resource": "arpsyndicate",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "coderog",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,79 +57,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "domscan",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +73,111 @@
       "error": null
     },
     {
+      "resource": "bevigil",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdb",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +193,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "driftnet",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "chinaz",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,23 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "abuseipdb",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 37,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 37,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "leakix",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,15 +265,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 57,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "odin",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,11 +297,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "pugrecon",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 92,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -318,6 +310,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 87,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 181,
       "error": null
     },
     {
@@ -341,15 +349,7 @@
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 244,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 313,
+      "duration_ms": 209,
       "error": null
     },
     {
@@ -361,27 +361,19 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
       "resource": "reconeer",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 369,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -393,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "robtex",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 436,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 932,
+      "duration_ms": 478,
       "error": null
     },
     {
@@ -437,15 +429,15 @@
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1005,
+      "duration_ms": 1189,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "thc",
+      "resource": "myssl",
       "target": "aboundag.run",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 111,
+      "findings_count": 0,
+      "duration_ms": 1311,
       "error": null
     },
     {
@@ -457,19 +449,19 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 114,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3059,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3055,
       "error": null
     },
     {
@@ -485,7 +477,15 @@
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
+      "duration_ms": 3041,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -505,15 +505,23 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "whoisxml",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "sitedossier",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3372,
+      "error": null
+    },
+    {
+      "resource": "windvane",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3310,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3072,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "aboundag.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29681,
+      "duration_ms": 3095,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31624,
+      "duration_ms": 6584,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 46042,
+      "duration_ms": 18059,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30345,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42674,
+      "duration_ms": 29220,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "aboundag.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61478,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "aboundag.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65970,
+      "duration_ms": 65259,
       "error": null
     }
   ]

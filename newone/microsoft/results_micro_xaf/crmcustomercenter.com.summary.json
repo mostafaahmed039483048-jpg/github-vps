@@ -1,71 +1,23 @@
 {
   "root_domain": "crmcustomercenter.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:26:57.929111+00:00",
-  "completed_at": "2026-11-20T08:28:24.990879+00:00",
-  "duration_ms": 87061,
+  "started_at": "2026-11-20T21:57:40.406657+00:00",
+  "completed_at": "2026-11-20T21:59:06.351146+00:00",
+  "duration_ms": 85944,
   "targets_scanned": [
     "crmcustomercenter.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdumpster",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "arpsyndicate",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,103 +33,15 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "certspotter",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,6 +57,70 @@
       "error": null
     },
     {
+      "resource": "bevigil",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "digitalyama",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
@@ -201,7 +129,79 @@
       "error": null
     },
     {
+      "resource": "binaryedge",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "google",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +229,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 46,
       "error": null
     },
     {
@@ -257,19 +257,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
       "error": null
     },
     {
@@ -317,19 +317,11 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 84,
+      "duration_ms": 114,
       "error": null
     },
     {
       "resource": "rapidscan",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,19 +337,27 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 196,
+      "duration_ms": 246,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 249,
       "error": null
     },
     {
@@ -369,19 +369,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 299,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 73,
       "error": null
     },
     {
@@ -393,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "rsecloud",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 486,
+      "duration_ms": 466,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "crmcustomercenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1171,
       "error": null
     },
     {
@@ -429,15 +437,15 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 916,
+      "duration_ms": 1191,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1159,
+      "findings_count": 1,
+      "duration_ms": 106,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "crmcustomercenter.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 109,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3038,
+      "duration_ms": 3069,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 42,
       "error": null
     },
     {
@@ -501,7 +501,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3052,
+      "duration_ms": 3067,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3385,
+      "duration_ms": 3278,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3095,
+      "duration_ms": 3103,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 8234,
+      "duration_ms": 11384,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30142,
+      "duration_ms": 31673,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65962,
+      "duration_ms": 65841,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65653,
+      "duration_ms": 65468,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "crmcustomercenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 87041,
+      "duration_ms": 85935,
       "error": null
     }
   ]
