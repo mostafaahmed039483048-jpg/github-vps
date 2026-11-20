@@ -1,23 +1,23 @@
 {
   "root_domain": "bingrewardsschools.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:09:45.935472+00:00",
-  "completed_at": "2026-11-20T07:10:51.912707+00:00",
-  "duration_ms": 65977,
+  "started_at": "2026-11-20T20:30:03.416580+00:00",
+  "completed_at": "2026-11-20T20:32:37.325959+00:00",
+  "duration_ms": 153909,
   "targets_scanned": [
     "bingrewardsschools.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "binaryedge",
+      "resource": "coderog",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,159 +33,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "domainsproject",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +49,159 @@
       "error": null
     },
     {
+      "resource": "builtwith",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bevigil",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +225,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 40,
       "error": null
     },
     {
@@ -249,7 +249,15 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "netlas",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 81,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
@@ -313,19 +321,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "alienvault",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 83,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 200,
       "error": null
     },
     {
@@ -337,19 +337,27 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 198,
+      "duration_ms": 227,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 199,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -361,14 +369,6 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 43,
-      "error": null
-    },
-    {
       "resource": "robtex",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 286,
+      "duration_ms": 63,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
+      "duration_ms": 75,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 466,
+      "duration_ms": 505,
       "error": null
     },
     {
@@ -429,15 +429,23 @@
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 922,
+      "duration_ms": 960,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
+      "duration_ms": 1494,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 101,
       "error": null
     },
     {
@@ -449,19 +457,19 @@
       "error": null
     },
     {
+      "resource": "riddler",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3060,
+      "error": null
+    },
+    {
       "resource": "shrewdeye",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3048,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 102,
+      "duration_ms": 3040,
       "error": null
     },
     {
@@ -481,14 +489,6 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3289,
-      "error": null
-    },
-    {
       "resource": "virustotal",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
@@ -505,23 +505,15 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3360,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3074,
-      "error": null
-    },
-    {
-      "resource": "windvane",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,19 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "windvane",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22052,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "threatcrowd",
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23482,
+      "duration_ms": 3087,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31305,
+      "duration_ms": 30430,
       "error": null
     },
     {
@@ -565,15 +557,7 @@
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44907,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingrewardsschools.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49127,
+      "duration_ms": 43690,
       "error": null
     },
     {
@@ -581,7 +565,7 @@
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61745,
+      "duration_ms": 61692,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "bingrewardsschools.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65965,
+      "duration_ms": 65820,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65410,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingrewardsschools.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 153900,
       "error": null
     }
   ]
