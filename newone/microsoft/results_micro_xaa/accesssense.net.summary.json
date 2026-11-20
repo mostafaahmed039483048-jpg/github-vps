@@ -1,45 +1,21 @@
 {
   "root_domain": "accesssense.net",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:39:45.942738+00:00",
-  "completed_at": "2026-11-20T08:40:51.911100+00:00",
-  "duration_ms": 65968,
+  "started_at": "2026-11-20T22:24:27.249782+00:00",
+  "completed_at": "2026-11-20T22:25:33.247091+00:00",
+  "duration_ms": 65997,
   "targets_scanned": [
     "accesssense.net"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "domainsproject",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "fofa",
       "target": "accesssense.net",
@@ -57,111 +33,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "certspotter",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "censys",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "c99",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "dnsrepo",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,7 +89,127 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "google",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +221,15 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 25,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -253,7 +253,7 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,11 +309,27 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 116,
+      "duration_ms": 68,
       "error": null
     },
     {
       "resource": "rapidapi",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 187,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,35 +345,19 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 204,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 223,
+      "duration_ms": 240,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42,
+      "duration_ms": 262,
       "error": null
     },
     {
@@ -369,19 +369,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 281,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 41,
       "error": null
     },
     {
@@ -393,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "rsecloud",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 502,
+      "duration_ms": 528,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1072,
       "error": null
     },
     {
@@ -429,16 +437,8 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 936,
+      "duration_ms": 1253,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1466,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,7 +453,7 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 105,
+      "duration_ms": 125,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3078,
+      "duration_ms": 3072,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3100,
+      "error": null
+    },
+    {
       "resource": "trickest",
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3044,
       "error": null
     },
     {
@@ -517,7 +517,7 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3294,
+      "duration_ms": 3486,
       "error": null
     },
     {
@@ -541,39 +541,7 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3098,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 2422,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 10604,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28898,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "accesssense.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 33025,
+      "duration_ms": 3105,
       "error": null
     },
     {
@@ -581,7 +549,39 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61503,
+      "duration_ms": 20698,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30803,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32058,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45061,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "accesssense.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49879,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "accesssense.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65954,
+      "duration_ms": 65988,
       "error": null
     }
   ]

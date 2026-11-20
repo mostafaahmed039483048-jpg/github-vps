@@ -1,23 +1,23 @@
 {
   "root_domain": "csubizappsblog.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:45:42.706387+00:00",
-  "completed_at": "2026-11-20T08:46:51.915878+00:00",
-  "duration_ms": 69209,
+  "started_at": "2026-11-20T22:23:40.252367+00:00",
+  "completed_at": "2026-11-20T22:24:49.246731+00:00",
+  "duration_ms": 68994,
   "targets_scanned": [
     "csubizappsblog.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chaos",
+      "resource": "censys",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,23 +25,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "argosdns",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,62 +41,6 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "arpsyndicate",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
@@ -121,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "certspotter",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,6 +65,30 @@
       "error": null
     },
     {
+      "resource": "dnsdb",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "chinaz",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
@@ -145,7 +97,87 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "binaryedge",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +201,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "dnsdumpster",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,35 +209,11 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "digitorus",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 39,
       "error": null
     },
     {
@@ -214,14 +222,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 25,
       "error": null
     },
     {
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "abuseipdb",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 50,
       "error": null
     },
     {
@@ -265,15 +265,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 53,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "netlas",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,6 +274,14 @@
     },
     {
       "resource": "pugrecon",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,15 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 78,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 108,
       "error": null
     },
     {
@@ -329,14 +337,6 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 185,
-      "error": null
-    },
-    {
       "resource": "rapidscan",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
@@ -345,11 +345,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "alienvault",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 237,
+      "duration_ms": 206,
       "error": null
     },
     {
@@ -361,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hudsonrock",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 302,
+      "duration_ms": 229,
       "error": null
     },
     {
@@ -382,6 +374,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
       "error": null
     },
     {
@@ -409,11 +409,19 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 252,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 451,
+      "duration_ms": 908,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1145,
+      "duration_ms": 936,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1234,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 119,
+      "duration_ms": 136,
       "error": null
     },
     {
@@ -457,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3080,
+      "duration_ms": 1171,
       "error": null
     },
     {
@@ -485,27 +485,11 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
+      "duration_ms": 3088,
       "error": null
     },
     {
       "resource": "virustotal",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "riddler",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3219,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,27 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "csubizappsblog.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3118,
+      "duration_ms": 3133,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25156,
+      "duration_ms": 19331,
       "error": null
     },
     {
@@ -557,15 +565,7 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31395,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "csubizappsblog.com",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 36923,
+      "duration_ms": 31652,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61461,
+      "duration_ms": 61321,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65196,
+      "duration_ms": 65985,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "csubizappsblog.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65811,
+      "duration_ms": 65641,
       "error": null
     }
   ]

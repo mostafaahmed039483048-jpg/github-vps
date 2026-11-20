@@ -1,101 +1,21 @@
 {
   "root_domain": "bingdebt.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:19:46.917423+00:00",
-  "completed_at": "2026-11-20T08:20:52.911166+00:00",
-  "duration_ms": 65993,
+  "started_at": "2026-11-20T22:23:52.247458+00:00",
+  "completed_at": "2026-11-20T22:24:58.244536+00:00",
+  "duration_ms": 65997,
   "targets_scanned": [
     "bingdebt.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "certspotter",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "fofa",
       "target": "bingdebt.com",
@@ -105,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "driftnet",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -114,14 +34,6 @@
     },
     {
       "resource": "digitalyama",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "facebook",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +65,55 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "github",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +129,47 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "certspotter",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "dnsdb",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,15 +201,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "domainsproject",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +213,11 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 46,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "intelx",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "huntermap",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 40,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "leakix",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,7 +257,23 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "odin",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +317,15 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 73,
+      "duration_ms": 107,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "alienvault",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 114,
+      "duration_ms": 215,
       "error": null
     },
     {
@@ -345,11 +337,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapidfinder",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 190,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -361,15 +353,15 @@
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "hackertarget",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 281,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "redhuntlabs",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -389,7 +381,15 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 67,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 286,
+      "duration_ms": 36,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 500,
+      "duration_ms": 465,
       "error": null
     },
     {
@@ -437,8 +429,24 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1207,
+      "duration_ms": 1165,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1514,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 137,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,19 +457,19 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 95,
-      "error": null
-    },
-    {
-      "resource": "myssl",
+      "resource": "shrewdeye",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2260,
+      "duration_ms": 3099,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3181,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 14,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "bingdebt.com",
       "recursion_depth": 0,
@@ -513,19 +505,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3068,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
+      "resource": "whoisxml",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3510,
       "error": null
     },
     {
@@ -537,19 +529,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "zoomeyeapi",
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3080,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -557,23 +541,7 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3101,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 11759,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingdebt.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31442,
+      "duration_ms": 3097,
       "error": null
     },
     {
@@ -581,7 +549,39 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 62692,
+      "duration_ms": 14403,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25101,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31136,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61324,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingdebt.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingdebt.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 65986,
       "error": null
     }
   ]

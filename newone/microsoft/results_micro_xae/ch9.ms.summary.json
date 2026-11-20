@@ -1,71 +1,31 @@
 {
   "root_domain": "ch9.ms",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:40:19.918235+00:00",
-  "completed_at": "2026-11-20T08:42:07.041840+00:00",
-  "duration_ms": 107123,
+  "started_at": "2026-11-20T22:23:37.247624+00:00",
+  "completed_at": "2026-11-20T22:24:46.249722+00:00",
+  "duration_ms": 69002,
   "targets_scanned": [
     "ch9.ms"
   ],
   "total_unique_findings": 17,
   "fresh_findings_count": 17,
-  "historical_findings_count": 0,
-  "new_findings_count": 17,
+  "historical_findings_count": 17,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
+      "resource": "c99",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "arpsyndicate",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,23 +41,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "bevigil",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,63 +57,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +81,111 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "facebook",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +201,14 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "ch9.ms",
       "recursion_depth": 0,
@@ -217,15 +217,23 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "intelx",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "abuseipdb",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 21,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "odin",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,27 +265,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
-      "error": null
-    },
-    {
-      "resource": "odin",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "onyphe",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "ch9.ms",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 72,
+      "duration_ms": 103,
       "error": null
     },
     {
@@ -318,6 +318,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 194,
       "error": null
     },
     {
@@ -337,27 +345,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 187,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 201,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 54,
+      "duration_ms": 227,
       "error": null
     },
     {
@@ -366,6 +358,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 249,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 283,
+      "duration_ms": 50,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 19,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 14,
-      "duration_ms": 574,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 3,
-      "duration_ms": 992,
+      "duration_ms": 782,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1155,
+      "duration_ms": 961,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 1010,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,15 +453,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 17,
-      "duration_ms": 120,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 100,
       "error": null
     },
     {
@@ -469,7 +461,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3105,
+      "duration_ms": 3078,
       "error": null
     },
     {
@@ -489,23 +481,15 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3073,
+      "error": null
+    },
+    {
       "resource": "virustotal",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3392,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "sitedossier",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3097,
+      "duration_ms": 3146,
       "error": null
     },
     {
@@ -549,7 +549,15 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 10876,
+      "duration_ms": 11854,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "ch9.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22056,
       "error": null
     },
     {
@@ -557,7 +565,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31058,
+      "duration_ms": 32068,
       "error": null
     },
     {
@@ -565,7 +573,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42204,
+      "duration_ms": 61495,
       "error": null
     },
     {
@@ -573,7 +581,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65991,
+      "duration_ms": 65989,
       "error": null
     },
     {
@@ -581,15 +589,7 @@
       "target": "ch9.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65623,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "ch9.ms",
-      "recursion_depth": 0,
-      "findings_count": 7,
-      "duration_ms": 107109,
+      "duration_ms": 65620,
       "error": null
     }
   ]
