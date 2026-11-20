@@ -1,71 +1,23 @@
 {
   "root_domain": "buynewxbox360.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:07:30.933459+00:00",
-  "completed_at": "2026-11-20T07:08:36.915268+00:00",
-  "duration_ms": 65981,
+  "started_at": "2026-11-20T20:23:03.248008+00:00",
+  "completed_at": "2026-11-20T20:24:51.345580+00:00",
+  "duration_ms": 108097,
   "targets_scanned": [
     "buynewxbox360.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdumpster",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "binaryedge",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,23 +33,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
+      "resource": "bevigil",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,6 +49,14 @@
       "error": null
     },
     {
+      "resource": "fofa",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bufferover",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
@@ -121,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "dnsdumpster",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "chaos",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +81,47 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "builtwith",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "argosdns",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +161,31 @@
       "error": null
     },
     {
+      "resource": "github",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,23 +201,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "google",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +217,27 @@
       "error": null
     },
     {
+      "resource": "intelx",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "abuseipdb",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -241,7 +249,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,23 +273,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
-      "error": null
-    },
-    {
-      "resource": "odin",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +317,7 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 78,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 121,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 106,
       "error": null
     },
     {
@@ -345,15 +329,7 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 197,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rapidscan",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -365,19 +341,27 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 204,
+      "duration_ms": 190,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "hackertarget",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 262,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "alienvault",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 292,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -389,11 +373,19 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 164,
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "robtex",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 311,
+      "duration_ms": 40,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 527,
+      "duration_ms": 532,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1023,
+      "duration_ms": 1271,
       "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1799,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "threatbook",
@@ -453,27 +453,27 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 117,
+      "duration_ms": 110,
       "error": null
-    },
-    {
-      "resource": "racent",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1295,
-      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "riddler",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 3059,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "shrewdeye",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3174,
+      "error": null
+    },
+    {
+      "resource": "trickest",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,22 +497,6 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3083,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3465,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3385,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,15 +541,7 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3081,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "buynewxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31239,
+      "duration_ms": 3109,
       "error": null
     },
     {
@@ -565,15 +549,15 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44403,
+      "duration_ms": 12353,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "reconcloud",
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50021,
+      "duration_ms": 31746,
       "error": null
     },
     {
@@ -581,7 +565,7 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61556,
+      "duration_ms": 61554,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "buynewxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65962,
+      "duration_ms": 65988,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65348,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "buynewxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 108085,
       "error": null
     }
   ]
