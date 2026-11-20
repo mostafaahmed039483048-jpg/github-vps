@@ -1,16 +1,16 @@
 {
   "root_domain": "builsdmypinnedsite.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:43:42.513303+00:00",
-  "completed_at": "2026-11-20T06:44:47.913330+00:00",
-  "duration_ms": 65400,
+  "started_at": "2026-11-20T19:55:25.495865+00:00",
+  "completed_at": "2026-11-20T19:56:34.246795+00:00",
+  "duration_ms": 68750,
   "targets_scanned": [
     "builsdmypinnedsite.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -34,14 +34,6 @@
     },
     {
       "resource": "facebook",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,6 +73,14 @@
       "error": null
     },
     {
+      "resource": "fullhunt",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "fofa",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
@@ -89,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "driftnet",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "bufferover",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,14 +129,6 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "binaryedge",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
@@ -145,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "github",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +145,23 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "digitalyama",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,14 +201,6 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
@@ -209,15 +209,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "huntermap",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "abuseipdb",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 76,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,14 +249,6 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 114,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
@@ -265,7 +257,23 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 40,
+      "error": null
+    },
+    {
       "resource": "netlas",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
@@ -309,27 +309,11 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 112,
+      "duration_ms": 116,
       "error": null
     },
     {
       "resource": "rapidapi",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 193,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,11 +329,27 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 238,
+      "duration_ms": 205,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 283,
       "error": null
     },
     {
@@ -365,19 +365,11 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60,
+      "duration_ms": 65,
       "error": null
     },
     {
-      "resource": "rapiddns",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 518,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "crtsh",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 379,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,35 +409,27 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 620,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 15,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "hackertarget",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1062,
+      "findings_count": 1,
+      "duration_ms": 512,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "rapiddns",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1227,
+      "duration_ms": 553,
       "error": null
     },
     {
@@ -445,8 +437,16 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1288,
+      "duration_ms": 1067,
       "error": "'NoneType' object is not iterable"
+    },
+    {
+      "resource": "thc",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 122,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -457,23 +457,15 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 109,
-      "error": null
-    },
-    {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
+      "duration_ms": 1217,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +473,15 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3076,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,7 +497,7 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "riddler",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3096,
+      "duration_ms": 3209,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,7 +541,7 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3505,
+      "duration_ms": 3507,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
+      "duration_ms": 3073,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25200,
+      "duration_ms": 9644,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31887,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "builsdmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42123,
+      "duration_ms": 30385,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61421,
+      "duration_ms": 61380,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "builsdmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65340,
+      "duration_ms": 65718,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "builsdmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65245,
       "error": null
     }
   ]

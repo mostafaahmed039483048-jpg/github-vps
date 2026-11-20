@@ -1,23 +1,31 @@
 {
   "root_domain": "07hotmail.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:40:47.280552+00:00",
-  "completed_at": "2026-11-20T06:44:45.931858+00:00",
-  "duration_ms": 238651,
+  "started_at": "2026-11-20T19:53:49.807407+00:00",
+  "completed_at": "2026-11-20T19:58:39.266638+00:00",
+  "duration_ms": 289459,
   "targets_scanned": [
     "07hotmail.com"
   ],
   "total_unique_findings": 7,
-  "fresh_findings_count": 1,
+  "fresh_findings_count": 7,
   "historical_findings_count": 7,
   "new_findings_count": 0,
-  "reused_historical_findings_count": 6,
+  "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
       "resource": "facebook",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -50,14 +58,6 @@
     },
     {
       "resource": "c99",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,14 +153,6 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsrepo",
       "target": "07hotmail.com",
       "recursion_depth": 0,
@@ -201,6 +193,14 @@
       "error": null
     },
     {
+      "resource": "domscan",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "coderog",
       "target": "07hotmail.com",
       "recursion_depth": 0,
@@ -217,31 +217,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42,
-      "error": null
-    },
-    {
       "resource": "abuseipdb",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 276,
+      "duration_ms": 202,
       "error": null
     },
     {
       "resource": "intelx",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "leakix",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,11 +241,27 @@
       "error": null
     },
     {
+      "resource": "leakix",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 85,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 302,
+      "duration_ms": 263,
       "error": null
     },
     {
@@ -337,11 +337,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 337,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 186,
+      "duration_ms": 254,
       "error": null
     },
     {
@@ -353,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 594,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
+      "resource": "reconeer",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 490,
+      "duration_ms": 91,
       "error": null
     },
     {
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "07hotmail.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 73,
+      "findings_count": 1,
+      "duration_ms": 585,
       "error": null
     },
     {
@@ -409,11 +409,19 @@
       "error": null
     },
     {
+      "resource": "rapiddns",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 477,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 32,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2165,
+      "duration_ms": 1117,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2288,
+      "duration_ms": 1355,
       "error": "'NoneType' object is not iterable"
-    },
-    {
-      "resource": "riddler",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3058,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 107,
+      "duration_ms": 116,
       "error": null
     },
     {
@@ -457,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "riddler",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3102,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "shrewdeye",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3393,
+      "duration_ms": 3178,
       "error": null
     },
     {
@@ -505,11 +505,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "sitedossier",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3130,
+      "duration_ms": 3485,
       "error": null
     },
     {
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "threatcrowd",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21793,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31046,
+      "duration_ms": 3177,
       "error": null
     },
     {
@@ -557,15 +549,23 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46526,
+      "duration_ms": 9408,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "waybackarchive",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 6,
+      "duration_ms": 15042,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61532,
+      "duration_ms": 29295,
       "error": null
     },
     {
@@ -573,15 +573,15 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70676,
+      "duration_ms": 38592,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "threatminer",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65781,
+      "duration_ms": 61551,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 238607,
+      "duration_ms": 289423,
       "error": null
     }
   ]

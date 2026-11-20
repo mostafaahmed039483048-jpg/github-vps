@@ -1,20 +1,20 @@
 {
   "root_domain": "contoso.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:46:19.785080+00:00",
-  "completed_at": "2026-11-20T06:47:24.968936+00:00",
-  "duration_ms": 65183,
+  "started_at": "2026-11-20T19:55:56.623521+00:00",
+  "completed_at": "2026-11-20T19:57:06.285817+00:00",
+  "duration_ms": 69662,
   "targets_scanned": [
     "contoso.com"
   ],
-  "total_unique_findings": 271,
-  "fresh_findings_count": 271,
-  "historical_findings_count": 0,
-  "new_findings_count": 271,
-  "reused_historical_findings_count": 0,
+  "total_unique_findings": 276,
+  "fresh_findings_count": 252,
+  "historical_findings_count": 271,
+  "new_findings_count": 5,
+  "reused_historical_findings_count": 24,
   "total_resource_executions": 72,
-  "successful_resource_executions": 71,
-  "failed_resource_executions": 1,
+  "successful_resource_executions": 72,
+  "failed_resource_executions": 0,
   "resource_executions": [
     {
       "resource": "dnsdumpster",
@@ -105,14 +105,6 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "certspotter",
       "target": "contoso.com",
       "recursion_depth": 0,
@@ -145,6 +137,22 @@
       "error": null
     },
     {
+      "resource": "domainsproject",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
       "target": "contoso.com",
       "recursion_depth": 0,
@@ -154,6 +162,14 @@
     },
     {
       "resource": "google",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,22 +201,6 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
       "target": "contoso.com",
       "recursion_depth": 0,
@@ -221,7 +221,7 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 74,
       "error": null
     },
     {
@@ -249,19 +249,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 87,
+      "duration_ms": 118,
       "error": null
     },
     {
@@ -341,7 +341,7 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 195,
+      "duration_ms": 220,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 21,
-      "duration_ms": 236,
+      "duration_ms": 223,
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 53,
       "error": null
     },
     {
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "hackertarget",
       "target": "contoso.com",
       "recursion_depth": 0,
-      "findings_count": 15,
-      "duration_ms": 468,
+      "findings_count": 18,
+      "duration_ms": 500,
       "error": null
     },
     {
@@ -413,31 +413,31 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 21,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "rapiddns",
       "target": "contoso.com",
       "recursion_depth": 0,
-      "findings_count": 18,
-      "duration_ms": 617,
+      "findings_count": 15,
+      "duration_ms": 739,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 1786,
       "error": null
     },
     {
       "resource": "racent",
       "target": "contoso.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1167,
-      "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "crtsh",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 143,
-      "duration_ms": 1339,
+      "findings_count": 41,
+      "duration_ms": 2131,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 134,
-      "duration_ms": 164,
+      "duration_ms": 157,
       "error": null
     },
     {
@@ -457,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "contoso.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 1917,
+      "findings_count": 0,
+      "duration_ms": 3048,
       "error": null
     },
     {
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 3052,
       "error": null
     },
     {
@@ -505,11 +505,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3059,
+      "duration_ms": 3278,
       "error": null
     },
     {
@@ -537,43 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3294,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3083,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 30,
-      "duration_ms": 10473,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20857,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "contoso.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 27116,
+      "duration_ms": 3105,
       "error": null
     },
     {
@@ -581,7 +549,31 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30329,
+      "duration_ms": 32555,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 179,
+      "duration_ms": 45561,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44343,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 62131,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "contoso.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65113,
+      "duration_ms": 65585,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "contoso.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65999,
       "error": null
     }
   ]
