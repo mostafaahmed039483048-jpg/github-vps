@@ -1,0 +1,596 @@
+{
+  "root_domain": "draft.sh",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T07:03:27.922611+00:00",
+  "completed_at": "2026-11-20T07:04:36.912388+00:00",
+  "duration_ms": 68989,
+  "targets_scanned": [
+    "draft.sh"
+  ],
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 0,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "fullhunt",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 71,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 88,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 200,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 260,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 320,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 17,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 499,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 976,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1189,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 117,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3079,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3097,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3550,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3099,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22054,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30881,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30744,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65988,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "draft.sh",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65539,
+      "error": null
+    }
+  ]
+}
