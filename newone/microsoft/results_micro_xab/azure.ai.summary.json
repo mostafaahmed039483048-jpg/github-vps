@@ -1,0 +1,596 @@
+{
+  "root_domain": "azure.ai",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T08:24:35.915892+00:00",
+  "completed_at": "2026-11-20T08:25:44.920324+00:00",
+  "duration_ms": 69004,
+  "targets_scanned": [
+    "azure.ai"
+  ],
+  "total_unique_findings": 60,
+  "fresh_findings_count": 60,
+  "historical_findings_count": 0,
+  "new_findings_count": 60,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "dnsdb",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 129,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 186,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 204,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 292,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 90,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 17,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 934,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 43,
+      "duration_ms": 851,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1190,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 54,
+      "duration_ms": 108,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3060,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3079,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3068,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3529,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 14198,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22064,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30695,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66000,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "azure.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65609,
+      "error": null
+    }
+  ]
+}
