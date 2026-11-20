@@ -1,0 +1,596 @@
+{
+  "root_domain": "doublefine.org",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T07:00:31.922537+00:00",
+  "completed_at": "2026-11-20T07:02:22.039189+00:00",
+  "duration_ms": 110116,
+  "targets_scanned": [
+    "doublefine.org"
+  ],
+  "total_unique_findings": 4,
+  "fresh_findings_count": 4,
+  "historical_findings_count": 0,
+  "new_findings_count": 4,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "arpsyndicate",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 69,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 191,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 203,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 281,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 14,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 467,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 980,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1323,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 109,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3069,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3049,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3297,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3129,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20782,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27102,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28455,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65985,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65633,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "doublefine.org",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 110106,
+      "error": null
+    }
+  ]
+}
