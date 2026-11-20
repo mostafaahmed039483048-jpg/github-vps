@@ -1,23 +1,39 @@
 {
   "root_domain": "bingaroundtown.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:54:22.920732+00:00",
-  "completed_at": "2026-11-20T06:55:52.998761+00:00",
-  "duration_ms": 90078,
+  "started_at": "2026-11-20T20:14:43.039087+00:00",
+  "completed_at": "2026-11-20T20:15:54.071380+00:00",
+  "duration_ms": 71032,
   "targets_scanned": [
     "bingaroundtown.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
+      "resource": "dnsdumpster",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,111 +57,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bufferover",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +73,39 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "censys",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +121,39 @@
       "error": null
     },
     {
+      "resource": "domainsproject",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "fullhunt",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +169,23 @@
       "error": null
     },
     {
+      "resource": "dnsrepo",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "argosdns",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,19 +201,11 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "binaryedge",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 23,
       "error": null
     },
     {
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "abuseipdb",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,19 +241,11 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
       "error": null
     },
     {
@@ -273,7 +257,15 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "digitorus",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -290,6 +282,14 @@
     },
     {
       "resource": "onyphe",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 75,
       "error": null
     },
     {
@@ -337,11 +329,19 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 176,
+      "duration_ms": 220,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 200,
+      "duration_ms": 230,
       "error": null
     },
     {
@@ -361,27 +361,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42,
-      "error": null
-    },
-    {
       "resource": "hackertarget",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 283,
+      "duration_ms": 247,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "reconeer",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -393,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "robtex",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 476,
+      "duration_ms": 431,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1251,
+      "duration_ms": 1261,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1296,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 96,
+      "duration_ms": 1448,
       "error": null
     },
     {
@@ -457,11 +449,19 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 107,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3050,
+      "duration_ms": 3201,
       "error": null
     },
     {
@@ -469,11 +469,11 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3036,
+      "duration_ms": 3142,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,19 +497,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "bingaroundtown.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingaroundtown.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3471,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3093,
+      "duration_ms": 3111,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29358,
+      "duration_ms": 31083,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29328,
+      "duration_ms": 43735,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61690,
+      "duration_ms": 61353,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65195,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65645,
+      "duration_ms": 65749,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingaroundtown.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 90068,
+      "duration_ms": 71023,
       "error": null
     }
   ]

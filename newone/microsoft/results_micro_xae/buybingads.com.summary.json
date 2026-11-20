@@ -1,87 +1,23 @@
 {
   "root_domain": "buybingads.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:00:47.922447+00:00",
-  "completed_at": "2026-11-20T07:01:54.911002+00:00",
-  "duration_ms": 66988,
+  "started_at": "2026-11-20T20:14:08.268431+00:00",
+  "completed_at": "2026-11-20T20:16:01.247080+00:00",
+  "duration_ms": 112978,
   "targets_scanned": [
     "buybingads.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
+      "resource": "coderog",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "chinaz",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "dnsrepo",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "dnsdumpster",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,15 +57,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "fullhunt",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "bufferover",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "domscan",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "bevigil",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "certspotter",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "chaos",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,11 +129,91 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "arpsyndicate",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
       "error": null
     },
     {
@@ -225,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 21,
-      "error": null
-    },
-    {
       "resource": "merklemap",
       "target": "buybingads.com",
       "recursion_depth": 0,
@@ -249,19 +249,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
-      "error": null
-    },
-    {
-      "resource": "odin",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 62,
       "error": null
     },
     {
@@ -273,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "odin",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 73,
+      "duration_ms": 83,
       "error": null
     },
     {
@@ -337,6 +337,14 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 172,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "buybingads.com",
       "recursion_depth": 0,
@@ -349,15 +357,7 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 295,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 248,
       "error": null
     },
     {
@@ -366,14 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 425,
       "error": null
     },
     {
@@ -390,6 +382,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 15,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 469,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1120,
+      "duration_ms": 517,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1245,
+      "duration_ms": 967,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1126,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,23 +453,15 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 100,
+      "duration_ms": 104,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1402,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 8,
+      "duration_ms": 3053,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3070,
       "error": null
     },
     {
@@ -497,7 +497,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "sitedossier",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3363,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +513,7 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3040,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3057,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3300,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3050,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "buybingads.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31738,
+      "duration_ms": 3111,
       "error": null
     },
     {
@@ -573,7 +549,23 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44861,
+      "duration_ms": 26432,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31314,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61456,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65966,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "buybingads.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65546,
+      "duration_ms": 62702,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "buybingads.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 112969,
       "error": null
     }
   ]
