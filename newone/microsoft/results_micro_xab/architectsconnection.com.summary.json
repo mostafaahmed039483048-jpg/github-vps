@@ -1,15 +1,15 @@
 {
   "root_domain": "architectsconnection.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:14:32.932015+00:00",
-  "completed_at": "2026-11-20T07:16:08.921360+00:00",
-  "duration_ms": 95989,
+  "started_at": "2026-11-20T20:27:50.263280+00:00",
+  "completed_at": "2026-11-20T20:29:37.318562+00:00",
+  "duration_ms": 107055,
   "targets_scanned": [
     "architectsconnection.com"
   ],
-  "total_unique_findings": 1,
-  "fresh_findings_count": 1,
-  "historical_findings_count": 0,
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 1,
   "new_findings_count": 1,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
@@ -17,7 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "c99",
+      "resource": "driftnet",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,15 +33,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "dnsdumpster",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,135 +49,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "binaryedge",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +65,151 @@
       "error": null
     },
     {
+      "resource": "dnsrepo",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "fofa",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,19 +225,19 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
       "resource": "digitorus",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -249,14 +257,6 @@
       "error": null
     },
     {
-      "resource": "odin",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "netlas",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
@@ -265,15 +265,15 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "profundis",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "odin",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "quake",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,19 +309,11 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 80,
+      "duration_ms": 116,
       "error": null
     },
     {
       "resource": "rapidapi",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,11 +329,19 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
+      "duration_ms": 189,
       "error": null
     },
     {
@@ -349,19 +349,27 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 217,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 225,
       "error": null
     },
     {
       "resource": "redhuntlabs",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 255,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 287,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 474,
+      "duration_ms": 493,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1170,
+      "duration_ms": 1228,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1697,
+      "duration_ms": 1446,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 100,
+      "duration_ms": 112,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3038,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -481,15 +473,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3070,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,7 +481,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "shrewdeye",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3038,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -517,7 +509,15 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 3360,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 3080,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11354,
+      "duration_ms": 6953,
       "error": null
     },
     {
@@ -557,7 +557,15 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31645,
+      "duration_ms": 30455,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "architectsconnection.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 54771,
       "error": null
     },
     {
@@ -565,7 +573,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61586,
+      "duration_ms": 61716,
       "error": null
     },
     {
@@ -573,15 +581,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65971,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "architectsconnection.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65596,
+      "duration_ms": 65972,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "architectsconnection.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 95980,
+      "duration_ms": 107045,
       "error": null
     }
   ]

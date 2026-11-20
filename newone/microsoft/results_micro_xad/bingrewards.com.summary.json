@@ -1,15 +1,15 @@
 {
   "root_domain": "bingrewards.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:08:39.921130+00:00",
-  "completed_at": "2026-11-20T07:09:45.915969+00:00",
-  "duration_ms": 65994,
+  "started_at": "2026-11-20T20:28:55.248793+00:00",
+  "completed_at": "2026-11-20T20:30:03.410008+00:00",
+  "duration_ms": 68161,
   "targets_scanned": [
     "bingrewards.com"
   ],
-  "total_unique_findings": 3,
-  "fresh_findings_count": 3,
-  "historical_findings_count": 0,
+  "total_unique_findings": 6,
+  "fresh_findings_count": 6,
+  "historical_findings_count": 3,
   "new_findings_count": 3,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
@@ -17,151 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +33,55 @@
       "error": null
     },
     {
+      "resource": "google",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bufferover",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "domainsproject",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +113,95 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "arpsyndicate",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +213,11 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 22,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "huntermap",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "leakix",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,7 +253,15 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 67,
+      "duration_ms": 65,
       "error": null
     },
     {
@@ -333,7 +333,7 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 176,
+      "duration_ms": 189,
       "error": null
     },
     {
@@ -349,15 +349,7 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 261,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 232,
       "error": null
     },
     {
@@ -365,11 +357,11 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 303,
+      "duration_ms": 247,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "redhuntlabs",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,19 +377,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
+      "resource": "rsecloud",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 13,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 509,
+      "duration_ms": 510,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 985,
+      "duration_ms": 1200,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1734,
+      "duration_ms": 1517,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 113,
+      "duration_ms": 103,
       "error": null
     },
     {
@@ -461,7 +461,15 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
+      "duration_ms": 3062,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3043,
       "error": null
     },
     {
@@ -481,23 +489,7 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 15,
-      "error": null
-    },
-    {
       "resource": "virustotal",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3050,
+      "duration_ms": 3270,
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "whoisfreaks",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3288,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,31 +541,7 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3068,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 29203,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29175,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingrewards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49915,
+      "duration_ms": 3093,
       "error": null
     },
     {
@@ -581,7 +549,31 @@
       "target": "bingrewards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61538,
+      "duration_ms": 15790,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30517,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 5,
+      "duration_ms": 56204,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61756,
       "error": null
     },
     {
@@ -590,6 +582,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 65985,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingrewards.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 68150,
       "error": null
     }
   ]
