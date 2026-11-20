@@ -1,9 +1,9 @@
 {
   "root_domain": "aureliae.run",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:02:52.922758+00:00",
-  "completed_at": "2026-11-20T08:04:01.912005+00:00",
-  "duration_ms": 68989,
+  "started_at": "2026-11-20T21:32:52.331780+00:00",
+  "completed_at": "2026-11-20T21:34:01.245599+00:00",
+  "duration_ms": 68913,
   "targets_scanned": [
     "aureliae.run"
   ],
@@ -17,111 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "google",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsdumpster",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "coderog",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,15 +41,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
+      "resource": "binaryedge",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "c99",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +65,15 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "bufferover",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +97,30 @@
       "error": null
     },
     {
+      "resource": "github",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "driftnet",
       "target": "aureliae.run",
       "recursion_depth": 0,
@@ -209,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "certspotter",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +137,75 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "chaos",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,15 +233,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 37,
-      "error": null
-    },
-    {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,6 +257,30 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "onyphe",
       "target": "aureliae.run",
       "recursion_depth": 0,
@@ -282,14 +290,6 @@
     },
     {
       "resource": "profundis",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 68,
+      "duration_ms": 64,
       "error": null
     },
     {
@@ -329,14 +329,6 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 197,
-      "error": null
-    },
-    {
       "resource": "rapidscan",
       "target": "aureliae.run",
       "recursion_depth": 0,
@@ -349,15 +341,15 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 240,
+      "duration_ms": 220,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "alienvault",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 272,
+      "duration_ms": 248,
       "error": null
     },
     {
@@ -369,6 +361,22 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 252,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 91,
+      "error": null
+    },
+    {
       "resource": "robtex",
       "target": "aureliae.run",
       "recursion_depth": 0,
@@ -377,23 +385,7 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shodan",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 494,
+      "duration_ms": 488,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 921,
+      "duration_ms": 1132,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1055,
+      "duration_ms": 1825,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 104,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
+      "duration_ms": 3068,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3069,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -501,7 +501,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -521,7 +521,7 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "zoomeyeapi",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,7 +529,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "windvane",
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,7 +541,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3070,
+      "duration_ms": 3102,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11382,
+      "duration_ms": 19366,
       "error": null
     },
     {
@@ -557,15 +557,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30397,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "aureliae.run",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 47088,
+      "duration_ms": 32025,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61742,
+      "duration_ms": 61773,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65981,
+      "duration_ms": 65902,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "aureliae.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 67343,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "aureliae.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65605,
+      "duration_ms": 65492,
       "error": null
     }
   ]

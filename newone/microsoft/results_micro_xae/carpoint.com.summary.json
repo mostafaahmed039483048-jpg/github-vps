@@ -1,159 +1,23 @@
 {
   "root_domain": "carpoint.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:01:40.915867+00:00",
-  "completed_at": "2026-11-20T08:02:49.914508+00:00",
-  "duration_ms": 68998,
+  "started_at": "2026-11-20T21:32:43.262059+00:00",
+  "completed_at": "2026-11-20T21:33:49.246108+00:00",
+  "duration_ms": 65984,
   "targets_scanned": [
     "carpoint.com"
   ],
-  "total_unique_findings": 4,
-  "fresh_findings_count": 4,
-  "historical_findings_count": 0,
-  "new_findings_count": 4,
+  "total_unique_findings": 12,
+  "fresh_findings_count": 12,
+  "historical_findings_count": 4,
+  "new_findings_count": 8,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "github",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "domscan",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,6 +41,14 @@
       "error": null
     },
     {
+      "resource": "fofa",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bufferover",
       "target": "carpoint.com",
       "recursion_depth": 0,
@@ -185,7 +57,95 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "certspotter",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +161,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "github",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "driftnet",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +177,35 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "argosdns",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +241,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "leakix",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,27 +309,11 @@
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 68,
+      "duration_ms": 81,
       "error": null
     },
     {
       "resource": "rapidapi",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 105,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,23 +329,47 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 195,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 242,
+      "duration_ms": 196,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 270,
       "error": null
     },
     {
       "resource": "redhuntlabs",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 275,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -381,11 +389,11 @@
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50,
+      "duration_ms": 57,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "shodan",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,27 +409,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 278,
+      "duration_ms": 32,
       "error": null
     },
     {
@@ -429,7 +421,15 @@
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 561,
+      "duration_ms": 506,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1275,
       "error": null
     },
     {
@@ -437,16 +437,8 @@
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1163,
+      "duration_ms": 1716,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "thc",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 4,
-      "duration_ms": 125,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -457,11 +449,19 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 4,
+      "duration_ms": 113,
+      "error": null
+    },
+    {
+      "resource": "riddler",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2907,
+      "duration_ms": 3040,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3063,
+      "error": null
+    },
+    {
       "resource": "urlscan",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36,
       "error": null
     },
     {
@@ -505,19 +505,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3050,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3269,
       "error": null
     },
     {
@@ -537,27 +537,27 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3089,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3072,
+      "duration_ms": 3061,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 9,
+      "duration_ms": 4900,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22037,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32066,
+      "duration_ms": 30249,
       "error": null
     },
     {
@@ -573,7 +573,15 @@
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45255,
+      "duration_ms": 45075,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "carpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61402,
       "error": null
     },
     {
@@ -581,15 +589,7 @@
       "target": "carpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65991,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "carpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66003,
+      "duration_ms": 65969,
       "error": null
     }
   ]

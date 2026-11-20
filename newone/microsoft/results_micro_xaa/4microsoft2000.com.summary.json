@@ -1,55 +1,23 @@
 {
   "root_domain": "4microsoft2000.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:59:37.919251+00:00",
-  "completed_at": "2026-11-20T08:00:43.919953+00:00",
-  "duration_ms": 66000,
+  "started_at": "2026-11-20T21:32:32.512865+00:00",
+  "completed_at": "2026-11-20T21:34:03.315772+00:00",
+  "duration_ms": 90802,
   "targets_scanned": [
     "4microsoft2000.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "coderog",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "google",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "dnsdumpster",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "bevigil",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,47 +57,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "binaryedge",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "dnsrepo",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "arpsyndicate",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "domainsproject",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "domscan",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,6 +121,62 @@
       "error": null
     },
     {
+      "resource": "censys",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "facebook",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
@@ -201,7 +185,23 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "builtwith",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,15 +217,23 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "huntermap",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "digitorus",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 40,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,30 +249,6 @@
       "error": null
     },
     {
-      "resource": "leakix",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34,
-      "error": null
-    },
-    {
-      "resource": "netlas",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
@@ -273,7 +257,15 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "abuseipdb",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 60,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "onyphe",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 76,
+      "duration_ms": 73,
       "error": null
     },
     {
@@ -321,23 +321,7 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 200,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -349,15 +333,31 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 216,
+      "duration_ms": 245,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rapidscan",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 254,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 267,
       "error": null
     },
     {
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 279,
+      "duration_ms": 76,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 427,
+      "duration_ms": 444,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 919,
+      "duration_ms": 1216,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1070,
+      "duration_ms": 1244,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 117,
+      "duration_ms": 116,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3077,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3086,
       "error": null
     },
     {
@@ -485,7 +477,15 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 3078,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -494,14 +494,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "4microsoft2000.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34,
       "error": null
     },
     {
@@ -521,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3366,
       "error": null
     },
     {
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3307,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,7 +541,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3111,
+      "duration_ms": 3110,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 13577,
+      "duration_ms": 16921,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30065,
+      "duration_ms": 25416,
       "error": null
     },
     {
@@ -573,15 +565,15 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31625,
+      "duration_ms": 32881,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "threatminer",
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65988,
+      "duration_ms": 61593,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "4microsoft2000.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65988,
+      "duration_ms": 65720,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "4microsoft2000.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 90791,
       "error": null
     }
   ]
