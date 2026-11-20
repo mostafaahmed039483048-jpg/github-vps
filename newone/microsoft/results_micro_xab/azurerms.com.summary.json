@@ -1,0 +1,596 @@
+{
+  "root_domain": "azurerms.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T23:38:01.001419+00:00",
+  "completed_at": "2026-11-20T23:39:10.250811+00:00",
+  "duration_ms": 69249,
+  "targets_scanned": [
+    "azurerms.com"
+  ],
+  "total_unique_findings": 33,
+  "fresh_findings_count": 33,
+  "historical_findings_count": 0,
+  "new_findings_count": 33,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "chinaz",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 228,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 245,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 296,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 15,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 27,
+      "duration_ms": 868,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 925,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1496,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3085,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3114,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3366,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3148,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28228,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32778,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61481,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65233,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 6,
+      "duration_ms": 68672,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "azurerms.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65791,
+      "error": null
+    }
+  ]
+}
