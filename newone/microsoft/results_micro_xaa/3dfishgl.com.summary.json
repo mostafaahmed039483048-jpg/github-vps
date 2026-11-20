@@ -1,87 +1,23 @@
 {
   "root_domain": "3dfishgl.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:52:49.920405+00:00",
-  "completed_at": "2026-11-20T07:53:58.914315+00:00",
-  "duration_ms": 68993,
+  "started_at": "2026-11-20T21:24:04.247980+00:00",
+  "completed_at": "2026-11-20T21:25:10.245574+00:00",
+  "duration_ms": 65997,
   "targets_scanned": [
     "3dfishgl.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "censys",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,103 +33,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "argosdns",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +49,171 @@
       "error": null
     },
     {
+      "resource": "domainsproject",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "digitorus",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -233,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "merklemap",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "merklemap",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,7 +261,15 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,15 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 71,
+      "duration_ms": 110,
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "alienvault",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 194,
       "error": null
     },
     {
@@ -337,11 +337,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapidscan",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 215,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 252,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -365,19 +365,11 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 305,
+      "duration_ms": 283,
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "reconeer",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 468,
+      "duration_ms": 452,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1177,
+      "duration_ms": 936,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2144,
+      "duration_ms": 1025,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 103,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 107,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3050,
+      "duration_ms": 3042,
       "error": null
     },
     {
@@ -469,11 +469,11 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3063,
+      "duration_ms": 3111,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -494,6 +494,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3359,
       "error": null
     },
     {
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3297,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,35 +537,19 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3093,
+      "duration_ms": 3074,
       "error": null
     },
     {
-      "resource": "reconcloud",
+      "resource": "waybackarchive",
       "target": "3dfishgl.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30699,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41026,
+      "findings_count": 1,
+      "duration_ms": 6524,
       "error": null
     },
     {
@@ -565,7 +557,23 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42981,
+      "duration_ms": 12287,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30465,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "3dfishgl.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42063,
       "error": null
     },
     {
@@ -573,7 +581,7 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61353,
+      "duration_ms": 61471,
       "error": null
     },
     {
@@ -581,15 +589,7 @@
       "target": "3dfishgl.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "3dfishgl.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65587,
+      "duration_ms": 65986,
       "error": null
     }
   ]
