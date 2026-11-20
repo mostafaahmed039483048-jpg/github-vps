@@ -1,37 +1,21 @@
 {
   "root_domain": "app-me-up.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:53:56.932078+00:00",
-  "completed_at": "2026-11-20T06:55:05.914130+00:00",
-  "duration_ms": 68982,
+  "started_at": "2026-11-20T20:06:02.497442+00:00",
+  "completed_at": "2026-11-20T20:07:11.248934+00:00",
+  "duration_ms": 68751,
   "targets_scanned": [
     "app-me-up.com"
   ],
   "total_unique_findings": 3,
   "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "historical_findings_count": 3,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "arpsyndicate",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "github",
       "target": "app-me-up.com",
@@ -41,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "coderog",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +41,15 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "chaos",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +65,71 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "builtwith",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,71 +153,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "digitalyama",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "censys",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,15 +177,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "google",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +193,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "fullhunt",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,19 +221,11 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
+      "duration_ms": 36,
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29,
-      "error": null
-    },
-    {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,7 +249,15 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "digitorus",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 70,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,6 +281,14 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "pugrecon",
       "target": "app-me-up.com",
       "recursion_depth": 0,
@@ -305,23 +305,15 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "anubis",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 95,
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,11 +337,35 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 260,
+      "duration_ms": 212,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -357,11 +373,11 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 267,
+      "duration_ms": 262,
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "rsecloud",
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -374,22 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 554,
+      "duration_ms": 454,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 955,
+      "duration_ms": 1113,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
+      "duration_ms": 2114,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 99,
+      "duration_ms": 120,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3033,
+      "duration_ms": 3064,
       "error": null
     },
     {
@@ -477,7 +477,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3040,
+      "duration_ms": 3061,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "app-me-up.com",
       "recursion_depth": 0,
@@ -517,7 +509,15 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 3274,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3075,
+      "duration_ms": 3073,
       "error": null
     },
     {
@@ -549,31 +549,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28456,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31844,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61580,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "app-me-up.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65972,
+      "duration_ms": 17395,
       "error": null
     },
     {
@@ -581,7 +557,31 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65972,
+      "duration_ms": 20076,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32338,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41957,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "app-me-up.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65738,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "app-me-up.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65604,
+      "duration_ms": 65397,
       "error": null
     }
   ]
