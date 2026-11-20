@@ -1,0 +1,596 @@
+{
+  "root_domain": "bingsemmaster.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T07:53:15.925015+00:00",
+  "completed_at": "2026-11-20T07:54:21.913241+00:00",
+  "duration_ms": 65988,
+  "targets_scanned": [
+    "bingsemmaster.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "github",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 79,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 209,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 243,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 285,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 489,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1231,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1376,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 105,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3049,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3063,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3388,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3102,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26244,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27844,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34973,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41940,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50594,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingsemmaster.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65973,
+      "error": null
+    }
+  ]
+}
