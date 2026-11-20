@@ -1,0 +1,596 @@
+{
+  "root_domain": "adfs-senate.services",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T23:52:17.254147+00:00",
+  "completed_at": "2026-11-20T23:53:26.247169+00:00",
+  "duration_ms": 68993,
+  "targets_scanned": [
+    "adfs-senate.services"
+  ],
+  "total_unique_findings": 3,
+  "fresh_findings_count": 3,
+  "historical_findings_count": 0,
+  "new_findings_count": 3,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "c99",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 63,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 179,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 206,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 249,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 13,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 508,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 985,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1139,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 96,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3054,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3054,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3274,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3268,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26573,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33101,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41382,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61879,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65982,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "adfs-senate.services",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65657,
+      "error": null
+    }
+  ]
+}
