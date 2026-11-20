@@ -1,71 +1,23 @@
 {
   "root_domain": "20yearsofwindowsserver.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:37:30.919143+00:00",
-  "completed_at": "2026-11-20T07:38:36.917817+00:00",
-  "duration_ms": 65998,
+  "started_at": "2026-11-20T21:00:55.247110+00:00",
+  "completed_at": "2026-11-20T21:02:57.257940+00:00",
+  "duration_ms": 122010,
   "targets_scanned": [
     "20yearsofwindowsserver.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "bufferover",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "google",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "fofa",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,55 +41,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "arpsyndicate",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "dnsdb",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,31 +65,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "builtwith",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +81,127 @@
       "error": null
     },
     {
+      "resource": "censys",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "facebook",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +229,7 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -253,7 +253,7 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 40,
       "error": null
     },
     {
@@ -273,6 +273,14 @@
       "error": null
     },
     {
+      "resource": "pugrecon",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "onyphe",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
@@ -282,14 +290,6 @@
     },
     {
       "resource": "profundis",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 148,
       "error": null
     },
     {
@@ -325,7 +325,7 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 192,
+      "duration_ms": 228,
       "error": null
     },
     {
@@ -345,11 +345,19 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 228,
+      "duration_ms": 287,
       "error": null
     },
     {
@@ -358,14 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 289,
       "error": null
     },
     {
@@ -389,15 +389,7 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 484,
+      "duration_ms": 448,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1111,
       "error": null
     },
     {
@@ -429,16 +437,8 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 919,
+      "duration_ms": 1193,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1208,
-      "error": null
     },
     {
       "resource": "thc",
@@ -461,19 +461,11 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 3068,
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3048,
-      "error": null
-    },
-    {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +473,15 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "shrewdeye",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3053,
+      "error": null
+    },
+    {
+      "resource": "trickest",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +505,23 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "whoisxml",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "sitedossier",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3284,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,27 +537,19 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3292,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 3093,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20379,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30717,
+      "duration_ms": 31838,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43651,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "20yearsofwindowsserver.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 52161,
+      "duration_ms": 35321,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65977,
+      "duration_ms": 65998,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "20yearsofwindowsserver.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65615,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "20yearsofwindowsserver.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65977,
+      "duration_ms": 122001,
       "error": null
     }
   ]
