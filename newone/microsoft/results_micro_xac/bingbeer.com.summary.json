@@ -1,45 +1,21 @@
 {
   "root_domain": "bingbeer.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:06:29.926623+00:00",
-  "completed_at": "2026-11-20T07:07:38.914013+00:00",
-  "duration_ms": 68987,
+  "started_at": "2026-11-20T20:28:24.320361+00:00",
+  "completed_at": "2026-11-20T20:30:30.262374+00:00",
+  "duration_ms": 125942,
   "targets_scanned": [
     "bingbeer.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "chaos",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "dnsdb",
       "target": "bingbeer.com",
@@ -49,103 +25,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "chaos",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "dnsrepo",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,6 +57,22 @@
       "error": null
     },
     {
+      "resource": "chinaz",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "c99",
       "target": "bingbeer.com",
       "recursion_depth": 0,
@@ -185,7 +81,119 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "google",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +209,15 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "abuseipdb",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,19 +233,11 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "merklemap",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 21,
       "error": null
     },
     {
@@ -241,7 +249,15 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "digitorus",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "profundis",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -270,22 +286,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66,
       "error": null
     },
     {
@@ -305,7 +305,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "rapidapi",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -313,7 +313,23 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "anubis",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 100,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 179,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,27 +345,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 195,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 228,
+      "duration_ms": 242,
       "error": null
     },
     {
@@ -361,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hudsonrock",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 287,
+      "duration_ms": 250,
       "error": null
     },
     {
@@ -393,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "reconeer",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 63,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 13,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 462,
+      "duration_ms": 453,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1192,
+      "duration_ms": 1015,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1445,
+      "duration_ms": 1498,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 104,
+      "duration_ms": 107,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3044,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
+      "resource": "trickest",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shrewdeye",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 3045,
       "error": null
     },
     {
@@ -513,19 +513,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "sitedossier",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
-      "error": null
-    },
-    {
-      "resource": "windvane",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3361,
       "error": null
     },
     {
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3293,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,23 +541,7 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31390,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingbeer.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 58053,
+      "duration_ms": 3077,
       "error": null
     },
     {
@@ -573,7 +549,23 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61464,
+      "duration_ms": 25387,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28887,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61469,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65979,
+      "duration_ms": 65915,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingbeer.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65629,
+      "duration_ms": 65551,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingbeer.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 125933,
       "error": null
     }
   ]
