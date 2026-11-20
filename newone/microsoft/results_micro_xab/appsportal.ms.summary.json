@@ -1,63 +1,23 @@
 {
   "root_domain": "appsportal.ms",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:02:35.918103+00:00",
-  "completed_at": "2026-11-20T07:03:44.913380+00:00",
-  "duration_ms": 68995,
+  "started_at": "2026-11-20T20:14:07.321067+00:00",
+  "completed_at": "2026-11-20T20:15:21.755521+00:00",
+  "duration_ms": 74434,
   "targets_scanned": [
     "appsportal.ms"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "github",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
+      "resource": "builtwith",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "facebook",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +41,39 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "c99",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,23 +89,23 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "driftnet",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,6 +129,14 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "certspotter",
       "target": "appsportal.ms",
       "recursion_depth": 0,
@@ -145,23 +145,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "censys",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +161,31 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "fofa",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,15 +201,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "domscan",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,15 +229,7 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -249,11 +241,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "merklemap",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,7 +257,23 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
+      "error": null
+    },
+    {
       "resource": "odin",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,27 +297,11 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 71,
       "error": null
     },
     {
@@ -321,6 +313,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 89,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "appsportal.ms",
       "recursion_depth": 0,
@@ -329,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "hudsonrock",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 105,
+      "duration_ms": 202,
       "error": null
     },
     {
@@ -349,7 +349,15 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 193,
+      "duration_ms": 203,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 247,
       "error": null
     },
     {
@@ -361,27 +369,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 230,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "reconeer",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -393,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "robtex",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 274,
+      "duration_ms": 87,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 520,
+      "duration_ms": 505,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 974,
+      "duration_ms": 1215,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1330,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,15 +453,15 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 97,
+      "duration_ms": 110,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1130,
+      "duration_ms": 3046,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3048,
+      "error": null
+    },
+    {
       "resource": "urlscan",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3042,
       "error": null
     },
     {
@@ -505,11 +505,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3065,
+      "duration_ms": 3271,
       "error": null
     },
     {
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "appsportal.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3293,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3068,
+      "duration_ms": 3095,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 8873,
+      "duration_ms": 27153,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29608,
+      "duration_ms": 31319,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41812,
+      "duration_ms": 61868,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 65908,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "appsportal.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65713,
+      "duration_ms": 65525,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "appsportal.ms",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 74420,
       "error": null
     }
   ]
