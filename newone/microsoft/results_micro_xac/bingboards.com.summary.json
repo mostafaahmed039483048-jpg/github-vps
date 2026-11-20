@@ -1,183 +1,23 @@
 {
   "root_domain": "bingboards.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:17:45.920198+00:00",
-  "completed_at": "2026-11-20T07:18:51.913537+00:00",
-  "duration_ms": 65993,
+  "started_at": "2026-11-20T20:47:17.955814+00:00",
+  "completed_at": "2026-11-20T20:50:00.258199+00:00",
+  "duration_ms": 162302,
   "targets_scanned": [
     "bingboards.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "builtwith",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,6 +33,78 @@
       "error": null
     },
     {
+      "resource": "google",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "chaos",
       "target": "bingboards.com",
       "recursion_depth": 0,
@@ -201,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "facebook",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +121,87 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "argosdns",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "driftnet",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,23 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
       "resource": "merklemap",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,15 +257,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 33,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "odin",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "digitorus",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,7 @@
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 72,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 142,
       "error": null
     },
     {
@@ -337,19 +329,35 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "hudsonrock",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 125,
+      "duration_ms": 227,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapidscan",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 195,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 266,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 83,
       "error": null
     },
     {
@@ -361,11 +369,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rapiddns",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 226,
+      "duration_ms": 450,
       "error": null
     },
     {
@@ -377,23 +385,7 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shodan",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,27 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 283,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 517,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -437,15 +421,23 @@
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1176,
+      "duration_ms": 1226,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "thc",
+      "resource": "myssl",
       "target": "bingboards.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 98,
+      "findings_count": 0,
+      "duration_ms": 1594,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3060,
       "error": null
     },
     {
@@ -457,11 +449,19 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 142,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1375,
+      "duration_ms": 3082,
       "error": null
     },
     {
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3038,
+      "duration_ms": 3490,
       "error": null
     },
     {
@@ -497,22 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3048,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "bingboards.com",
       "recursion_depth": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "threatcrowd",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3102,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,35 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "zoomeyeapi",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3292,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3065,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20703,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingboards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29884,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -573,15 +541,31 @@
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45231,
+      "duration_ms": 5246,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "alienvault",
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50037,
+      "duration_ms": 21472,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31755,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61520,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "bingboards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 65279,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65515,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingboards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 162293,
       "error": null
     }
   ]

@@ -1,21 +1,29 @@
 {
   "root_domain": "aryxnw.xyz",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:28:33.918970+00:00",
-  "completed_at": "2026-11-20T07:29:42.911621+00:00",
-  "duration_ms": 68992,
+  "started_at": "2026-11-20T20:49:02.669679+00:00",
+  "completed_at": "2026-11-20T20:50:11.247825+00:00",
+  "duration_ms": 68578,
   "targets_scanned": [
     "aryxnw.xyz"
   ],
   "total_unique_findings": 3,
   "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "historical_findings_count": 3,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
+    {
+      "resource": "fofa",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
     {
       "resource": "bufferover",
       "target": "aryxnw.xyz",
@@ -33,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "domainsproject",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "dnsdumpster",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "fullhunt",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,31 +65,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "dnsdb",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,23 +89,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "coderog",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,6 +105,22 @@
       "error": null
     },
     {
+      "resource": "google",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "binaryedge",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
@@ -145,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "domscan",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "argosdns",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +145,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "bevigil",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,23 +153,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "chaos",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,11 +169,51 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "c99",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -225,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "netlas",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
@@ -257,15 +265,15 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "anubis",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 82,
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "profundis",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
@@ -313,19 +313,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "digitorus",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 92,
       "error": null
     },
     {
@@ -333,7 +325,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 183,
+      "duration_ms": 236,
       "error": null
     },
     {
@@ -349,15 +341,15 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 194,
+      "duration_ms": 235,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rapidfinder",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -366,6 +358,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 242,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -385,11 +393,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "shodan",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 280,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 492,
+      "duration_ms": 520,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 886,
+      "duration_ms": 931,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 928,
+      "duration_ms": 915,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -453,15 +453,15 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 115,
+      "duration_ms": 105,
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "crtsh",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3052,
+      "duration_ms": 1338,
       "error": null
     },
     {
@@ -473,14 +473,6 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3055,
-      "error": null
-    },
-    {
       "resource": "trickest",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
@@ -489,7 +481,31 @@
       "error": null
     },
     {
+      "resource": "riddler",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3067,
+      "error": null
+    },
+    {
       "resource": "virustotal",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "aryxnw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3103,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +521,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3300,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
+      "resource": "windvane",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,11 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -541,7 +549,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3119,
+      "duration_ms": 3078,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27735,
+      "duration_ms": 25772,
       "error": null
     },
     {
@@ -557,7 +565,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30247,
+      "duration_ms": 32073,
       "error": null
     },
     {
@@ -565,15 +573,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61703,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "aryxnw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65978,
+      "duration_ms": 61642,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65978,
+      "duration_ms": 65569,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "aryxnw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65619,
+      "duration_ms": 65259,
       "error": null
     }
   ]
