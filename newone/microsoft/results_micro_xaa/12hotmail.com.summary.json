@@ -1,9 +1,9 @@
 {
   "root_domain": "12hotmail.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-19T21:02:25.726435+00:00",
-  "completed_at": "2026-11-19T21:03:34.806753+00:00",
-  "duration_ms": 69080,
+  "started_at": "2026-11-20T06:51:35.916521+00:00",
+  "completed_at": "2026-11-20T06:52:44.913861+00:00",
+  "duration_ms": 68997,
   "targets_scanned": [
     "12hotmail.com"
   ],
@@ -17,87 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "fofa",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +33,31 @@
       "error": null
     },
     {
+      "resource": "digitalyama",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "binaryedge",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "dnsdumpster",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,55 +89,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "argosdns",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +105,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "coderog",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +113,99 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "fullhunt",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,7 +217,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,23 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22,
+      "error": null
+    },
+    {
       "resource": "leakix",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,23 +265,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 26,
       "error": null
     },
     {
       "resource": "pugrecon",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,11 +309,11 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 94,
+      "duration_ms": 58,
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -333,7 +325,15 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 171,
+      "duration_ms": 196,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -345,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 279,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 288,
+      "duration_ms": 218,
       "error": null
     },
     {
@@ -369,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 282,
       "error": null
     },
     {
@@ -382,6 +374,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 79,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 576,
+      "duration_ms": 516,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 971,
+      "duration_ms": 1188,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1178,
+      "duration_ms": 1573,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -453,7 +453,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 107,
+      "duration_ms": 117,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3066,
       "error": null
     },
     {
@@ -477,11 +469,19 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3077,
+      "duration_ms": 3106,
       "error": null
     },
     {
       "resource": "urlscan",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,7 +497,7 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,7 +505,7 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -517,7 +517,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3291,
+      "duration_ms": 3385,
       "error": null
     },
     {
@@ -541,23 +541,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3096,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 9239,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "12hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30306,
+      "duration_ms": 3121,
       "error": null
     },
     {
@@ -565,7 +549,23 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49459,
+      "duration_ms": 10520,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30661,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "12hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57063,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61389,
+      "duration_ms": 61348,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65066,
+      "duration_ms": 65987,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "12hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65618,
+      "duration_ms": 65567,
       "error": null
     }
   ]
