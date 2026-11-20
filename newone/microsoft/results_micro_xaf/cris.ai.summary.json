@@ -1,47 +1,23 @@
 {
   "root_domain": "cris.ai",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:24:42.917335+00:00",
-  "completed_at": "2026-11-20T08:25:48.915457+00:00",
-  "duration_ms": 65998,
+  "started_at": "2026-11-20T21:54:30.251442+00:00",
+  "completed_at": "2026-11-20T21:55:39.253774+00:00",
+  "duration_ms": 69002,
   "targets_scanned": [
     "cris.ai"
   ],
   "total_unique_findings": 37,
-  "fresh_findings_count": 37,
-  "historical_findings_count": 0,
-  "new_findings_count": 37,
-  "reused_historical_findings_count": 0,
+  "fresh_findings_count": 23,
+  "historical_findings_count": 37,
+  "new_findings_count": 0,
+  "reused_historical_findings_count": 14,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsrepo",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "domainsproject",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,111 +33,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "google",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "coderog",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +57,55 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "fofa",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +121,70 @@
       "error": null
     },
     {
+      "resource": "dnsdumpster",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domscan",
       "target": "cris.ai",
       "recursion_depth": 0,
@@ -209,7 +193,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "argosdns",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +217,35 @@
       "error": null
     },
     {
+      "resource": "intelx",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 68,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "abuseipdb",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 70,
       "error": null
     },
     {
@@ -257,19 +273,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "profundis",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
       "error": null
     },
     {
@@ -289,27 +297,11 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 116,
       "error": null
     },
     {
@@ -321,19 +313,11 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "anubis",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 186,
+      "duration_ms": 94,
       "error": null
     },
     {
@@ -345,19 +329,27 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 217,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 260,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 313,
+      "duration_ms": 231,
       "error": null
     },
     {
@@ -373,7 +365,7 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -385,15 +377,15 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "hackertarget",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 284,
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "robtex",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 18,
-      "duration_ms": 796,
+      "duration_ms": 756,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1164,
+      "duration_ms": 934,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1198,
+      "duration_ms": 1014,
       "error": null
     },
     {
@@ -449,27 +449,19 @@
       "error": null
     },
     {
+      "resource": "crtsh",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1157,
+      "error": null
+    },
+    {
       "resource": "thc",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 16,
-      "duration_ms": 114,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3074,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3036,
+      "duration_ms": 105,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3065,
       "error": null
     },
     {
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3044,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "cris.ai",
       "recursion_depth": 0,
@@ -510,14 +518,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3398,
+      "duration_ms": 3370,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3053,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "cris.ai",
-      "recursion_depth": 0,
-      "findings_count": 22,
-      "duration_ms": 9894,
+      "duration_ms": 3080,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 13211,
+      "duration_ms": 18355,
       "error": null
     },
     {
@@ -573,15 +565,15 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31754,
+      "duration_ms": 30843,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "threatminer",
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65797,
+      "duration_ms": 61621,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "cris.ai",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 65981,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "cris.ai",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65637,
       "error": null
     }
   ]

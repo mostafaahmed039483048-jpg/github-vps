@@ -1,16 +1,16 @@
 {
   "root_domain": "azureaccelerator.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:22:20.924109+00:00",
-  "completed_at": "2026-11-20T08:23:26.924629+00:00",
-  "duration_ms": 66000,
+  "started_at": "2026-11-20T21:54:59.325127+00:00",
+  "completed_at": "2026-11-20T21:56:08.247066+00:00",
+  "duration_ms": 68921,
   "targets_scanned": [
     "azureaccelerator.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -18,86 +18,6 @@
   "resource_executions": [
     {
       "resource": "fullhunt",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,55 +33,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsrepo",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +57,63 @@
       "error": null
     },
     {
+      "resource": "domscan",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "facebook",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +129,14 @@
       "error": null
     },
     {
+      "resource": "binaryedge",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "driftnet",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
@@ -209,11 +145,67 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "coderog",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -222,6 +214,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -249,7 +249,15 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "digitorus",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,15 +265,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 87,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -333,7 +333,7 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 188,
+      "duration_ms": 187,
       "error": null
     },
     {
@@ -345,19 +345,19 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 289,
-      "error": null
-    },
-    {
       "resource": "hackertarget",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 305,
+      "duration_ms": 249,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 263,
       "error": null
     },
     {
@@ -369,6 +369,14 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
       "resource": "rsecloud",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
@@ -377,23 +385,7 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
       "resource": "robtex",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shodan",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 468,
+      "duration_ms": 447,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 952,
+      "duration_ms": 1212,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1837,
+      "duration_ms": 1668,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 123,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -461,7 +461,15 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
+      "duration_ms": 3051,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3051,
       "error": null
     },
     {
@@ -481,14 +489,6 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34,
-      "error": null
-    },
-    {
       "resource": "virustotal",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3048,
+      "duration_ms": 3363,
       "error": null
     },
     {
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3296,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3097,
+      "duration_ms": 3091,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 10398,
+      "duration_ms": 7720,
       "error": null
     },
     {
@@ -565,15 +557,7 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29593,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "azureaccelerator.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49573,
+      "duration_ms": 29433,
       "error": null
     },
     {
@@ -581,7 +565,15 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 63983,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61369,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "azureaccelerator.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65908,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "azureaccelerator.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65540,
       "error": null
     }
   ]

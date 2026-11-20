@@ -1,183 +1,23 @@
 {
   "root_domain": "aazure.net",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:16:11.931377+00:00",
-  "completed_at": "2026-11-20T08:18:05.914011+00:00",
-  "duration_ms": 113982,
+  "started_at": "2026-11-20T21:53:45.083679+00:00",
+  "completed_at": "2026-11-20T21:55:47.882907+00:00",
+  "duration_ms": 122799,
   "targets_scanned": [
     "aazure.net"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chinaz",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "domainsproject",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +33,71 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "digitalyama",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +113,95 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "chaos",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "bevigil",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -226,6 +210,22 @@
     },
     {
       "resource": "huntermap",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "netlas",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,19 +265,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "abuseipdb",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 42,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "onyphe",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,11 +309,11 @@
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 78,
+      "duration_ms": 99,
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,11 +329,19 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 183,
+      "duration_ms": 231,
       "error": null
     },
     {
@@ -349,7 +349,15 @@
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 232,
+      "duration_ms": 235,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -361,14 +369,6 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 57,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
       "target": "aazure.net",
       "recursion_depth": 0,
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 301,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 527,
+      "duration_ms": 506,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1039,
       "error": null
     },
     {
@@ -429,15 +437,15 @@
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1207,
+      "duration_ms": 1270,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "aazure.net",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1285,
+      "findings_count": 1,
+      "duration_ms": 96,
       "error": null
     },
     {
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 108,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3067,
       "error": null
     },
     {
@@ -477,11 +469,19 @@
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3187,
+      "duration_ms": 3050,
       "error": null
     },
     {
       "resource": "urlscan",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,22 +497,6 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3396,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "aazure.net",
       "recursion_depth": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3285,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,43 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3092,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30003,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31619,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61728,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "aazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65968,
+      "duration_ms": 3082,
       "error": null
     },
     {
@@ -581,7 +549,39 @@
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65461,
+      "duration_ms": 15361,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29163,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30267,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61335,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "aazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65150,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "aazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 113970,
+      "duration_ms": 122788,
       "error": null
     }
   ]
