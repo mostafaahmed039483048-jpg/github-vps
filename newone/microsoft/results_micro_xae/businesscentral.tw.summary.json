@@ -1,143 +1,23 @@
 {
   "root_domain": "businesscentral.tw",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:55:06.919052+00:00",
-  "completed_at": "2026-11-20T06:56:12.915459+00:00",
-  "duration_ms": 65996,
+  "started_at": "2026-11-20T20:07:31.249268+00:00",
+  "completed_at": "2026-11-20T20:08:40.247208+00:00",
+  "duration_ms": 68997,
   "targets_scanned": [
     "businesscentral.tw"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "argosdns",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "digitalyama",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,6 +33,14 @@
       "error": null
     },
     {
+      "resource": "builtwith",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domainsproject",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
@@ -161,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "argosdns",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "fofa",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -178,6 +66,22 @@
     },
     {
       "resource": "dnsdb",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +105,103 @@
       "error": null
     },
     {
+      "resource": "coderog",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "chinaz",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,19 +217,19 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
       "resource": "intelx",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 43,
       "error": null
     },
     {
@@ -241,14 +241,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
@@ -257,7 +249,15 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "digitorus",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,23 @@
       "error": null
     },
     {
+      "resource": "pugrecon",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,15 +317,7 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 88,
-      "error": null
-    },
-    {
-      "resource": "rapidapi",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 103,
       "error": null
     },
     {
@@ -341,7 +341,15 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 192,
+      "duration_ms": 204,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
       "error": null
     },
     {
@@ -349,7 +357,7 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 230,
+      "duration_ms": 250,
       "error": null
     },
     {
@@ -361,14 +369,6 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
@@ -377,23 +377,15 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43,
+      "error": null
+    },
+    {
       "resource": "robtex",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 296,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 506,
+      "duration_ms": 513,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 950,
+      "duration_ms": 1005,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1195,
+      "duration_ms": 1044,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 113,
+      "duration_ms": 116,
       "error": null
     },
     {
@@ -461,23 +461,7 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3042,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3043,
       "error": null
     },
     {
@@ -489,6 +473,22 @@
       "error": null
     },
     {
+      "resource": "trickest",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
       "resource": "virustotal",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
@@ -497,19 +497,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3107,
       "error": null
     },
     {
@@ -537,11 +537,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3069,
+      "duration_ms": 3092,
       "error": null
     },
     {
@@ -549,23 +557,7 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11442,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22045,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "businesscentral.tw",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20716,
+      "duration_ms": 9242,
       "error": null
     },
     {
@@ -573,15 +565,15 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31840,
+      "duration_ms": 29448,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "crtsh",
       "target": "businesscentral.tw",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 58745,
+      "findings_count": 2,
+      "duration_ms": 37145,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "businesscentral.tw",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65979,
+      "duration_ms": 65995,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "businesscentral.tw",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65665,
       "error": null
     }
   ]

@@ -1,47 +1,23 @@
 {
   "root_domain": "appnexus.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:55:05.921498+00:00",
-  "completed_at": "2026-11-20T06:56:15.003814+00:00",
-  "duration_ms": 69082,
+  "started_at": "2026-11-20T20:07:11.256883+00:00",
+  "completed_at": "2026-11-20T20:08:17.322689+00:00",
+  "duration_ms": 66065,
   "targets_scanned": [
     "appnexus.com"
   ],
-  "total_unique_findings": 580,
-  "fresh_findings_count": 580,
-  "historical_findings_count": 0,
-  "new_findings_count": 580,
-  "reused_historical_findings_count": 0,
+  "total_unique_findings": 581,
+  "fresh_findings_count": 548,
+  "historical_findings_count": 580,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 33,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
       "resource": "binaryedge",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,135 +33,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bevigil",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +49,54 @@
       "error": null
     },
     {
+      "resource": "dnsrepo",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bufferover",
       "target": "appnexus.com",
       "recursion_depth": 0,
@@ -209,7 +105,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "facebook",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +113,99 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "fofa",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 40,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,6 +241,14 @@
       "error": null
     },
     {
+      "resource": "leakix",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "appnexus.com",
       "recursion_depth": 0,
@@ -257,19 +257,19 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 74,
+      "duration_ms": 85,
       "error": null
     },
     {
@@ -318,6 +318,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 15,
+      "duration_ms": 253,
       "error": null
     },
     {
@@ -333,23 +349,15 @@
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
+      "duration_ms": 257,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "hackertarget",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 14,
-      "duration_ms": 193,
+      "duration_ms": 302,
       "error": null
     },
     {
@@ -358,14 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 283,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 62,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 77,
-      "duration_ms": 952,
+      "duration_ms": 525,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1219,
+      "duration_ms": 1129,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2955,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 511,
-      "duration_ms": 311,
+      "duration_ms": 1782,
       "error": null
     },
     {
@@ -457,11 +449,11 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "thc",
       "target": "appnexus.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "findings_count": 511,
+      "duration_ms": 322,
       "error": null
     },
     {
@@ -469,23 +461,7 @@
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3056,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 3048,
       "error": null
     },
     {
@@ -497,7 +473,23 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "urlscan",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,19 +505,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3298,
-      "error": null
-    },
-    {
-      "resource": "windvane",
+      "resource": "whoisfreaks",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3090,
       "error": null
     },
     {
@@ -537,27 +529,27 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3411,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3063,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 12182,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20747,
+      "duration_ms": 3068,
       "error": null
     },
     {
@@ -565,23 +557,7 @@
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29199,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 110,
-      "duration_ms": 61164,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "appnexus.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 32119,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "appnexus.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65631,
+      "duration_ms": 56221,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61351,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65057,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "appnexus.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65977,
       "error": null
     }
   ]
