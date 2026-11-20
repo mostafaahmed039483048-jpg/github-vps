@@ -1,165 +1,21 @@
 {
   "root_domain": "ct-ccla-poc.net",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:46:51.924808+00:00",
-  "completed_at": "2026-11-20T08:48:00.911759+00:00",
-  "duration_ms": 68986,
+  "started_at": "2026-11-20T22:24:49.250998+00:00",
+  "completed_at": "2026-11-20T22:25:58.245707+00:00",
+  "duration_ms": 68994,
   "targets_scanned": [
     "ct-ccla-poc.net"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "censys",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "driftnet",
       "target": "ct-ccla-poc.net",
@@ -177,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "dnsrepo",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "digitalyama",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +49,47 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "arpsyndicate",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +105,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "c99",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,7 +113,103 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "builtwith",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +221,15 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 31,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "netlas",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
@@ -261,23 +269,7 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
-      "error": null
-    },
-    {
-      "resource": "netlas",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,11 +309,11 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 72,
+      "duration_ms": 71,
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapidscan",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 181,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -349,15 +341,23 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 234,
+      "duration_ms": 181,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "alienvault",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 280,
+      "duration_ms": 190,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -366,14 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
       "error": null
     },
     {
@@ -390,6 +382,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 257,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 440,
+      "duration_ms": 517,
       "error": null
     },
     {
@@ -429,23 +429,23 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 942,
+      "duration_ms": 946,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 1129,
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "thc",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3045,
+      "findings_count": 1,
+      "duration_ms": 107,
       "error": null
     },
     {
@@ -457,19 +457,19 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 105,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
+      "resource": "riddler",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3293,
+      "duration_ms": 3055,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "threatminer",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -505,15 +505,23 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "whoisxml",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3103,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "shrewdeye",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3166,
+      "error": null
+    },
+    {
+      "resource": "windvane",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,43 +537,19 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3494,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "threatcrowd",
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23153,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 26988,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32304,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "ct-ccla-poc.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61294,
+      "duration_ms": 3088,
       "error": null
     },
     {
@@ -573,7 +557,23 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65978,
+      "duration_ms": 22052,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27068,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "ct-ccla-poc.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31862,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65978,
+      "duration_ms": 65992,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "ct-ccla-poc.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65172,
+      "duration_ms": 65678,
       "error": null
     }
   ]
