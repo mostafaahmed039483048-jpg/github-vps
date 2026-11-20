@@ -1,191 +1,23 @@
 {
   "root_domain": "azure4research.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:21:11.928260+00:00",
-  "completed_at": "2026-11-20T08:22:20.916866+00:00",
-  "duration_ms": 68988,
+  "started_at": "2026-11-20T21:52:37.249455+00:00",
+  "completed_at": "2026-11-20T21:54:59.320407+00:00",
+  "duration_ms": 142070,
   "targets_scanned": [
     "azure4research.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsrepo",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "google",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +41,167 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "domainsproject",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "arpsyndicate",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "abuseipdb",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,6 +241,30 @@
       "error": null
     },
     {
+      "resource": "leakix",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 73,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "azure4research.com",
       "recursion_depth": 0,
@@ -257,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 62,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "pugrecon",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "azure4research.com",
       "recursion_depth": 0,
@@ -305,27 +305,19 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 96,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 70,
       "error": null
     },
     {
@@ -349,7 +341,15 @@
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 179,
+      "duration_ms": 233,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 249,
       "error": null
     },
     {
@@ -361,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hudsonrock",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 52,
+      "duration_ms": 253,
       "error": null
     },
     {
@@ -377,23 +377,15 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
       "resource": "robtex",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 239,
-      "error": null
-    },
-    {
-      "resource": "shodan",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 306,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 456,
+      "duration_ms": 469,
       "error": null
     },
     {
@@ -437,16 +429,16 @@
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 974,
+      "duration_ms": 1050,
       "error": null
     },
     {
-      "resource": "thc",
+      "resource": "racent",
       "target": "azure4research.com",
       "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 117,
-      "error": null
+      "findings_count": 0,
+      "duration_ms": 1189,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "threatbook",
@@ -457,12 +449,20 @@
       "error": null
     },
     {
-      "resource": "racent",
+      "resource": "thc",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 100,
+      "error": null
+    },
+    {
+      "resource": "riddler",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1241,
-      "error": "'list' object has no attribute 'get'"
+      "duration_ms": 3044,
+      "error": null
     },
     {
       "resource": "urlscan",
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3052,
+      "duration_ms": 3102,
       "error": null
     },
     {
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3487,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "azure4research.com",
       "recursion_depth": 0,
@@ -510,14 +518,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3043,
       "error": null
     },
     {
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "azure4research.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3297,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3100,
+      "duration_ms": 3155,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 12806,
+      "duration_ms": 11225,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30518,
+      "duration_ms": 32859,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42277,
+      "duration_ms": 61436,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65965,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "azure4research.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65679,
+      "duration_ms": 65556,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "azure4research.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 142061,
       "error": null
     }
   ]
