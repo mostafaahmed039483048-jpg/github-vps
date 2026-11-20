@@ -1,15 +1,15 @@
 {
   "root_domain": "account.microsoft",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:57:15.921343+00:00",
-  "completed_at": "2026-11-20T08:58:32.916385+00:00",
-  "duration_ms": 76995,
+  "started_at": "2026-11-20T22:39:28.248542+00:00",
+  "completed_at": "2026-11-20T22:40:37.246974+00:00",
+  "duration_ms": 68998,
   "targets_scanned": [
     "account.microsoft"
   ],
-  "total_unique_findings": 1,
-  "fresh_findings_count": 1,
-  "historical_findings_count": 0,
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 1,
   "new_findings_count": 1,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
@@ -25,39 +25,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "certspotter",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "fofa",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +49,31 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "github",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "arpsyndicate",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,15 +97,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "dnsrepo",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "domainsproject",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,39 +137,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "digitalyama",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +153,55 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "argosdns",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,23 +217,15 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 37,
+      "error": null
+    },
+    {
       "resource": "huntermap",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 38,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,6 +241,30 @@
       "error": null
     },
     {
+      "resource": "merklemap",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 62,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "account.microsoft",
       "recursion_depth": 0,
@@ -257,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
-      "error": null
-    },
-    {
-      "resource": "netlas",
+      "resource": "onyphe",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,14 +290,6 @@
     },
     {
       "resource": "pugrecon",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 101,
+      "duration_ms": 67,
       "error": null
     },
     {
@@ -325,7 +325,7 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 174,
+      "duration_ms": 230,
       "error": null
     },
     {
@@ -345,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "hackertarget",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 193,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 246,
       "error": null
     },
     {
@@ -369,6 +361,14 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 251,
+      "error": null
+    },
+    {
       "resource": "rsecloud",
       "target": "account.microsoft",
       "recursion_depth": 0,
@@ -377,19 +377,19 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44,
+      "error": null
+    },
+    {
       "resource": "robtex",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 283,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 509,
+      "duration_ms": 462,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 983,
+      "duration_ms": 1260,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1219,
+      "duration_ms": 1698,
       "error": null
     },
     {
@@ -461,19 +461,19 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 3049,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 10,
+      "duration_ms": 3049,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,19 +505,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3059,
       "error": null
     },
     {
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3293,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3092,
+      "duration_ms": 3097,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 12977,
+      "duration_ms": 13027,
       "error": null
     },
     {
@@ -565,7 +557,23 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31237,
+      "duration_ms": 33069,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 40573,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "account.microsoft",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61300,
       "error": null
     },
     {
@@ -573,7 +581,7 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -581,15 +589,7 @@
       "target": "account.microsoft",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65686,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "account.microsoft",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 76984,
+      "duration_ms": 65628,
       "error": null
     }
   ]
