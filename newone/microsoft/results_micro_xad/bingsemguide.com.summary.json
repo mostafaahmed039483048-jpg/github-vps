@@ -1,95 +1,23 @@
 {
   "root_domain": "bingsemguide.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:52:06.915961+00:00",
-  "completed_at": "2026-11-20T07:53:15.913529+00:00",
-  "duration_ms": 68997,
+  "started_at": "2026-11-20T21:30:10.256196+00:00",
+  "completed_at": "2026-11-20T21:32:34.261008+00:00",
+  "duration_ms": 144004,
   "targets_scanned": [
     "bingsemguide.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chinaz",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "fullhunt",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,6 +33,94 @@
       "error": null
     },
     {
+      "resource": "c99",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "facebook",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
@@ -113,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "coderog",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,55 +153,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "builtwith",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "argosdns",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +177,31 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "certspotter",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +213,19 @@
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 33,
       "error": null
     },
     {
       "resource": "intelx",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,7 +261,7 @@
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 79,
+      "duration_ms": 39,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 82,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
@@ -313,19 +321,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "alienvault",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 92,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 181,
       "error": null
     },
     {
@@ -337,31 +337,7 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 235,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 303,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 325,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rapidscan",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -369,7 +345,23 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "hudsonrock",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 196,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 73,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,15 +377,15 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 289,
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "robtex",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 508,
+      "duration_ms": 625,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1132,
       "error": null
     },
     {
@@ -429,15 +437,15 @@
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1181,
+      "duration_ms": 1231,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 2156,
+      "findings_count": 1,
+      "duration_ms": 101,
       "error": null
     },
     {
@@ -449,23 +457,23 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 104,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3032,
+      "duration_ms": 3073,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3066,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -473,15 +481,7 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 26,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "sitedossier",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -513,15 +513,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3081,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "zoomeyeapi",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3297,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,15 +541,7 @@
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31038,
+      "duration_ms": 3072,
       "error": null
     },
     {
@@ -565,23 +549,15 @@
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42896,
+      "duration_ms": 13787,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "reconcloud",
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65995,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingsemguide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65995,
+      "duration_ms": 31394,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "bingsemguide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65603,
+      "duration_ms": 35777,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61320,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65980,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingsemguide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 143995,
       "error": null
     }
   ]

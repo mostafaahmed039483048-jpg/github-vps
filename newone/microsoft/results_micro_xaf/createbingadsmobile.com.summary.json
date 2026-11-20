@@ -1,23 +1,23 @@
 {
   "root_domain": "createbingadsmobile.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:06:38.926650+00:00",
-  "completed_at": "2026-11-20T08:08:36.013616+00:00",
-  "duration_ms": 117086,
+  "started_at": "2026-11-20T21:31:47.254350+00:00",
+  "completed_at": "2026-11-20T21:32:56.245027+00:00",
+  "duration_ms": 68990,
   "targets_scanned": [
     "createbingadsmobile.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "binaryedge",
+      "resource": "facebook",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "digitalyama",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "arpsyndicate",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "fofa",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "domscan",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,47 +65,7 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "chaos",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "bevigil",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +97,23 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "chinaz",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "dnsrepo",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +137,23 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "domainsproject",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,15 +177,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "c99",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +193,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "google",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "coderog",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,19 +217,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 51,
-      "error": null
-    },
-    {
-      "resource": "netlas",
+      "resource": "intelx",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35,
       "error": null
     },
     {
@@ -265,11 +249,19 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "netlas",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,11 +309,11 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 99,
+      "duration_ms": 83,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "rapidapi",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -341,27 +333,11 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 212,
+      "duration_ms": 198,
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 255,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 43,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rapidfinder",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -373,11 +349,19 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 302,
+      "duration_ms": 255,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "hudsonrock",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 280,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "reconeer",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 659,
+      "duration_ms": 552,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1352,
+      "duration_ms": 1281,
       "error": null
     },
     {
@@ -437,16 +437,8 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1460,
+      "duration_ms": 1928,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "threatbook",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
     },
     {
       "resource": "thc",
@@ -457,27 +449,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3056,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 9,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "threatbook",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3204,
       "error": null
     },
     {
@@ -489,7 +473,7 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -501,15 +485,23 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
+      "duration_ms": 3221,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "virustotal",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3515,
       "error": null
     },
     {
@@ -521,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisxml",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "zoomeyeapi",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3294,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,7 +541,7 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3104,
+      "duration_ms": 3147,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26320,
+      "duration_ms": 5790,
       "error": null
     },
     {
@@ -565,23 +557,15 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29628,
+      "duration_ms": 32583,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "threatminer",
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65988,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "createbingadsmobile.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65606,
+      "duration_ms": 61436,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "createbingadsmobile.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 117075,
+      "duration_ms": 65451,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65981,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "createbingadsmobile.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65421,
       "error": null
     }
   ]
