@@ -1,39 +1,23 @@
 {
   "root_domain": "cheatscodesforxbox.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T09:01:07.919129+00:00",
-  "completed_at": "2026-11-20T09:02:13.911343+00:00",
-  "duration_ms": 65992,
+  "started_at": "2026-11-20T22:46:14.695016+00:00",
+  "completed_at": "2026-11-20T22:48:41.259361+00:00",
+  "duration_ms": 146564,
   "targets_scanned": [
     "cheatscodesforxbox.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "censys",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,23 +33,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "fofa",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,79 +49,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "chaos",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,6 +65,30 @@
       "error": null
     },
     {
+      "resource": "arpsyndicate",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
@@ -177,7 +97,95 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bevigil",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,11 +209,11 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "abuseipdb",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -217,23 +225,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
-      "error": null
-    },
-    {
       "resource": "huntermap",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,19 +241,11 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 67,
       "error": null
     },
     {
@@ -273,7 +257,15 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "digitorus",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,6 +274,14 @@
     },
     {
       "resource": "pugrecon",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,11 +305,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "anubis",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 178,
+      "duration_ms": 106,
       "error": null
     },
     {
@@ -321,19 +321,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 178,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 184,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 251,
+      "duration_ms": 234,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 298,
+      "duration_ms": 242,
       "error": null
     },
     {
@@ -381,7 +381,7 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 469,
+      "duration_ms": 443,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1189,
       "error": null
     },
     {
@@ -429,15 +437,15 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 925,
+      "duration_ms": 1230,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1103,
+      "findings_count": 1,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -449,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
+      "resource": "riddler",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 113,
+      "findings_count": 0,
+      "duration_ms": 3061,
       "error": null
     },
     {
@@ -461,11 +469,11 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3070,
+      "duration_ms": 3076,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -473,15 +481,7 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3133,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "sitedossier",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3279,
       "error": null
     },
     {
@@ -513,15 +513,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3294,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3140,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29802,
+      "duration_ms": 3166,
       "error": null
     },
     {
@@ -557,23 +549,15 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42427,
+      "duration_ms": 7880,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "reconcloud",
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49547,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "cheatscodesforxbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 58601,
+      "duration_ms": 33091,
       "error": null
     },
     {
@@ -581,7 +565,7 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61443,
+      "duration_ms": 61281,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "cheatscodesforxbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65976,
+      "duration_ms": 65542,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65164,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cheatscodesforxbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 146556,
       "error": null
     }
   ]

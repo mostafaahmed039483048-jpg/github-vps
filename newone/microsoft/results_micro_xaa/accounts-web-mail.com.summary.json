@@ -1,0 +1,596 @@
+{
+  "root_domain": "accounts-web-mail.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T22:48:12.257295+00:00",
+  "completed_at": "2026-11-20T22:49:18.246782+00:00",
+  "duration_ms": 65989,
+  "targets_scanned": [
+    "accounts-web-mail.com"
+  ],
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 0,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "dnsrepo",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 71,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 109,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 193,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 216,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 249,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 75,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 461,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1060,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 201,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1826,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3119,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3213,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3471,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3103,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18813,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33079,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35572,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61450,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "accounts-web-mail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65977,
+      "error": null
+    }
+  ]
+}
