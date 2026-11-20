@@ -1,23 +1,31 @@
 {
   "root_domain": "arcjumpstart.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:17:17.919426+00:00",
-  "completed_at": "2026-11-20T07:18:26.912315+00:00",
-  "duration_ms": 68992,
+  "started_at": "2026-11-20T20:32:21.254322+00:00",
+  "completed_at": "2026-11-20T20:33:52.148272+00:00",
+  "duration_ms": 90893,
   "targets_scanned": [
     "arcjumpstart.com"
   ],
   "total_unique_findings": 5,
   "fresh_findings_count": 5,
-  "historical_findings_count": 0,
-  "new_findings_count": 5,
+  "historical_findings_count": 5,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "certspotter",
+      "resource": "google",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "fullhunt",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,7 +49,23 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "github",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "bufferover",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,31 +97,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "chaos",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "arpsyndicate",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "censys",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +129,15 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "dnsdb",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,6 +153,14 @@
       "error": null
     },
     {
+      "resource": "chinaz",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domscan",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
@@ -153,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "bevigil",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +177,23 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "dnsrepo",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -170,38 +202,6 @@
     },
     {
       "resource": "binaryedge",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +225,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -249,39 +249,23 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "odin",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
       "error": null
     },
     {
       "resource": "netlas",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "odin",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "onyphe",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +289,15 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "profundis",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,15 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 63,
+      "duration_ms": 95,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -341,7 +341,15 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 196,
+      "duration_ms": 201,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 267,
       "error": null
     },
     {
@@ -349,7 +357,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 228,
+      "duration_ms": 271,
       "error": null
     },
     {
@@ -361,11 +369,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "rsecloud",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 292,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -374,14 +382,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 64,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 606,
+      "duration_ms": 446,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1185,
+      "duration_ms": 1115,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1195,
+      "duration_ms": 1245,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -445,7 +445,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 4,
-      "duration_ms": 119,
+      "duration_ms": 101,
       "error": null
     },
     {
@@ -457,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3061,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "trickest",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3042,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3335,
       "error": null
     },
     {
@@ -497,19 +497,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3390,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3506,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3070,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 5,
-      "duration_ms": 20123,
+      "duration_ms": 3060,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30917,
+      "duration_ms": 33128,
       "error": null
     },
     {
@@ -565,23 +557,7 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46039,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61330,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "arcjumpstart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65981,
+      "duration_ms": 34394,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "arcjumpstart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65629,
+      "duration_ms": 49377,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61675,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65982,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "arcjumpstart.com",
+      "recursion_depth": 0,
+      "findings_count": 5,
+      "duration_ms": 90883,
       "error": null
     }
   ]

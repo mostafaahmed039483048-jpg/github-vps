@@ -1,9 +1,9 @@
 {
   "root_domain": "2006homtail.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:17:03.918735+00:00",
-  "completed_at": "2026-11-20T07:18:09.913304+00:00",
-  "duration_ms": 65994,
+  "started_at": "2026-11-20T20:30:35.263009+00:00",
+  "completed_at": "2026-11-20T20:33:12.258969+00:00",
+  "duration_ms": 156995,
   "targets_scanned": [
     "2006homtail.com"
   ],
@@ -17,127 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdumpster",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "facebook",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "dnsrepo",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "dnsdumpster",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +49,15 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "certspotter",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +81,111 @@
       "error": null
     },
     {
+      "resource": "argosdns",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domscan",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +201,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "dnsdb",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -225,15 +217,15 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "abuseipdb",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 49,
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "huntermap",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +241,19 @@
       "error": null
     },
     {
+      "resource": "leakix",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "digitorus",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 52,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 71,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "2006homtail.com",
       "recursion_depth": 0,
@@ -321,11 +313,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "anubis",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 104,
+      "duration_ms": 77,
       "error": null
     },
     {
@@ -349,7 +341,15 @@
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 183,
+      "duration_ms": 182,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 255,
       "error": null
     },
     {
@@ -357,19 +357,11 @@
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 216,
+      "duration_ms": 257,
       "error": null
     },
     {
       "resource": "redhuntlabs",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "robtex",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -393,6 +385,14 @@
       "error": null
     },
     {
+      "resource": "robtex",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "securitytrails",
       "target": "2006homtail.com",
       "recursion_depth": 0,
@@ -413,15 +413,7 @@
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 265,
+      "duration_ms": 20,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 503,
+      "duration_ms": 453,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 908,
+      "duration_ms": 1046,
       "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1155,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "threatbook",
@@ -449,19 +449,19 @@
       "error": null
     },
     {
-      "resource": "racent",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1003,
-      "error": "'list' object has no attribute 'get'"
-    },
-    {
       "resource": "thc",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 100,
+      "duration_ms": 115,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3090,
       "error": null
     },
     {
@@ -473,14 +473,6 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3039,
-      "error": null
-    },
-    {
       "resource": "trickest",
       "target": "2006homtail.com",
       "recursion_depth": 0,
@@ -489,11 +481,27 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3037,
+      "error": null
+    },
+    {
       "resource": "virustotal",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3362,
       "error": null
     },
     {
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "windvane",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,51 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3303,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3135,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 12450,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30975,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "2006homtail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61428,
+      "duration_ms": 3094,
       "error": null
     },
     {
@@ -581,7 +549,31 @@
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60383,
+      "duration_ms": 18596,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24749,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30018,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61485,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "2006homtail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65973,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "2006homtail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 156986,
       "error": null
     }
   ]

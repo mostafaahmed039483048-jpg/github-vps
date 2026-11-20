@@ -1,21 +1,125 @@
 {
   "root_domain": "buyofficemac.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:13:06.920265+00:00",
-  "completed_at": "2026-11-20T07:14:15.912187+00:00",
-  "duration_ms": 68991,
+  "started_at": "2026-11-20T20:31:52.261162+00:00",
+  "completed_at": "2026-11-20T20:33:54.259064+00:00",
+  "duration_ms": 121997,
   "targets_scanned": [
     "buyofficemac.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
+    {
+      "resource": "domainsproject",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
     {
       "resource": "github",
       "target": "buyofficemac.com",
@@ -33,87 +137,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "binaryedge",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "dnsdb",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,23 +161,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "certspotter",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +177,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "bufferover",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "censys",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "chinaz",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,35 +201,11 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "driftnet",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 27,
       "error": null
     },
     {
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "abuseipdb",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "leakix",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,7 +261,23 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 46,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 164,
+      "duration_ms": 103,
       "error": null
     },
     {
@@ -321,19 +321,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hudsonrock",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 178,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 224,
       "error": null
     },
     {
@@ -345,23 +337,39 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "rapidscan",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 287,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "alienvault",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 234,
       "error": null
     },
     {
       "resource": "redhuntlabs",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 292,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "reconeer",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 423,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 65,
       "error": null
     },
     {
@@ -413,7 +413,15 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 499,
       "error": null
     },
     {
@@ -421,23 +429,23 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 904,
+      "duration_ms": 1241,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 993,
-      "error": null
     },
     {
       "resource": "myssl",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1195,
+      "duration_ms": 1388,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 111,
       "error": null
     },
     {
@@ -449,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
+      "resource": "shrewdeye",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 103,
+      "findings_count": 0,
+      "duration_ms": 3167,
       "error": null
     },
     {
@@ -461,15 +469,7 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3063,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3366,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "trickest",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -513,19 +513,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
-      "error": null
-    },
-    {
-      "resource": "windvane",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3563,
       "error": null
     },
     {
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3294,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,23 +541,7 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3072,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22054,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "buyofficemac.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29981,
+      "duration_ms": 3182,
       "error": null
     },
     {
@@ -573,7 +549,23 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31600,
+      "duration_ms": 28424,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35664,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61695,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65988,
+      "duration_ms": 65974,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "buyofficemac.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65543,
+      "duration_ms": 64268,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "buyofficemac.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 121989,
       "error": null
     }
   ]
