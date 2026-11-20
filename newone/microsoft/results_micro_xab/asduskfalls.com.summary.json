@@ -1,23 +1,175 @@
 {
   "root_domain": "asduskfalls.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:31:54.931592+00:00",
-  "completed_at": "2026-11-20T07:33:03.914067+00:00",
-  "duration_ms": 68982,
+  "started_at": "2026-11-20T20:53:42.759857+00:00",
+  "completed_at": "2026-11-20T20:55:35.336034+00:00",
+  "duration_ms": 112576,
   "targets_scanned": [
     "asduskfalls.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
+      "resource": "bevigil",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "chinaz",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,135 +193,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "arpsyndicate",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,35 +209,11 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "huntermap",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35,
       "error": null
     },
     {
@@ -225,7 +225,15 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "abuseipdb",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,15 +249,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "netlas",
+      "resource": "odin",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,11 +261,11 @@
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 54,
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,27 +305,19 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 107,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 189,
       "error": null
     },
     {
@@ -337,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 194,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
@@ -345,19 +345,19 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 224,
-      "error": null
-    },
-    {
       "resource": "hackertarget",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 277,
+      "duration_ms": 243,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
       "error": null
     },
     {
@@ -369,22 +369,6 @@
       "error": null
     },
     {
-      "resource": "robtex",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 71,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "alienvault",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 337,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 499,
+      "duration_ms": 492,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1252,
+      "duration_ms": 991,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1381,
+      "duration_ms": 1328,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 103,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 96,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3053,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -505,23 +505,15 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3064,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,27 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31948,
+      "duration_ms": 3076,
       "error": null
     },
     {
@@ -557,15 +557,23 @@
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43555,
+      "duration_ms": 9925,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "reconcloud",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61565,
+      "duration_ms": 32087,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "asduskfalls.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 49159,
       "error": null
     },
     {
@@ -573,23 +581,15 @@
       "target": "asduskfalls.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65961,
+      "duration_ms": 65488,
       "error": null
     },
     {
       "resource": "crtsh",
       "target": "asduskfalls.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65961,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "asduskfalls.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65582,
+      "findings_count": 2,
+      "duration_ms": 112566,
       "error": null
     }
   ]

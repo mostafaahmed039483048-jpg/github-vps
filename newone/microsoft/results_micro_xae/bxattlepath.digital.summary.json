@@ -1,39 +1,23 @@
 {
   "root_domain": "bxattlepath.digital",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:29:43.921901+00:00",
-  "completed_at": "2026-11-20T07:30:53.913141+00:00",
-  "duration_ms": 69991,
+  "started_at": "2026-11-20T20:53:41.251011+00:00",
+  "completed_at": "2026-11-20T20:55:07.258919+00:00",
+  "duration_ms": 86007,
   "targets_scanned": [
     "bxattlepath.digital"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdumpster",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsrepo",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,23 +33,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "digitalyama",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,71 +49,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "bufferover",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "chinaz",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +73,15 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "chaos",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "builtwith",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +105,71 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "certspotter",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +185,23 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "fullhunt",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "github",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -226,6 +210,22 @@
     },
     {
       "resource": "huntermap",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "netlas",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,11 +265,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "abuseipdb",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 52,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 86,
+      "duration_ms": 87,
       "error": null
     },
     {
@@ -326,6 +326,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 197,
       "error": null
     },
     {
@@ -341,15 +349,7 @@
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 197,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 315,
+      "duration_ms": 199,
       "error": null
     },
     {
@@ -357,7 +357,15 @@
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 250,
       "error": null
     },
     {
@@ -366,14 +374,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 452,
       "error": null
     },
     {
@@ -393,7 +393,7 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "securitytrails",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,7 +401,7 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "shodan",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,15 +413,15 @@
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 26,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "rapiddns",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1084,
+      "duration_ms": 431,
       "error": null
     },
     {
@@ -429,23 +429,15 @@
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1470,
+      "duration_ms": 988,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3080,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 109,
+      "duration_ms": 1672,
       "error": null
     },
     {
@@ -457,11 +449,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "thc",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 97,
+      "error": null
+    },
+    {
+      "resource": "riddler",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 3039,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "shrewdeye",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3293,
+      "duration_ms": 3054,
       "error": null
     },
     {
@@ -497,15 +497,7 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3089,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "threatminer",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,27 +537,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "sitedossier",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18659,
+      "duration_ms": 3275,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "threatcrowd",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20794,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31935,
+      "duration_ms": 3089,
       "error": null
     },
     {
@@ -565,23 +557,15 @@
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 37019,
+      "duration_ms": 8534,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconcloud",
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64057,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "bxattlepath.digital",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65974,
+      "duration_ms": 33074,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "bxattlepath.digital",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65572,
+      "duration_ms": 30850,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bxattlepath.digital",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 85998,
       "error": null
     }
   ]
