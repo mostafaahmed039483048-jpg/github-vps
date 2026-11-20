@@ -1,29 +1,21 @@
 {
   "root_domain": "awsomepowerpointbackgrounds.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:12:06.922471+00:00",
-  "completed_at": "2026-11-20T08:13:12.920566+00:00",
-  "duration_ms": 65998,
+  "started_at": "2026-11-20T21:41:03.994702+00:00",
+  "completed_at": "2026-11-20T21:43:54.258190+00:00",
+  "duration_ms": 170263,
   "targets_scanned": [
     "awsomepowerpointbackgrounds.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "coderog",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "bevigil",
       "target": "awsomepowerpointbackgrounds.com",
@@ -33,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "certspotter",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,7 +33,15 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "domainsproject",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +57,47 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "dnsdumpster",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "digitalyama",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,23 +137,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsdb",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +161,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "binaryedge",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "c99",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,23 +177,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "driftnet",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "github",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,15 +201,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
+      "resource": "arpsyndicate",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,7 +213,7 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 42,
       "error": null
     },
     {
@@ -233,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "merklemap",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
@@ -249,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 67,
-      "error": null
-    },
-    {
-      "resource": "netlas",
+      "resource": "merklemap",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,11 +257,19 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "netlas",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -321,11 +313,27 @@
       "error": null
     },
     {
+      "resource": "rapidapi",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "rapidfinder",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 194,
       "error": null
     },
     {
@@ -341,7 +349,7 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 205,
+      "duration_ms": 222,
       "error": null
     },
     {
@@ -349,35 +357,11 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 306,
+      "duration_ms": 270,
       "error": null
     },
     {
       "resource": "redhuntlabs",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 52,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 468,
-      "error": null
-    },
-    {
-      "resource": "robtex",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "reconeer",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 13,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 443,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1195,
+      "duration_ms": 1167,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -429,23 +437,7 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1409,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3054,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 111,
+      "duration_ms": 1402,
       "error": null
     },
     {
@@ -457,23 +449,31 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 115,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3064,
+      "error": null
+    },
+    {
       "resource": "shrewdeye",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3099,
+      "duration_ms": 3047,
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,7 +497,7 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -509,19 +509,11 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 3359,
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,27 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3083,
+      "duration_ms": 3105,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "threatminer",
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 8010,
+      "duration_ms": 20412,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31449,
+      "duration_ms": 31709,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33027,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "awsomepowerpointbackgrounds.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49595,
+      "duration_ms": 44359,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65986,
+      "duration_ms": 65241,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "awsomepowerpointbackgrounds.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65902,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "awsomepowerpointbackgrounds.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65987,
+      "duration_ms": 170255,
       "error": null
     }
   ]
