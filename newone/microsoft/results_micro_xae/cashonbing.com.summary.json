@@ -1,135 +1,23 @@
 {
   "root_domain": "cashonbing.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:14:18.928643+00:00",
-  "completed_at": "2026-11-20T08:15:44.910933+00:00",
-  "duration_ms": 85982,
+  "started_at": "2026-11-20T21:51:03.261249+00:00",
+  "completed_at": "2026-11-20T21:52:12.247068+00:00",
+  "duration_ms": 68985,
   "targets_scanned": [
     "cashonbing.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "argosdns",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "bufferover",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "digitalyama",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +41,63 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "censys",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,6 +113,14 @@
       "error": null
     },
     {
+      "resource": "bevigil",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "google",
       "target": "cashonbing.com",
       "recursion_depth": 0,
@@ -177,7 +129,15 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "builtwith",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "dnsdb",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +161,63 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "domainsproject",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -214,22 +230,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34,
       "error": null
     },
     {
@@ -261,27 +261,11 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60,
+      "duration_ms": 34,
       "error": null
     },
     {
       "resource": "netlas",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "onyphe",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +289,15 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "profundis",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,27 +309,11 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 69,
+      "duration_ms": 78,
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 199,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
+      "resource": "rapidapi",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -349,7 +325,23 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 218,
+      "duration_ms": 190,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -357,7 +349,7 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 267,
+      "duration_ms": 254,
       "error": null
     },
     {
@@ -369,15 +361,15 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "alienvault",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 287,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "reconeer",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 541,
+      "duration_ms": 490,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1186,
+      "duration_ms": 1195,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1394,
+      "duration_ms": 1480,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 113,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 96,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3072,
+      "duration_ms": 3076,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3064,
-      "error": null
-    },
-    {
       "resource": "trickest",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3054,
       "error": null
     },
     {
@@ -505,23 +505,15 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "threatminer",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 111,
       "error": null
     },
     {
       "resource": "whoisxml",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,27 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3276,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3120,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20761,
+      "duration_ms": 3098,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28791,
+      "duration_ms": 30214,
       "error": null
     },
     {
@@ -565,23 +565,7 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32710,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65966,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "cashonbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65613,
+      "duration_ms": 31557,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "cashonbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85966,
+      "duration_ms": 65976,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65976,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "cashonbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65605,
       "error": null
     }
   ]

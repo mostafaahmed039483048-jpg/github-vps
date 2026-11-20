@@ -1,23 +1,23 @@
 {
   "root_domain": "creditcardbing.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:21:21.921463+00:00",
-  "completed_at": "2026-11-20T08:22:27.918822+00:00",
-  "duration_ms": 65997,
+  "started_at": "2026-11-20T21:51:09.796764+00:00",
+  "completed_at": "2026-11-20T21:52:15.261934+00:00",
+  "duration_ms": 65465,
   "targets_scanned": [
     "creditcardbing.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "argosdns",
+      "resource": "fullhunt",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "dnsrepo",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -34,6 +34,30 @@
     },
     {
       "resource": "fofa",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,15 +81,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "github",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,119 +97,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsdb",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "builtwith",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +121,99 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "argosdns",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -237,11 +229,11 @@
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 33,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "leakix",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,7 +257,15 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "digitorus",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,27 +305,19 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 93,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 113,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 115,
       "error": null
     },
     {
@@ -345,19 +337,19 @@
       "error": null
     },
     {
+      "resource": "crtsh",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 105,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 183,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 224,
+      "duration_ms": 181,
       "error": null
     },
     {
@@ -369,6 +361,22 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 48,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 251,
+      "error": null
+    },
+    {
       "resource": "rsecloud",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
@@ -377,23 +385,7 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 51,
-      "error": null
-    },
-    {
       "resource": "robtex",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shodan",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,27 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 18,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "hudsonrock",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 313,
+      "duration_ms": 274,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 485,
+      "duration_ms": 505,
       "error": null
     },
     {
@@ -437,8 +437,16 @@
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 919,
+      "duration_ms": 908,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 105,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 107,
-      "error": null
-    },
-    {
       "resource": "myssl",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2318,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1132,
       "error": null
     },
     {
@@ -481,15 +473,39 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "threatminer",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 13,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
       "resource": "virustotal",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "creditcardbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3042,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +521,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3077,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
+      "resource": "zoomeyeapi",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,11 +537,11 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "shrewdeye",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3050,
       "error": null
     },
     {
@@ -541,7 +549,7 @@
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 3274,
       "error": null
     },
     {
@@ -549,15 +557,7 @@
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3105,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "creditcardbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 5639,
+      "duration_ms": 3136,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 13986,
+      "duration_ms": 7132,
       "error": null
     },
     {
@@ -573,15 +573,15 @@
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32237,
+      "duration_ms": 30348,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "waybackarchive",
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42042,
+      "duration_ms": 30250,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "creditcardbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65987,
+      "duration_ms": 65457,
       "error": null
     }
   ]
