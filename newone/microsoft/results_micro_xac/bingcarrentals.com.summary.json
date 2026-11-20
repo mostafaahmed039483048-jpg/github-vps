@@ -1,143 +1,23 @@
 {
   "root_domain": "bingcarrentals.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:37:32.920414+00:00",
-  "completed_at": "2026-11-20T07:38:38.910892+00:00",
-  "duration_ms": 65990,
+  "started_at": "2026-11-20T21:20:31.254996+00:00",
+  "completed_at": "2026-11-20T21:23:25.259251+00:00",
+  "duration_ms": 174004,
   "targets_scanned": [
     "bingcarrentals.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
+      "resource": "domainsproject",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,6 +33,22 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdumpster",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
@@ -161,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "chaos",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +65,39 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "google",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "dnsdb",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +121,39 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "digitalyama",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +169,43 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "facebook",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -229,7 +221,7 @@
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -249,14 +241,6 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "merklemap",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
@@ -265,15 +249,15 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "anubis",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 63,
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "netlas",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,6 +281,22 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
@@ -305,27 +305,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 72,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 105,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 128,
       "error": null
     },
     {
@@ -349,7 +341,23 @@
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 247,
+      "duration_ms": 186,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 240,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -361,19 +369,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "reconeer",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 251,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 294,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -409,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 60,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 20,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 489,
+      "duration_ms": 493,
       "error": null
     },
     {
@@ -437,15 +429,23 @@
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 980,
+      "duration_ms": 1554,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2062,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 119,
+      "duration_ms": 113,
       "error": null
     },
     {
@@ -457,23 +457,15 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2149,
+      "duration_ms": 3054,
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +473,15 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3046,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +505,23 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "whoisxml",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3038,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "sitedossier",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3368,
+      "error": null
+    },
+    {
+      "resource": "windvane",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3034,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "bingcarrentals.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3286,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3131,
+      "duration_ms": 3086,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31018,
+      "duration_ms": 31996,
       "error": null
     },
     {
@@ -573,7 +557,7 @@
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29009,
+      "duration_ms": 31017,
       "error": null
     },
     {
@@ -581,7 +565,15 @@
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 62241,
+      "duration_ms": 54409,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61461,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingcarrentals.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65976,
+      "duration_ms": 65980,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingcarrentals.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 173995,
       "error": null
     }
   ]

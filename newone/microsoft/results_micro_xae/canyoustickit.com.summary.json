@@ -1,23 +1,23 @@
 {
   "root_domain": "canyoustickit.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:53:45.919953+00:00",
-  "completed_at": "2026-11-20T07:54:51.913707+00:00",
-  "duration_ms": 65993,
+  "started_at": "2026-11-20T21:22:25.404758+00:00",
+  "completed_at": "2026-11-20T21:24:01.318601+00:00",
+  "duration_ms": 95913,
   "targets_scanned": [
     "canyoustickit.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdb",
+      "resource": "facebook",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,39 +25,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "argosdns",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,55 +41,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "c99",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,55 +65,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "censys",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +81,131 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "dnsrepo",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -225,15 +217,15 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "abuseipdb",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 35,
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "huntermap",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +241,27 @@
       "error": null
     },
     {
+      "resource": "merklemap",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
       "error": null
     },
     {
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 76,
+      "duration_ms": 68,
       "error": null
     },
     {
@@ -321,19 +321,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hudsonrock",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 236,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 197,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rapidscan",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 236,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 254,
       "error": null
     },
     {
@@ -365,7 +365,15 @@
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 92,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 471,
       "error": null
     },
     {
@@ -382,14 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 311,
       "error": null
     },
     {
@@ -417,19 +417,11 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 483,
-      "error": null
-    },
-    {
       "resource": "racent",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 948,
+      "duration_ms": 1217,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +429,15 @@
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1619,
+      "duration_ms": 1477,
       "error": null
     },
     {
-      "resource": "thc",
+      "resource": "riddler",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 110,
+      "findings_count": 0,
+      "duration_ms": 3068,
       "error": null
     },
     {
@@ -457,19 +449,27 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "thc",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3082,
+      "findings_count": 1,
+      "duration_ms": 100,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3061,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3360,
       "error": null
     },
     {
@@ -481,15 +481,23 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "trickest",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 0,
       "error": null
     },
     {
       "resource": "virustotal",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +513,15 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "threatcrowd",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3308,
+      "duration_ms": 3079,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "windvane",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,43 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "alienvault",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3113,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22055,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20737,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "canyoustickit.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30453,
+      "duration_ms": 22024,
       "error": null
     },
     {
@@ -573,15 +549,23 @@
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36377,
+      "duration_ms": 26169,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "reconcloud",
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60498,
+      "duration_ms": 31961,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61410,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "canyoustickit.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65827,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65209,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "canyoustickit.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 95901,
       "error": null
     }
   ]

@@ -1,23 +1,111 @@
 {
   "root_domain": "atranquilwilderness.hair",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:55:34.920187+00:00",
-  "completed_at": "2026-11-20T07:56:40.912385+00:00",
-  "duration_ms": 65992,
+  "started_at": "2026-11-20T21:21:42.052759+00:00",
+  "completed_at": "2026-11-20T21:23:22.072165+00:00",
+  "duration_ms": 100019,
   "targets_scanned": [
     "atranquilwilderness.hair"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdumpster",
+      "resource": "google",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,63 +129,15 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "fofa",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,15 +169,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "censys",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,46 +185,6 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "domscan",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
@@ -201,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "domainsproject",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,31 +201,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
+      "resource": "argosdns",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,15 +217,47 @@
       "error": null
     },
     {
+      "resource": "intelx",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "abuseipdb",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
       "error": null
     },
     {
       "resource": "odin",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 89,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
@@ -321,11 +313,11 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "anubis",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 78,
       "error": null
     },
     {
@@ -341,15 +333,15 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 176,
+      "duration_ms": 227,
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rapidscan",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 224,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -357,11 +349,27 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 265,
+      "duration_ms": 254,
       "error": null
     },
     {
       "resource": "redhuntlabs",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 263,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "robtex",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "reconeer",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 56,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 500,
+      "duration_ms": 430,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1044,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 951,
+      "duration_ms": 1232,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1199,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 101,
+      "duration_ms": 102,
       "error": null
     },
     {
@@ -457,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "riddler",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 3047,
       "error": null
     },
     {
@@ -481,15 +481,23 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3160,
+      "duration_ms": 3065,
       "error": null
     },
     {
       "resource": "virustotal",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -509,11 +517,11 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3390,
+      "duration_ms": 3270,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "zoomeyeapi",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3098,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31416,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "atranquilwilderness.hair",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 38023,
+      "duration_ms": 3106,
       "error": null
     },
     {
@@ -565,15 +549,15 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44867,
+      "duration_ms": 27038,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "reconcloud",
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50875,
+      "duration_ms": 32057,
       "error": null
     },
     {
@@ -581,7 +565,7 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61736,
+      "duration_ms": 61656,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "atranquilwilderness.hair",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 65182,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65792,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "atranquilwilderness.hair",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 100010,
       "error": null
     }
   ]
