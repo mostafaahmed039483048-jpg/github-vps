@@ -1,39 +1,23 @@
 {
   "root_domain": "2015office.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-19T21:34:45.809753+00:00",
-  "completed_at": "2026-11-19T21:35:54.805117+00:00",
-  "duration_ms": 68995,
+  "started_at": "2026-11-20T07:24:55.924751+00:00",
+  "completed_at": "2026-11-20T07:26:01.923416+00:00",
+  "duration_ms": 65998,
   "targets_scanned": [
     "2015office.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "builtwith",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "dnsdb",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,135 +33,23 @@
       "error": null
     },
     {
+      "resource": "arpsyndicate",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdumpster",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +65,111 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "fullhunt",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +185,23 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "chinaz",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "binaryedge",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -246,6 +238,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35,
       "error": null
     },
     {
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +317,7 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 120,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 192,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 65,
       "error": null
     },
     {
@@ -345,11 +329,35 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 183,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 207,
+      "duration_ms": 185,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
       "error": null
     },
     {
@@ -365,19 +373,11 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 266,
+      "duration_ms": 303,
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 76,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 473,
+      "duration_ms": 794,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 961,
+      "duration_ms": 980,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1179,
+      "duration_ms": 1269,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 128,
+      "duration_ms": 147,
       "error": null
     },
     {
@@ -461,15 +461,15 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3085,
+      "duration_ms": 3058,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3050,
       "error": null
     },
     {
@@ -481,15 +481,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3116,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
+      "resource": "trickest",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,15 +489,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3300,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
+      "resource": "virustotal",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -521,11 +505,19 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "whoisxml",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3388,
       "error": null
     },
     {
@@ -537,27 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3224,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 33079,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "2015office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35585,
+      "duration_ms": 3103,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35428,
+      "duration_ms": 15142,
       "error": null
     },
     {
@@ -573,15 +557,23 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61705,
+      "duration_ms": 20835,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "crtsh",
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 29282,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31889,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "2015office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65563,
+      "duration_ms": 49910,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "2015office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65986,
       "error": null
     }
   ]
