@@ -1,111 +1,23 @@
 {
   "root_domain": "applyxboxmastercard.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:52:30.929264+00:00",
-  "completed_at": "2026-11-20T06:53:56.919557+00:00",
-  "duration_ms": 85990,
+  "started_at": "2026-11-20T20:04:33.250081+00:00",
+  "completed_at": "2026-11-20T20:06:02.494349+00:00",
+  "duration_ms": 89244,
   "targets_scanned": [
     "applyxboxmastercard.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "bevigil",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
+      "resource": "argosdns",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "arpsyndicate",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "chinaz",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +73,15 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "chaos",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +97,103 @@
       "error": null
     },
     {
+      "resource": "facebook",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,35 +209,11 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "intelx",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
       "error": null
     },
     {
@@ -233,15 +225,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "abuseipdb",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 26,
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,23 +249,23 @@
       "error": null
     },
     {
-      "resource": "leakix",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "odin",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +281,6 @@
       "error": null
     },
     {
-      "resource": "quake",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "pugrecon",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
@@ -305,7 +289,15 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "profundis",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,15 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 75,
+      "duration_ms": 70,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -329,14 +329,6 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 205,
-      "error": null
-    },
-    {
       "resource": "rapidscan",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
@@ -345,11 +337,35 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 188,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 224,
+      "duration_ms": 215,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 245,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -357,11 +373,11 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 57,
+      "duration_ms": 60,
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "rsecloud",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,19 +393,11 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "shodan",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 288,
       "error": null
     },
     {
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 35,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 433,
+      "duration_ms": 438,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1161,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1228,
+      "duration_ms": 1249,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1357,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 97,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -461,19 +461,11 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
+      "duration_ms": 3045,
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3042,
-      "error": null
-    },
-    {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +473,15 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "shrewdeye",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3051,
+      "error": null
+    },
+    {
+      "resource": "trickest",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -494,6 +494,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3363,
       "error": null
     },
     {
@@ -510,14 +518,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3485,
       "error": null
     },
     {
@@ -541,23 +541,7 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3087,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 16488,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "applyxboxmastercard.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20570,
+      "duration_ms": 3082,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26613,
+      "duration_ms": 26614,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29843,
+      "duration_ms": 29936,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61511,
       "error": null
     },
     {
@@ -581,15 +573,23 @@
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65963,
+      "duration_ms": 65987,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "applyxboxmastercard.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65624,
       "error": null
     },
     {
       "resource": "crtsh",
       "target": "applyxboxmastercard.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 85970,
+      "findings_count": 2,
+      "duration_ms": 89235,
       "error": null
     }
   ]
