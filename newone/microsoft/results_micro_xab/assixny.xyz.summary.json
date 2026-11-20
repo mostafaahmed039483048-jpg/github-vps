@@ -1,159 +1,23 @@
 {
   "root_domain": "assixny.xyz",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:48:49.930733+00:00",
-  "completed_at": "2026-11-20T07:49:55.925647+00:00",
-  "duration_ms": 65994,
+  "started_at": "2026-11-20T21:14:35.248353+00:00",
+  "completed_at": "2026-11-20T21:15:45.247904+00:00",
+  "duration_ms": 69999,
   "targets_scanned": [
     "assixny.xyz"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdb",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,15 +33,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "bevigil",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -186,6 +42,30 @@
     },
     {
       "resource": "c99",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "chinaz",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +97,131 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "binaryedge",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -257,19 +257,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 43,
       "error": null
     },
     {
@@ -317,23 +317,7 @@
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 212,
+      "duration_ms": 102,
       "error": null
     },
     {
@@ -349,11 +333,11 @@
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 260,
+      "duration_ms": 247,
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "rapidfinder",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -365,15 +349,31 @@
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 304,
+      "duration_ms": 261,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "reconeer",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 475,
       "error": null
     },
     {
@@ -385,15 +385,7 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 58,
-      "error": null
-    },
-    {
-      "resource": "shodan",
+      "resource": "robtex",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,27 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 62,
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "myssl",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 436,
+      "duration_ms": 876,
       "error": null
     },
     {
@@ -429,15 +429,15 @@
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1178,
+      "duration_ms": 935,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1560,
+      "duration_ms": 3066,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 100,
+      "duration_ms": 103,
       "error": null
     },
     {
@@ -457,19 +457,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3050,
+      "duration_ms": 3057,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "sitedossier",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 3553,
       "error": null
     },
     {
@@ -505,19 +505,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3054,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3109,
       "error": null
     },
     {
@@ -537,27 +537,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "alienvault",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 15247,
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "crtsh",
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3084,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "assixny.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 9446,
+      "duration_ms": 22060,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20738,
+      "duration_ms": 27631,
       "error": null
     },
     {
@@ -573,15 +565,15 @@
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30187,
+      "duration_ms": 30767,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "threatminer",
       "target": "assixny.xyz",
       "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 39273,
+      "findings_count": 0,
+      "duration_ms": 61488,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "assixny.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65966,
+      "duration_ms": 65987,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "assixny.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65532,
       "error": null
     }
   ]
