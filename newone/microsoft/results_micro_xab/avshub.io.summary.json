@@ -1,159 +1,23 @@
 {
   "root_domain": "avshub.io",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:09:48.923753+00:00",
-  "completed_at": "2026-11-20T08:10:57.912054+00:00",
-  "duration_ms": 68988,
+  "started_at": "2026-11-20T21:38:34.252323+00:00",
+  "completed_at": "2026-11-20T21:39:53.349314+00:00",
+  "duration_ms": 79096,
   "targets_scanned": [
     "avshub.io"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "argosdns",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bufferover",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +33,31 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "fofa",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,6 +73,22 @@
       "error": null
     },
     {
+      "resource": "chinaz",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "github",
       "target": "avshub.io",
       "recursion_depth": 0,
@@ -193,7 +97,39 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "binaryedge",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +145,70 @@
       "error": null
     },
     {
+      "resource": "coderog",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "avshub.io",
       "recursion_depth": 0,
@@ -217,19 +217,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
       "resource": "intelx",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45,
       "error": null
     },
     {
@@ -249,19 +249,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
-      "error": null
-    },
-    {
-      "resource": "netlas",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -273,7 +265,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "netlas",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,6 +274,14 @@
     },
     {
       "resource": "profundis",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,27 +309,11 @@
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 84,
+      "duration_ms": 111,
       "error": null
     },
     {
       "resource": "rapidapi",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 189,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,19 +329,35 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 178,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 245,
+      "duration_ms": 195,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 273,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -366,6 +366,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -382,14 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 53,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 447,
+      "duration_ms": 489,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 944,
+      "duration_ms": 974,
       "error": null
     },
     {
@@ -437,8 +437,16 @@
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1232,
+      "duration_ms": 1145,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 110,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,31 +457,23 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 107,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3039,
+      "duration_ms": 3051,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 3047,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "sitedossier",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -513,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "whoisfreaks",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "avshub.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3302,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3075,
+      "duration_ms": 3116,
       "error": null
     },
     {
@@ -557,7 +549,15 @@
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28762,
+      "duration_ms": 25488,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "avshub.io",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 24772,
       "error": null
     },
     {
@@ -565,15 +565,15 @@
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31597,
+      "duration_ms": 33096,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "threatminer",
       "target": "avshub.io",
       "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 43257,
+      "findings_count": 0,
+      "duration_ms": 61388,
       "error": null
     },
     {
@@ -581,15 +581,15 @@
       "target": "avshub.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 65984,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "crtsh",
       "target": "avshub.io",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65632,
+      "findings_count": 2,
+      "duration_ms": 79087,
       "error": null
     }
   ]
