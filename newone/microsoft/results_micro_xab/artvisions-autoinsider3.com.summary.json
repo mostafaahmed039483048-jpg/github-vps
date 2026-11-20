@@ -1,9 +1,9 @@
 {
   "root_domain": "artvisions-autoinsider3.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:26:15.917174+00:00",
-  "completed_at": "2026-11-20T07:27:24.912743+00:00",
-  "duration_ms": 68995,
+  "started_at": "2026-11-20T20:45:08.248352+00:00",
+  "completed_at": "2026-11-20T20:47:51.257212+00:00",
+  "duration_ms": 163008,
   "targets_scanned": [
     "artvisions-autoinsider3.com"
   ],
@@ -17,7 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
+      "resource": "c99",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "fofa",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "chaos",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "arpsyndicate",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "digitalyama",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "coderog",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,31 +89,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "facebook",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +105,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "dnsdb",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "domainsproject",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,15 +121,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "driftnet",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,23 +137,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
+      "resource": "binaryedge",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +153,55 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "builtwith",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,14 +217,6 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 37,
-      "error": null
-    },
-    {
       "resource": "intelx",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
@@ -233,19 +225,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
-      "error": null
-    },
-    {
-      "resource": "netlas",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 38,
       "error": null
     },
     {
@@ -265,7 +249,31 @@
       "error": null
     },
     {
+      "resource": "netlas",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
       "resource": "odin",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,14 +290,6 @@
     },
     {
       "resource": "profundis",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,15 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 57,
+      "duration_ms": 83,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "hudsonrock",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 197,
       "error": null
     },
     {
@@ -337,47 +337,7 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 192,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 206,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 40,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rapidfinder",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -389,11 +349,43 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 265,
+      "duration_ms": 244,
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "reconeer",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 294,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 461,
+      "duration_ms": 537,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1246,
+      "duration_ms": 1161,
       "error": null
     },
     {
@@ -437,8 +437,16 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1484,
+      "duration_ms": 1196,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 104,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 101,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3059,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3044,
       "error": null
     },
     {
@@ -477,11 +469,19 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 3076,
       "error": null
     },
     {
       "resource": "trickest",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,7 +497,7 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,7 +505,7 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -517,7 +517,7 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 3364,
       "error": null
     },
     {
@@ -541,47 +541,7 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3100,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29615,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45106,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61533,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65984,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "artvisions-autoinsider3.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 3078,
       "error": null
     },
     {
@@ -589,7 +549,47 @@
       "target": "artvisions-autoinsider3.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65641,
+      "duration_ms": 13706,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28969,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33086,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47987,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61692,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "artvisions-autoinsider3.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 163000,
       "error": null
     }
   ]

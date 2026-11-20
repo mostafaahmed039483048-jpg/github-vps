@@ -1,9 +1,9 @@
 {
   "root_domain": "2015xbox.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:27:07.922863+00:00",
-  "completed_at": "2026-11-20T07:28:16.913501+00:00",
-  "duration_ms": 68990,
+  "started_at": "2026-11-20T20:46:39.771313+00:00",
+  "completed_at": "2026-11-20T20:48:16.327752+00:00",
+  "duration_ms": 96556,
   "targets_scanned": [
     "2015xbox.com"
   ],
@@ -17,23 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "builtwith",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "dnsdb",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,6 +33,30 @@
       "error": null
     },
     {
+      "resource": "certspotter",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
       "target": "2015xbox.com",
       "recursion_depth": 0,
@@ -57,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "github",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +73,55 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "fofa",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,71 +145,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,31 +161,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "dnsdumpster",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +177,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "binaryedge",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,7 +185,31 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "driftnet",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +221,15 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 38,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,19 +249,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 70,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 86,
       "error": null
     },
     {
@@ -318,22 +318,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 185,
       "error": null
     },
     {
@@ -349,35 +333,11 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 211,
+      "duration_ms": 224,
       "error": null
     },
     {
-      "resource": "redhuntlabs",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
+      "resource": "rapidscan",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -389,7 +349,47 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 285,
+      "duration_ms": 243,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 462,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,15 +413,15 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 14,
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "myssl",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 462,
+      "duration_ms": 903,
       "error": null
     },
     {
@@ -429,15 +429,15 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 968,
+      "duration_ms": 1131,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "alienvault",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1095,
+      "duration_ms": 1389,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 118,
+      "duration_ms": 94,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 3043,
       "error": null
     },
     {
@@ -477,7 +477,7 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 3058,
       "error": null
     },
     {
@@ -497,15 +497,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "sitedossier",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,15 +541,7 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3079,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30087,
+      "duration_ms": 3269,
       "error": null
     },
     {
@@ -557,7 +549,15 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42838,
+      "duration_ms": 30073,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31480,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42261,
+      "duration_ms": 61657,
       "error": null
     },
     {
@@ -573,15 +573,7 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65974,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "2015xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65974,
+      "duration_ms": 65466,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "2015xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65619,
+      "duration_ms": 65566,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "2015xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 96550,
       "error": null
     }
   ]
