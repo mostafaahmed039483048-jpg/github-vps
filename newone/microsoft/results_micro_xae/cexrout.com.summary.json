@@ -1,95 +1,23 @@
 {
   "root_domain": "cexrout.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:37:01.921371+00:00",
-  "completed_at": "2026-11-20T08:38:07.911717+00:00",
-  "duration_ms": 65990,
+  "started_at": "2026-11-20T22:20:12.121949+00:00",
+  "completed_at": "2026-11-20T22:21:21.248976+00:00",
+  "duration_ms": 69127,
   "targets_scanned": [
     "cexrout.com"
   ],
   "total_unique_findings": 4,
   "fresh_findings_count": 4,
-  "historical_findings_count": 0,
-  "new_findings_count": 4,
+  "historical_findings_count": 4,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "github",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,55 +33,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "fofa",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,23 +49,95 @@
       "error": null
     },
     {
+      "resource": "chinaz",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domscan",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +153,22 @@
       "error": null
     },
     {
+      "resource": "arpsyndicate",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domainsproject",
       "target": "cexrout.com",
       "recursion_depth": 0,
@@ -209,15 +177,31 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "dnsrepo",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "driftnet",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,23 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
       "resource": "merklemap",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,15 +265,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 67,
+      "duration_ms": 70,
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 83,
+      "duration_ms": 73,
       "error": null
     },
     {
@@ -329,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hudsonrock",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
+      "duration_ms": 189,
       "error": null
     },
     {
@@ -345,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "alienvault",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 211,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 200,
       "error": null
     },
     {
@@ -365,19 +357,11 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 52,
+      "duration_ms": 66,
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 286,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
+      "resource": "redhuntlabs",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "hackertarget",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 266,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 503,
+      "duration_ms": 488,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1041,
+      "duration_ms": 1807,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1600,
+      "duration_ms": 2197,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -453,23 +453,15 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 97,
+      "duration_ms": 109,
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3072,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3073,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "urlscan",
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3095,
       "error": null
     },
     {
@@ -509,7 +509,7 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3389,
+      "duration_ms": 3472,
       "error": null
     },
     {
@@ -541,7 +541,15 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3160,
+      "duration_ms": 3088,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 21189,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29000,
+      "duration_ms": 26915,
       "error": null
     },
     {
@@ -557,23 +565,7 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29956,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 39708,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "cexrout.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 48151,
+      "duration_ms": 32995,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61601,
+      "duration_ms": 61693,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "cexrout.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65979,
+      "duration_ms": 65113,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "cexrout.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65755,
       "error": null
     }
   ]

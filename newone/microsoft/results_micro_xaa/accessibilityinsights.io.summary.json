@@ -1,16 +1,16 @@
 {
   "root_domain": "accessibilityinsights.io",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:35:20.929515+00:00",
-  "completed_at": "2026-11-20T08:36:27.918707+00:00",
-  "duration_ms": 66989,
+  "started_at": "2026-11-20T22:19:59.403204+00:00",
+  "completed_at": "2026-11-20T22:21:05.245428+00:00",
+  "duration_ms": 65842,
   "targets_scanned": [
     "accessibilityinsights.io"
   ],
   "total_unique_findings": 3,
   "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "historical_findings_count": 3,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -18,54 +18,6 @@
   "resource_executions": [
     {
       "resource": "censys",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,39 +33,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "github",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "builtwith",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "fullhunt",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "arpsyndicate",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "chaos",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,15 +89,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "c99",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +105,55 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "bufferover",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -202,6 +162,54 @@
     },
     {
       "resource": "dnsrepo",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,15 +229,7 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -257,31 +257,15 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
+      "error": null
+    },
+    {
       "resource": "odin",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 54,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,11 +289,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "onyphe",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 80,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -325,15 +317,15 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 92,
+      "duration_ms": 82,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "alienvault",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 201,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapidfinder",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 173,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 222,
       "error": null
     },
     {
@@ -361,19 +361,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 54,
+      "duration_ms": 261,
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rsecloud",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 244,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "reconeer",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 289,
+      "duration_ms": 13,
       "error": null
     },
     {
@@ -429,7 +421,15 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 513,
+      "duration_ms": 457,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1096,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 917,
+      "duration_ms": 1613,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -453,23 +453,23 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 102,
+      "duration_ms": 124,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "shrewdeye",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1119,
+      "duration_ms": 3082,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "riddler",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 3222,
       "error": null
     },
     {
@@ -497,15 +497,7 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3037,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "sitedossier",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3467,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,27 +537,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3050,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3301,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3068,
+      "duration_ms": 3115,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 21903,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28498,
+      "duration_ms": 29440,
       "error": null
     },
     {
@@ -573,15 +565,7 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31699,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "accessibilityinsights.io",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65991,
+      "duration_ms": 31562,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "accessibilityinsights.io",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65751,
+      "duration_ms": 50352,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61779,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "accessibilityinsights.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65832,
       "error": null
     }
   ]
