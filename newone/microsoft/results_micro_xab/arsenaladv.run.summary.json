@@ -1,29 +1,21 @@
 {
   "root_domain": "arsenaladv.run",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:22:54.919157+00:00",
-  "completed_at": "2026-11-20T07:24:00.914724+00:00",
-  "duration_ms": 65995,
+  "started_at": "2026-11-20T20:39:52.247652+00:00",
+  "completed_at": "2026-11-20T20:41:01.246346+00:00",
+  "duration_ms": 68998,
   "targets_scanned": [
     "arsenaladv.run"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "digitalyama",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "domscan",
       "target": "arsenaladv.run",
@@ -41,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "bevigil",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "censys",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +57,55 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "domainsproject",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,15 +121,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "builtwith",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +145,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "facebook",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,71 +153,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "dnsdb",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +169,47 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "driftnet",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,15 +221,7 @@
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 35,
       "error": null
     },
     {
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29,
-      "error": null
-    },
-    {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 82,
       "error": null
     },
     {
@@ -329,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 187,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
@@ -337,27 +345,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 181,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 212,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 225,
       "error": null
     },
     {
@@ -369,6 +361,14 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 247,
+      "error": null
+    },
+    {
       "resource": "robtex",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
@@ -377,15 +377,23 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "rsecloud",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 284,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "reconeer",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 60,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 457,
+      "duration_ms": 481,
       "error": null
     },
     {
@@ -429,23 +429,15 @@
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 924,
+      "duration_ms": 1204,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1110,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 103,
+      "duration_ms": 3052,
       "error": null
     },
     {
@@ -457,11 +449,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 3060,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 112,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 13,
-      "error": null
-    },
-    {
       "resource": "urlscan",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3359,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3049,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
@@ -513,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "threatcrowd",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3113,
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisxml",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,35 +529,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "zoomeyeapi",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3388,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "myssl",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3088,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 18817,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "arsenaladv.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28463,
+      "duration_ms": 22956,
       "error": null
     },
     {
@@ -573,15 +549,23 @@
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30661,
+      "duration_ms": 30349,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "submd",
       "target": "arsenaladv.run",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 50666,
+      "findings_count": 0,
+      "duration_ms": 31958,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61548,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "arsenaladv.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65986,
+      "duration_ms": 65987,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65987,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "arsenaladv.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65065,
       "error": null
     }
   ]
