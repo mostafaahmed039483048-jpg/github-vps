@@ -1,191 +1,23 @@
 {
   "root_domain": "bingcharity.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:45:31.920749+00:00",
-  "completed_at": "2026-11-20T07:46:37.911949+00:00",
-  "duration_ms": 65991,
+  "started_at": "2026-11-20T21:35:16.249041+00:00",
+  "completed_at": "2026-11-20T21:36:39.317213+00:00",
+  "duration_ms": 83068,
   "targets_scanned": [
     "bingcharity.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdumpster",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bevigil",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +33,166 @@
       "error": null
     },
     {
+      "resource": "chinaz",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "binaryedge",
       "target": "bingcharity.com",
       "recursion_depth": 0,
@@ -209,7 +201,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "argosdns",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 51,
-      "error": null
-    },
-    {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -266,6 +250,22 @@
     },
     {
       "resource": "odin",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60,
+      "duration_ms": 97,
       "error": null
     },
     {
@@ -329,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 207,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "bingcharity.com",
       "recursion_depth": 0,
@@ -341,7 +349,7 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 222,
+      "duration_ms": 224,
       "error": null
     },
     {
@@ -349,35 +357,11 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 268,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 276,
+      "duration_ms": 254,
       "error": null
     },
     {
       "resource": "redhuntlabs",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -393,11 +377,19 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "rsecloud",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 40,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 574,
+      "duration_ms": 442,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 960,
+      "duration_ms": 1174,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2090,
+      "duration_ms": 1776,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 95,
+      "duration_ms": 100,
       "error": null
     },
     {
@@ -461,15 +461,15 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3039,
+      "duration_ms": 3072,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3063,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "trickest",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -494,6 +494,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3503,
       "error": null
     },
     {
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3063,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22046,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingcharity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30828,
+      "duration_ms": 3090,
       "error": null
     },
     {
@@ -565,15 +549,15 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45916,
+      "duration_ms": 21336,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "reconcloud",
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44594,
+      "duration_ms": 29211,
       "error": null
     },
     {
@@ -581,7 +565,7 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61851,
+      "duration_ms": 61529,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "bingcharity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65980,
+      "duration_ms": 65987,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65600,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingcharity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 83059,
       "error": null
     }
   ]

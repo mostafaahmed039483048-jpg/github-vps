@@ -1,23 +1,23 @@
 {
   "root_domain": "carpointexpress.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:02:49.920200+00:00",
-  "completed_at": "2026-11-20T08:03:55.913715+00:00",
-  "duration_ms": 65993,
+  "started_at": "2026-11-20T21:33:49.254886+00:00",
+  "completed_at": "2026-11-20T21:36:09.247002+00:00",
+  "duration_ms": 139992,
   "targets_scanned": [
     "carpointexpress.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domainsproject",
+      "resource": "driftnet",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "bevigil",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "domscan",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "google",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "censys",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,55 +65,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
+      "resource": "dnsdumpster",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +89,15 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "argosdns",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "bufferover",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +121,15 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "facebook",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,14 +145,6 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "arpsyndicate",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
@@ -193,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "dnsrepo",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +161,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "chinaz",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +169,39 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "fofa",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +217,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 24,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "abuseipdb",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -265,11 +265,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "netlas",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -325,7 +325,7 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 205,
+      "duration_ms": 189,
       "error": null
     },
     {
@@ -345,11 +345,19 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 241,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 209,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -365,7 +373,7 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53,
+      "duration_ms": 54,
       "error": null
     },
     {
@@ -374,14 +382,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 273,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 502,
+      "duration_ms": 445,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1163,
+      "duration_ms": 1293,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1714,
+      "duration_ms": 1482,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 95,
       "error": null
     },
     {
@@ -449,19 +457,19 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 115,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
+      "duration_ms": 3063,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3045,
       "error": null
     },
     {
@@ -481,35 +489,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3059,
-      "error": null
-    },
-    {
       "resource": "virustotal",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3300,
       "error": null
     },
     {
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3486,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3083,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "carpointexpress.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30020,
+      "duration_ms": 3088,
       "error": null
     },
     {
@@ -557,23 +549,23 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32793,
+      "duration_ms": 6788,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconcloud",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45051,
+      "duration_ms": 31343,
       "error": null
     },
     {
       "resource": "waybackarchive",
       "target": "carpointexpress.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 59641,
+      "findings_count": 1,
+      "duration_ms": 54126,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61475,
+      "duration_ms": 61469,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "carpointexpress.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65981,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "carpointexpress.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 139980,
       "error": null
     }
   ]
