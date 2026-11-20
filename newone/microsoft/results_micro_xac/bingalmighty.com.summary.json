@@ -1,39 +1,23 @@
 {
   "root_domain": "bingalmighty.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:43:56.963652+00:00",
-  "completed_at": "2026-11-20T06:45:05.910691+00:00",
-  "duration_ms": 68947,
+  "started_at": "2026-11-20T20:00:48.248254+00:00",
+  "completed_at": "2026-11-20T20:01:57.246632+00:00",
+  "duration_ms": 68998,
   "targets_scanned": [
     "bingalmighty.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdb",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
+      "resource": "fofa",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,7 +33,71 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "driftnet",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +113,55 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "domscan",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,102 +193,6 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bevigil",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
@@ -201,19 +201,11 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "builtwith",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
       "error": null
     },
     {
@@ -233,11 +225,11 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "abuseipdb",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -249,6 +241,22 @@
       "error": null
     },
     {
+      "resource": "merklemap",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 58,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
@@ -257,23 +265,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
-      "error": null
-    },
-    {
       "resource": "netlas",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,15 @@
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 81,
+      "duration_ms": 70,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -329,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hudsonrock",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 183,
+      "duration_ms": 212,
       "error": null
     },
     {
@@ -345,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "hackertarget",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 225,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 263,
       "error": null
     },
     {
@@ -365,19 +357,11 @@
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 47,
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 493,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
+      "resource": "redhuntlabs",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -390,6 +374,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 524,
       "error": null
     },
     {
@@ -413,23 +413,7 @@
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 527,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 512,
+      "duration_ms": 13,
       "error": null
     },
     {
@@ -437,15 +421,31 @@
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 992,
-      "error": "'NoneType' object is not iterable"
+      "duration_ms": 966,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1271,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3053,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 106,
+      "duration_ms": 102,
       "error": null
     },
     {
@@ -457,11 +457,19 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "shrewdeye",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2606,
+      "duration_ms": 3042,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3058,
       "error": null
     },
     {
@@ -497,15 +497,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3060,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "sitedossier",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3467,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +537,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3569,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3108,
+      "duration_ms": 3096,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 7202,
       "error": null
     },
     {
@@ -557,7 +557,15 @@
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 8197,
+      "duration_ms": 8850,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingalmighty.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22439,
       "error": null
     },
     {
@@ -565,15 +573,7 @@
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29324,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingalmighty.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61539,
+      "duration_ms": 30791,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65940,
+      "duration_ms": 65999,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingalmighty.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65590,
+      "duration_ms": 65224,
       "error": null
     }
   ]
