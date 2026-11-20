@@ -1,23 +1,23 @@
 {
   "root_domain": "accessaware.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:28:32.927420+00:00",
-  "completed_at": "2026-11-20T08:29:38.913630+00:00",
-  "duration_ms": 65986,
+  "started_at": "2026-11-20T22:07:55.798530+00:00",
+  "completed_at": "2026-11-20T22:09:44.363984+00:00",
+  "duration_ms": 108565,
   "targets_scanned": [
     "accessaware.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsrepo",
+      "resource": "fofa",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "chaos",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,39 +33,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "chinaz",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -74,70 +42,6 @@
     },
     {
       "resource": "certspotter",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,15 +65,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "github",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,15 +81,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "censys",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +97,111 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "driftnet",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +221,15 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 35,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "odin",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,7 +269,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50,
+      "duration_ms": 40,
       "error": null
     },
     {
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 62,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "accessaware.com",
       "recursion_depth": 0,
@@ -313,19 +321,19 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 118,
-      "error": null
-    },
-    {
       "resource": "rapidscan",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 214,
       "error": null
     },
     {
@@ -341,23 +349,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 186,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 240,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 272,
+      "duration_ms": 233,
       "error": null
     },
     {
@@ -369,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 279,
       "error": null
     },
     {
@@ -382,6 +374,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 69,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 505,
+      "duration_ms": 434,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 937,
+      "duration_ms": 1210,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1307,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 107,
+      "duration_ms": 1334,
       "error": null
     },
     {
@@ -457,11 +449,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "thc",
       "target": "accessaware.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3051,
+      "findings_count": 1,
+      "duration_ms": 111,
       "error": null
     },
     {
@@ -469,7 +461,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
+      "duration_ms": 3117,
       "error": null
     },
     {
@@ -486,6 +478,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3211,
       "error": null
     },
     {
@@ -509,7 +509,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3298,
+      "duration_ms": 3568,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3071,
+      "duration_ms": 3078,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 9034,
+      "duration_ms": 7794,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28601,
+      "duration_ms": 28142,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42181,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "accessaware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 60758,
+      "duration_ms": 61775,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65973,
+      "duration_ms": 65436,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "accessaware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65948,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "accessaware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65972,
+      "duration_ms": 108554,
       "error": null
     }
   ]
