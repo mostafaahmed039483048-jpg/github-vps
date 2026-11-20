@@ -1,16 +1,16 @@
 {
   "root_domain": "bingcanada.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:28:24.986774+00:00",
-  "completed_at": "2026-11-20T07:29:32.913368+00:00",
-  "duration_ms": 67926,
+  "started_at": "2026-11-20T21:05:09.268079+00:00",
+  "completed_at": "2026-11-20T21:08:36.243884+00:00",
+  "duration_ms": 206975,
   "targets_scanned": [
     "bingcanada.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -25,63 +25,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "domainsproject",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "google",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +49,15 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "fofa",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +73,23 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "arpsyndicate",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +105,23 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "dnsdb",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,39 +145,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "coderog",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +161,51 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "certspotter",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -225,15 +217,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "abuseipdb",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 25,
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,23 @@
       "error": null
     },
     {
+      "resource": "leakix",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "odin",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,11 +269,11 @@
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 46,
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "onyphe",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "bingcanada.com",
       "recursion_depth": 0,
@@ -305,15 +305,31 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "alienvault",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 191,
       "error": null
     },
     {
       "resource": "rapidapi",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,27 +345,19 @@
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "hudsonrock",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 256,
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "reconeer",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 191,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -361,19 +369,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "anubis",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 212,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 374,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "robtex",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 52,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 291,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -429,23 +421,23 @@
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 492,
+      "duration_ms": 667,
       "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 924,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "myssl",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1620,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 105,
+      "duration_ms": 1495,
       "error": null
     },
     {
@@ -457,19 +449,19 @@
       "error": null
     },
     {
-      "resource": "racent",
+      "resource": "thc",
       "target": "bingcanada.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 2201,
-      "error": "'list' object has no attribute 'get'"
+      "findings_count": 1,
+      "duration_ms": 96,
+      "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "riddler",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3044,
       "error": null
     },
     {
@@ -481,15 +473,31 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 3061,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
       "resource": "virustotal",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +513,15 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3040,
+      "duration_ms": 3274,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "zoomeyeapi",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3046,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "bingcanada.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3302,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3082,
+      "duration_ms": 3094,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 10961,
+      "duration_ms": 10375,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29528,
+      "duration_ms": 30988,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61542,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65913,
+      "duration_ms": 65968,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingcanada.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65601,
+      "duration_ms": 65509,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingcanada.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 206967,
       "error": null
     }
   ]

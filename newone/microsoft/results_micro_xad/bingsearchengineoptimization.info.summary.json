@@ -1,23 +1,23 @@
 {
   "root_domain": "bingsearchengineoptimization.info",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:35:53.918159+00:00",
-  "completed_at": "2026-11-20T07:37:02.910971+00:00",
-  "duration_ms": 68992,
+  "started_at": "2026-11-20T21:06:08.263448+00:00",
+  "completed_at": "2026-11-20T21:08:58.333862+00:00",
+  "duration_ms": 170070,
   "targets_scanned": [
     "bingsearchengineoptimization.info"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "github",
+      "resource": "fofa",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,63 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "fullhunt",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,7 +97,15 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "google",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,47 +129,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "chinaz",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +145,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "arpsyndicate",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,39 +153,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "chaos",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,23 +169,15 @@
       "error": null
     },
     {
+      "resource": "facebook",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "driftnet",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +201,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "coderog",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -230,6 +214,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35,
       "error": null
     },
     {
@@ -249,11 +249,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 45,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "onyphe",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 56,
+      "duration_ms": 125,
       "error": null
     },
     {
@@ -321,19 +321,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 205,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 198,
       "error": null
     },
     {
@@ -345,11 +345,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "hackertarget",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 252,
+      "duration_ms": 251,
       "error": null
     },
     {
@@ -361,19 +361,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hudsonrock",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 274,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "robtex",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 318,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -385,7 +385,15 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "reconeer",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 60,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 13,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 468,
+      "duration_ms": 487,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1307,
+      "duration_ms": 1126,
       "error": null
     },
     {
@@ -437,16 +437,8 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1465,
+      "duration_ms": 1162,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "thc",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 126,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -457,11 +449,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "thc",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3096,
+      "findings_count": 1,
+      "duration_ms": 106,
       "error": null
     },
     {
@@ -469,7 +461,15 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3250,
+      "duration_ms": 3057,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3037,
       "error": null
     },
     {
@@ -497,19 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "sitedossier",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3507,
+      "duration_ms": 3470,
       "error": null
     },
     {
@@ -521,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisxml",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,27 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3120,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22062,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingsearchengineoptimization.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28689,
+      "duration_ms": 3089,
       "error": null
     },
     {
@@ -565,7 +549,15 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53038,
+      "duration_ms": 26480,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29746,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61411,
+      "duration_ms": 61537,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65969,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingsearchengineoptimization.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65415,
+      "duration_ms": 65606,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingsearchengineoptimization.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 170059,
       "error": null
     }
   ]
