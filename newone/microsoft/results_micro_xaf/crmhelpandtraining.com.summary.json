@@ -1,0 +1,596 @@
+{
+  "root_domain": "crmhelpandtraining.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T08:29:30.922361+00:00",
+  "completed_at": "2026-11-20T08:30:36.913739+00:00",
+  "duration_ms": 65991,
+  "targets_scanned": [
+    "crmhelpandtraining.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "dnsdumpster",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 68,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 82,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 239,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 303,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 360,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 527,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1167,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1445,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 107,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3089,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3053,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 8,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3323,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3185,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 10787,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32678,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33532,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47416,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "crmhelpandtraining.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65976,
+      "error": null
+    }
+  ]
+}
