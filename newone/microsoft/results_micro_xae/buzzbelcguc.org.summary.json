@@ -1,141 +1,21 @@
 {
   "root_domain": "buzzbelcguc.org",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:28:34.928232+00:00",
-  "completed_at": "2026-11-20T07:29:43.914035+00:00",
-  "duration_ms": 68985,
+  "started_at": "2026-11-20T20:52:35.241465+00:00",
+  "completed_at": "2026-11-20T20:53:41.246677+00:00",
+  "duration_ms": 66005,
   "targets_scanned": [
     "buzzbelcguc.org"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "builtwith",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "bevigil",
       "target": "buzzbelcguc.org",
@@ -145,47 +25,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "coderog",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +49,166 @@
       "error": null
     },
     {
+      "resource": "digitalyama",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
@@ -221,19 +221,11 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 34,
       "error": null
     },
     {
       "resource": "intelx",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,7 +257,23 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "odin",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,19 +309,11 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 79,
+      "duration_ms": 120,
       "error": null
     },
     {
       "resource": "rapidapi",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "rapidfinder",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 119,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -349,7 +341,23 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 180,
+      "duration_ms": 207,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 230,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 254,
       "error": null
     },
     {
@@ -361,11 +369,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "reconeer",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 224,
+      "duration_ms": 64,
       "error": null
     },
     {
@@ -377,23 +385,7 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 68,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 279,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 451,
+      "duration_ms": 432,
       "error": null
     },
     {
@@ -437,7 +429,7 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 968,
+      "duration_ms": 1012,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -445,7 +437,7 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1033,
+      "duration_ms": 2049,
       "error": null
     },
     {
@@ -461,7 +453,7 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 147,
+      "duration_ms": 348,
       "error": null
     },
     {
@@ -469,15 +461,7 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3069,
       "error": null
     },
     {
@@ -489,7 +473,7 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -501,11 +485,11 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3086,
+      "duration_ms": 3080,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "virustotal",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -521,15 +505,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "windvane",
+      "resource": "whoisfreaks",
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,7 +517,23 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3301,
+      "duration_ms": 3277,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,39 +541,7 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3097,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29741,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47755,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61505,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "buzzbelcguc.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65970,
+      "duration_ms": 3118,
       "error": null
     },
     {
@@ -589,7 +549,47 @@
       "target": "buzzbelcguc.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65691,
+      "duration_ms": 20347,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20707,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30190,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34629,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65060,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "buzzbelcguc.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65988,
       "error": null
     }
   ]
