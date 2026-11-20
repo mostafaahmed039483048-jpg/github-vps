@@ -1,151 +1,23 @@
 {
   "root_domain": "createbingadd.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:54:31.924406+00:00",
-  "completed_at": "2026-11-20T07:55:37.920842+00:00",
-  "duration_ms": 65996,
+  "started_at": "2026-11-20T21:16:02.258378+00:00",
+  "completed_at": "2026-11-20T21:17:08.244087+00:00",
+  "duration_ms": 65985,
   "targets_scanned": [
     "createbingadd.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chinaz",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bevigil",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "digitalyama",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "dnsdb",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,15 +57,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
+      "resource": "certspotter",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +73,139 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "coderog",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,6 +225,22 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "merklemap",
       "target": "createbingadd.com",
       "recursion_depth": 0,
@@ -241,7 +249,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "abuseipdb",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 101,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,31 +273,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61,
-      "error": null
-    },
-    {
       "resource": "onyphe",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,11 +297,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "quake",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 69,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -321,11 +313,27 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 134,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 175,
       "error": null
     },
     {
@@ -337,19 +345,19 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "hackertarget",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 128,
+      "duration_ms": 244,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hudsonrock",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 188,
+      "duration_ms": 279,
       "error": null
     },
     {
@@ -361,19 +369,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "reconeer",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 234,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 52,
       "error": null
     },
     {
@@ -385,15 +385,7 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 54,
-      "error": null
-    },
-    {
-      "resource": "shodan",
+      "resource": "rsecloud",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 295,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 512,
+      "duration_ms": 715,
       "error": null
     },
     {
@@ -437,23 +429,15 @@
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1255,
+      "duration_ms": 967,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "threatbook",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
     },
     {
       "resource": "myssl",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1340,
+      "duration_ms": 1344,
       "error": null
     },
     {
@@ -461,43 +445,11 @@
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 106,
+      "duration_ms": 94,
       "error": null
     },
     {
-      "resource": "urlscan",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "threatbook",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -509,11 +461,59 @@
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 3045,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3079,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
       "resource": "whoisxml",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3047,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3302,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "createbingadd.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 25312,
+      "duration_ms": 3078,
       "error": null
     },
     {
@@ -573,7 +549,7 @@
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28002,
+      "duration_ms": 29926,
       "error": null
     },
     {
@@ -581,7 +557,31 @@
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32381,
+      "duration_ms": 31849,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45055,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61445,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "createbingadd.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61861,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "createbingadd.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65974,
+      "duration_ms": 65977,
       "error": null
     }
   ]

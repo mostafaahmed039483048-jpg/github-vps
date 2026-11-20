@@ -1,143 +1,23 @@
 {
   "root_domain": "astrivee.world",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:49:55.932666+00:00",
-  "completed_at": "2026-11-20T07:51:01.912310+00:00",
-  "duration_ms": 65979,
+  "started_at": "2026-11-20T21:15:45.250923+00:00",
+  "completed_at": "2026-11-20T21:16:55.247591+00:00",
+  "duration_ms": 69996,
   "targets_scanned": [
     "astrivee.world"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "builtwith",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "chaos",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,15 +33,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "bufferover",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +49,15 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "arpsyndicate",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +73,55 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "censys",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "fofa",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,7 +145,71 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "argosdns",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,11 +221,11 @@
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 34,
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "huntermap",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,11 +261,11 @@
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 74,
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "netlas",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "onyphe",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,23 @@
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 54,
+      "duration_ms": 97,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 185,
       "error": null
     },
     {
@@ -337,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "hackertarget",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 110,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 184,
+      "duration_ms": 284,
       "error": null
     },
     {
@@ -361,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 196,
-      "error": null
-    },
-    {
       "resource": "reconeer",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 73,
       "error": null
     },
     {
@@ -382,6 +374,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 494,
       "error": null
     },
     {
@@ -413,23 +413,15 @@
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 20,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "myssl",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 287,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 479,
+      "duration_ms": 1026,
       "error": null
     },
     {
@@ -437,8 +429,24 @@
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1523,
+      "duration_ms": 1263,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "riddler",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3050,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 109,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 100,
-      "error": null
-    },
-    {
-      "resource": "myssl",
+      "resource": "shrewdeye",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2406,
+      "duration_ms": 3079,
       "error": null
     },
     {
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
+      "duration_ms": 3480,
       "error": null
     },
     {
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "threatcrowd",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3111,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "astrivee.world",
       "recursion_depth": 0,
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "zoomeyeapi",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "submd",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3496,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "astrivee.world",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3086,
+      "duration_ms": 28287,
       "error": null
     },
     {
@@ -557,23 +549,23 @@
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28264,
+      "duration_ms": 32899,
       "error": null
     },
     {
-      "resource": "submd",
+      "resource": "alienvault",
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36348,
+      "duration_ms": 38519,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "crtsh",
       "target": "astrivee.world",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35706,
+      "findings_count": 1,
+      "duration_ms": 42168,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61788,
+      "duration_ms": 61628,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "astrivee.world",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65952,
+      "duration_ms": 65984,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "astrivee.world",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65446,
       "error": null
     }
   ]
