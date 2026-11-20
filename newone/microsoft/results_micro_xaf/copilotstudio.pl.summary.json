@@ -1,191 +1,23 @@
 {
   "root_domain": "copilotstudio.pl",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:21:49.942812+00:00",
-  "completed_at": "2026-11-20T07:22:58.913946+00:00",
-  "duration_ms": 68971,
+  "started_at": "2026-11-20T20:36:05.251722+00:00",
+  "completed_at": "2026-11-20T20:37:14.247242+00:00",
+  "duration_ms": 68995,
   "targets_scanned": [
     "copilotstudio.pl"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +33,191 @@
       "error": null
     },
     {
+      "resource": "dnsdumpster",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "coderog",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -214,22 +230,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45,
       "error": null
     },
     {
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "digitorus",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -265,11 +265,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "netlas",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 110,
       "error": null
     },
     {
@@ -321,19 +321,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "alienvault",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 147,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 194,
       "error": null
     },
     {
@@ -345,19 +337,19 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 220,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 252,
       "error": null
     },
     {
@@ -366,6 +358,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 268,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -385,11 +393,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "shodan",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 289,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 480,
+      "duration_ms": 428,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1463,
+      "duration_ms": 1166,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2507,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 100,
+      "duration_ms": 1186,
       "error": null
     },
     {
@@ -457,19 +449,27 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 118,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3076,
+      "duration_ms": 3071,
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3061,
+      "duration_ms": 8,
       "error": null
     },
     {
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "whoisxml",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -513,7 +513,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "shrewdeye",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3047,
+      "error": null
+    },
+    {
+      "resource": "windvane",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,11 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3271,
       "error": null
     },
     {
@@ -541,23 +549,7 @@
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3067,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 8398,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "copilotstudio.pl",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30314,
+      "duration_ms": 3098,
       "error": null
     },
     {
@@ -565,15 +557,23 @@
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46367,
+      "duration_ms": 28266,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "reconcloud",
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61681,
+      "duration_ms": 29904,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "copilotstudio.pl",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45055,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65953,
+      "duration_ms": 65980,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "copilotstudio.pl",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65587,
+      "duration_ms": 65630,
       "error": null
     }
   ]
