@@ -1,0 +1,596 @@
+{
+  "root_domain": "bingcinema.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T07:51:56.921666+00:00",
+  "completed_at": "2026-11-20T07:53:33.003219+00:00",
+  "duration_ms": 96081,
+  "targets_scanned": [
+    "bingcinema.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "dnsrepo",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 48,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 77,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 221,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 278,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 300,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 16,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 505,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1191,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1255,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 101,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3073,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3044,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3296,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3086,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 15763,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31326,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36185,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65987,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingcinema.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 96069,
+      "error": null
+    }
+  ]
+}
