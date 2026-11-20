@@ -1,9 +1,9 @@
 {
   "root_domain": "2006hotmail.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:18:09.916295+00:00",
-  "completed_at": "2026-11-20T07:19:15.911292+00:00",
-  "duration_ms": 65994,
+  "started_at": "2026-11-20T20:33:12.264701+00:00",
+  "completed_at": "2026-11-20T20:34:48.169131+00:00",
+  "duration_ms": 95904,
   "targets_scanned": [
     "2006hotmail.com"
   ],
@@ -17,47 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
+      "resource": "domscan",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,14 +33,6 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "facebook",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
@@ -89,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "bufferover",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "bevigil",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,39 +57,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "github",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,23 +81,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "chaos",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -186,6 +90,22 @@
     },
     {
       "resource": "dnsdumpster",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +129,83 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "argosdns",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,6 +225,22 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "merklemap",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
@@ -241,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "netlas",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,27 +265,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
-      "error": null
-    },
-    {
-      "resource": "netlas",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 77,
       "error": null
     },
     {
@@ -318,6 +318,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 239,
       "error": null
     },
     {
@@ -337,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "hackertarget",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 115,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 224,
+      "duration_ms": 246,
       "error": null
     },
     {
@@ -365,15 +365,15 @@
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 91,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapiddns",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 282,
+      "findings_count": 1,
+      "duration_ms": 540,
       "error": null
     },
     {
@@ -409,35 +409,35 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 283,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 19,
       "error": null
     },
     {
-      "resource": "rapiddns",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 511,
-      "error": null
-    },
-    {
-      "resource": "myssl",
+      "resource": "racent",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 919,
+      "duration_ms": 943,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "riddler",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3049,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3045,
       "error": null
     },
     {
@@ -453,23 +453,15 @@
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 95,
+      "duration_ms": 123,
       "error": null
     },
     {
-      "resource": "racent",
+      "resource": "sitedossier",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1230,
-      "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "threatminer",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 9,
+      "duration_ms": 3496,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3129,
       "error": null
     },
     {
@@ -505,19 +505,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22160,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3040,
       "error": null
     },
     {
@@ -537,43 +537,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "myssl",
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3086,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 18456,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "2006hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 26725,
+      "duration_ms": 22866,
       "error": null
     },
     {
@@ -581,7 +549,15 @@
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29519,
+      "duration_ms": 29335,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27433,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "2006hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65986,
+      "duration_ms": 65968,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61632,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65033,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "2006hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 95893,
       "error": null
     }
   ]

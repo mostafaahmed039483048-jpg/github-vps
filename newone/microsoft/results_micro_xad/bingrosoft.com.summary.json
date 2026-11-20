@@ -1,191 +1,23 @@
 {
   "root_domain": "bingrosoft.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:11:57.931891+00:00",
-  "completed_at": "2026-11-20T07:13:12.998196+00:00",
-  "duration_ms": 75066,
+  "started_at": "2026-11-20T20:33:46.249348+00:00",
+  "completed_at": "2026-11-20T20:34:55.246552+00:00",
+  "duration_ms": 68997,
   "targets_scanned": [
     "bingrosoft.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdumpster",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
+      "resource": "argosdns",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +33,183 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "fofa",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,27 +225,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "abuseipdb",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -257,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 88,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 102,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
@@ -313,23 +321,7 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 68,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,11 +337,27 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 201,
+      "duration_ms": 208,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -361,7 +369,15 @@
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "hackertarget",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 265,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -374,22 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 280,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 544,
+      "duration_ms": 443,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1258,
+      "duration_ms": 971,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1924,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 101,
+      "duration_ms": 1579,
       "error": null
     },
     {
@@ -457,11 +449,19 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 112,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3038,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -485,7 +485,7 @@
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3159,
+      "duration_ms": 3052,
       "error": null
     },
     {
@@ -494,6 +494,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3345,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3061,
+      "duration_ms": 3101,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 8646,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 19925,
+      "duration_ms": 26335,
       "error": null
     },
     {
@@ -565,23 +557,7 @@
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29653,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61415,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "bingrosoft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65969,
+      "duration_ms": 30689,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "bingrosoft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 75055,
+      "duration_ms": 63678,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61476,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65987,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingrosoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65641,
       "error": null
     }
   ]

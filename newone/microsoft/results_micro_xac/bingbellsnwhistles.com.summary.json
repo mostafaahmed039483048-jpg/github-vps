@@ -1,47 +1,23 @@
 {
   "root_domain": "bingbellsnwhistles.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:08:44.918950+00:00",
-  "completed_at": "2026-11-20T07:09:50.915491+00:00",
-  "duration_ms": 65996,
+  "started_at": "2026-11-20T20:32:24.336647+00:00",
+  "completed_at": "2026-11-20T20:34:36.258128+00:00",
+  "duration_ms": 131921,
   "targets_scanned": [
     "bingbellsnwhistles.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "dnsrepo",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "c99",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "bevigil",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "dnsdumpster",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "github",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,55 +81,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "domscan",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,15 +97,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
+      "resource": "fofa",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,14 +113,6 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
@@ -209,7 +121,87 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "argosdns",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +221,15 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 41,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "odin",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,15 +269,7 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 52,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 65,
       "error": null
     },
     {
@@ -290,6 +282,14 @@
     },
     {
       "resource": "pugrecon",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,15 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 154,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "hudsonrock",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 238,
       "error": null
     },
     {
@@ -337,19 +337,19 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 186,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 274,
+      "duration_ms": 247,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 285,
+      "duration_ms": 274,
       "error": null
     },
     {
@@ -366,14 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 43,
       "error": null
     },
     {
@@ -393,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "reconeer",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 81,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 27,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 460,
+      "duration_ms": 531,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1175,
+      "duration_ms": 915,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1202,
+      "duration_ms": 1125,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 96,
       "error": null
     },
     {
@@ -449,35 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 95,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3048,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 8,
+      "duration_ms": 3047,
       "error": null
     },
     {
@@ -489,7 +473,39 @@
       "error": null
     },
     {
+      "resource": "urlscan",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3079,
+      "error": null
+    },
+    {
       "resource": "virustotal",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3467,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +521,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3043,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "windvane",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "bingbellsnwhistles.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3290,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18664,
+      "duration_ms": 18207,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28757,
+      "duration_ms": 30197,
       "error": null
     },
     {
@@ -573,15 +565,15 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44165,
+      "duration_ms": 34592,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "threatminer",
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 56054,
+      "duration_ms": 61712,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingbellsnwhistles.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65895,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingbellsnwhistles.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 131908,
       "error": null
     }
   ]
