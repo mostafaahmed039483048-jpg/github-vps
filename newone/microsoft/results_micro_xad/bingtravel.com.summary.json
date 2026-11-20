@@ -1,16 +1,16 @@
 {
   "root_domain": "bingtravel.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T09:01:19.928828+00:00",
-  "completed_at": "2026-11-20T09:02:29.918462+00:00",
-  "duration_ms": 69989,
+  "started_at": "2026-11-20T22:55:00.247784+00:00",
+  "completed_at": "2026-11-20T22:56:06.245046+00:00",
+  "duration_ms": 65997,
   "targets_scanned": [
     "bingtravel.com"
   ],
-  "total_unique_findings": 2,
-  "fresh_findings_count": 2,
+  "total_unique_findings": 3,
+  "fresh_findings_count": 3,
   "historical_findings_count": 2,
-  "new_findings_count": 0,
+  "new_findings_count": 1,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -18,6 +18,126 @@
   "resource_executions": [
     {
       "resource": "bevigil",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +153,15 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "binaryedge",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "dnsdumpster",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,135 +201,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "github",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,23 +217,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "abuseipdb",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 26,
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +241,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "leakix",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,6 +257,14 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "bingtravel.com",
       "recursion_depth": 0,
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,15 @@
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 123,
+      "duration_ms": 59,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -333,15 +341,7 @@
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 183,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 193,
       "error": null
     },
     {
@@ -349,15 +349,7 @@
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 237,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 289,
+      "duration_ms": 215,
       "error": null
     },
     {
@@ -369,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 67,
+      "duration_ms": 251,
       "error": null
     },
     {
@@ -382,6 +374,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 19,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 443,
+      "duration_ms": 438,
       "error": null
     },
     {
@@ -429,23 +429,15 @@
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1149,
+      "duration_ms": 913,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3083,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 1235,
       "error": null
     },
     {
@@ -461,15 +453,23 @@
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 119,
+      "duration_ms": 126,
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "riddler",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3554,
+      "duration_ms": 3043,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3047,
       "error": null
     },
     {
@@ -513,19 +513,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "sitedossier",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3137,
-      "error": null
-    },
-    {
-      "resource": "windvane",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3277,
       "error": null
     },
     {
@@ -537,43 +529,27 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "windvane",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23215,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "reconcloud",
+      "resource": "threatcrowd",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30863,
+      "duration_ms": 3090,
       "error": null
     },
     {
-      "resource": "submd",
+      "resource": "waybackarchive",
       "target": "bingtravel.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45636,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61686,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "bingtravel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65937,
+      "findings_count": 2,
+      "duration_ms": 8583,
       "error": null
     },
     {
@@ -581,15 +557,39 @@
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65937,
+      "duration_ms": 19799,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "submd",
       "target": "bingtravel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65819,
+      "duration_ms": 26642,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30906,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61651,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingtravel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65987,
       "error": null
     }
   ]
