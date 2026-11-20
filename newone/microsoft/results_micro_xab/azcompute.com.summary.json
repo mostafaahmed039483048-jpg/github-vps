@@ -1,23 +1,23 @@
 {
   "root_domain": "azcompute.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:17:46.919180+00:00",
-  "completed_at": "2026-11-20T08:18:57.828666+00:00",
-  "duration_ms": 70909,
+  "started_at": "2026-11-20T21:49:17.924902+00:00",
+  "completed_at": "2026-11-20T21:50:24.908193+00:00",
+  "duration_ms": 66983,
   "targets_scanned": [
     "azcompute.com"
   ],
-  "total_unique_findings": 42,
-  "fresh_findings_count": 42,
-  "historical_findings_count": 0,
-  "new_findings_count": 42,
-  "reused_historical_findings_count": 0,
+  "total_unique_findings": 43,
+  "fresh_findings_count": 37,
+  "historical_findings_count": 42,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 6,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "argosdns",
+      "resource": "builtwith",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,71 +25,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "driftnet",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "censys",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,31 +57,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
+      "resource": "google",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "dnsrepo",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,15 +81,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "dnsdb",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,6 +97,78 @@
       "error": null
     },
     {
+      "resource": "arpsyndicate",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "fofa",
       "target": "azcompute.com",
       "recursion_depth": 0,
@@ -201,7 +177,39 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "argosdns",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,23 +225,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "intelx",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,7 +253,31 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -282,14 +290,6 @@
     },
     {
       "resource": "onyphe",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 81,
+      "duration_ms": 73,
       "error": null
     },
     {
@@ -325,15 +325,7 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 200,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 187,
       "error": null
     },
     {
@@ -345,39 +337,7 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 211,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 63,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rapidscan",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -389,7 +349,47 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 286,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 258,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 52,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 13,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 8,
-      "duration_ms": 500,
+      "duration_ms": 475,
       "error": null
     },
     {
@@ -429,15 +429,15 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 950,
+      "duration_ms": 951,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "crtsh",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1305,
+      "duration_ms": 1108,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 32,
-      "duration_ms": 96,
+      "duration_ms": 113,
       "error": null
     },
     {
@@ -457,11 +457,19 @@
       "error": null
     },
     {
+      "resource": "myssl",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2236,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3050,
+      "duration_ms": 3054,
       "error": null
     },
     {
@@ -481,14 +489,6 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3049,
-      "error": null
-    },
-    {
       "resource": "virustotal",
       "target": "azcompute.com",
       "recursion_depth": 0,
@@ -505,19 +505,19 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3068,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3392,
+      "duration_ms": 3283,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3082,
+      "duration_ms": 3123,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31053,
+      "duration_ms": 30852,
       "error": null
     },
     {
@@ -565,7 +565,15 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44494,
+      "duration_ms": 42993,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "azcompute.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61503,
       "error": null
     },
     {
@@ -573,23 +581,15 @@
       "target": "azcompute.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65981,
+      "duration_ms": 65311,
       "error": null
     },
     {
       "resource": "waybackarchive",
       "target": "azcompute.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65625,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "azcompute.com",
-      "recursion_depth": 0,
-      "findings_count": 40,
-      "duration_ms": 70886,
+      "findings_count": 20,
+      "duration_ms": 63652,
       "error": null
     }
   ]

@@ -1,103 +1,23 @@
 {
   "root_domain": "creative-preview-an.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:20:12.916880+00:00",
-  "completed_at": "2026-11-20T08:21:21.914195+00:00",
-  "duration_ms": 68997,
+  "started_at": "2026-11-20T21:49:58.710926+00:00",
+  "completed_at": "2026-11-20T21:51:09.793922+00:00",
+  "duration_ms": 71082,
   "targets_scanned": [
     "creative-preview-an.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "google",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "fullhunt",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -106,22 +26,6 @@
     },
     {
       "resource": "digitalyama",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "bufferover",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +57,63 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "driftnet",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -162,6 +122,70 @@
     },
     {
       "resource": "arpsyndicate",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,35 +209,11 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "intelx",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 48,
       "error": null
     },
     {
@@ -225,11 +225,11 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "abuseipdb",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,19 +305,19 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 87,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -337,11 +337,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 178,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 202,
+      "duration_ms": 221,
       "error": null
     },
     {
@@ -349,19 +357,19 @@
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 311,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 349,
+      "duration_ms": 251,
       "error": null
     },
     {
       "resource": "redhuntlabs",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -381,15 +389,7 @@
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 451,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1102,
+      "duration_ms": 461,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1188,
+      "duration_ms": 942,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1757,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,23 +453,15 @@
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 119,
+      "duration_ms": 114,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3199,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3060,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53,
+      "duration_ms": 3048,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -505,11 +505,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3081,
+      "duration_ms": 3276,
       "error": null
     },
     {
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3102,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3505,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3118,
+      "duration_ms": 3088,
       "error": null
     },
     {
@@ -565,23 +549,7 @@
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15952,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30478,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "creative-preview-an.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66000,
+      "duration_ms": 8996,
       "error": null
     },
     {
@@ -589,7 +557,39 @@
       "target": "creative-preview-an.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65686,
+      "duration_ms": 10139,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31125,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61656,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65521,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "creative-preview-an.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 71070,
       "error": null
     }
   ]
