@@ -1,151 +1,23 @@
 {
   "root_domain": "customize-identity.info",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T09:00:11.921187+00:00",
-  "completed_at": "2026-11-20T09:01:20.913821+00:00",
-  "duration_ms": 68992,
+  "started_at": "2026-11-20T22:37:23.252593+00:00",
+  "completed_at": "2026-11-20T22:38:33.250321+00:00",
+  "duration_ms": 69997,
   "targets_scanned": [
     "customize-identity.info"
   ],
   "total_unique_findings": 4,
   "fresh_findings_count": 4,
-  "historical_findings_count": 0,
-  "new_findings_count": 4,
+  "historical_findings_count": 4,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "domainsproject",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,23 +41,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "bufferover",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +57,118 @@
       "error": null
     },
     {
+      "resource": "certspotter",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "arpsyndicate",
       "target": "customize-identity.info",
       "recursion_depth": 0,
@@ -209,11 +177,35 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "argosdns",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,11 +225,11 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "abuseipdb",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -249,11 +241,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "leakix",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -273,11 +265,11 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "digitorus",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 54,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +309,15 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 87,
+      "duration_ms": 99,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "rapidapi",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 179,
       "error": null
     },
     {
@@ -345,11 +329,19 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 230,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -357,7 +349,7 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 300,
+      "duration_ms": 283,
       "error": null
     },
     {
@@ -369,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "reconeer",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 54,
       "error": null
     },
     {
@@ -385,15 +377,15 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rapiddns",
       "target": "customize-identity.info",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 71,
+      "findings_count": 3,
+      "duration_ms": 459,
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "rsecloud",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 3,
-      "duration_ms": 514,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1022,
+      "duration_ms": 1100,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1162,
+      "duration_ms": 1249,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "riddler",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3052,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,23 +453,7 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 120,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3083,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 179,
       "error": null
     },
     {
@@ -477,11 +461,27 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3186,
+      "duration_ms": 3080,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3360,
       "error": null
     },
     {
       "resource": "trickest",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,11 +505,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "threatcrowd",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3503,
+      "duration_ms": 3136,
       "error": null
     },
     {
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "alienvault",
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3154,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28164,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "customize-identity.info",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 35963,
+      "duration_ms": 22152,
       "error": null
     },
     {
@@ -565,7 +549,23 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45153,
+      "duration_ms": 28691,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 32967,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "customize-identity.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32875,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61745,
+      "duration_ms": 61727,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65980,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "customize-identity.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65475,
+      "duration_ms": 65479,
       "error": null
     }
   ]
