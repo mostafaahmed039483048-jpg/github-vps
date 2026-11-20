@@ -1,23 +1,23 @@
 {
   "root_domain": "bingtargetedmarketing.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:37:25.921286+00:00",
-  "completed_at": "2026-11-20T08:38:34.914044+00:00",
-  "duration_ms": 68992,
+  "started_at": "2026-11-20T22:31:44.248746+00:00",
+  "completed_at": "2026-11-20T22:32:53.245080+00:00",
+  "duration_ms": 68996,
   "targets_scanned": [
     "bingtargetedmarketing.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "google",
+      "resource": "bufferover",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "facebook",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,71 +49,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "fullhunt",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "dnsdumpster",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,47 +73,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "c99",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,6 +89,46 @@
       "error": null
     },
     {
+      "resource": "dnsdb",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "argosdns",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
@@ -201,7 +137,71 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "builtwith",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,23 +217,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitorus",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 42,
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,11 +261,11 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 71,
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "odin",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,6 +274,14 @@
     },
     {
       "resource": "onyphe",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 81,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
@@ -313,19 +321,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "hudsonrock",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 109,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 192,
       "error": null
     },
     {
@@ -337,19 +337,19 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 210,
+      "duration_ms": 193,
       "error": null
     },
     {
@@ -365,15 +365,7 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 287,
+      "duration_ms": 42,
       "error": null
     },
     {
@@ -385,15 +377,15 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "hackertarget",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 249,
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "robtex",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 136,
+      "duration_ms": 12,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 477,
+      "duration_ms": 456,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1232,
+      "duration_ms": 951,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1461,
+      "duration_ms": 1469,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 115,
+      "duration_ms": 112,
       "error": null
     },
     {
@@ -461,7 +461,15 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 3068,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3088,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3058,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
@@ -517,11 +509,11 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 3271,
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "whoisxml",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3066,
+      "duration_ms": 3151,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11251,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingtargetedmarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20454,
+      "duration_ms": 11820,
       "error": null
     },
     {
@@ -565,15 +557,15 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29958,
+      "duration_ms": 31647,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "threatminer",
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49337,
+      "duration_ms": 61317,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65973,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingtargetedmarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65973,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingtargetedmarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65499,
+      "duration_ms": 65621,
       "error": null
     }
   ]
