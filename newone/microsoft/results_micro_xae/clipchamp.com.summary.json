@@ -1,0 +1,596 @@
+{
+  "root_domain": "clipchamp.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T23:49:44.254020+00:00",
+  "completed_at": "2026-11-20T23:50:53.257062+00:00",
+  "duration_ms": 69003,
+  "targets_scanned": [
+    "clipchamp.com"
+  ],
+  "total_unique_findings": 89,
+  "fresh_findings_count": 89,
+  "historical_findings_count": 0,
+  "new_findings_count": 89,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "fullhunt",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 178,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 241,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 251,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 67,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 14,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 6,
+      "duration_ms": 764,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 22,
+      "duration_ms": 761,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 998,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 86,
+      "duration_ms": 346,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3062,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3062,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3090,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 10356,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33091,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61480,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65438,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65981,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "clipchamp.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65594,
+      "error": null
+    }
+  ]
+}
