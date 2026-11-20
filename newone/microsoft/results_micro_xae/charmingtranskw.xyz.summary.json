@@ -1,16 +1,16 @@
 {
   "root_domain": "charmingtranskw.xyz",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:48:17.922162+00:00",
-  "completed_at": "2026-11-20T08:49:23.911597+00:00",
-  "duration_ms": 65989,
+  "started_at": "2026-11-20T22:30:41.256739+00:00",
+  "completed_at": "2026-11-20T22:31:50.244029+00:00",
+  "duration_ms": 68987,
   "targets_scanned": [
     "charmingtranskw.xyz"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -18,62 +18,6 @@
   "resource_executions": [
     {
       "resource": "driftnet",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,15 +33,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "certspotter",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "c99",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +57,39 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "domscan",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,6 +105,14 @@
       "error": null
     },
     {
+      "resource": "bevigil",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
@@ -145,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "digitalyama",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +129,23 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "dnsdb",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "chaos",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +177,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "facebook",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "fofa",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +193,15 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "github",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,15 +217,23 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "intelx",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "digitorus",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "abuseipdb",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -257,15 +265,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "odin",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "pugrecon",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,23 +297,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidapi",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +309,15 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 96,
+      "duration_ms": 99,
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rapidapi",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 202,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -337,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 234,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
@@ -345,31 +345,23 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 252,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 212,
+      "duration_ms": 276,
       "error": null
     },
     {
       "resource": "redhuntlabs",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 50,
-      "error": null
-    },
-    {
-      "resource": "robtex",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,11 +377,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 286,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 500,
+      "duration_ms": 440,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 923,
+      "duration_ms": 996,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1059,
+      "duration_ms": 1154,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 99,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 125,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3072,
+      "duration_ms": 3070,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3067,
-      "error": null
-    },
-    {
       "resource": "trickest",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3056,
       "error": null
     },
     {
@@ -501,7 +501,7 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3391,
+      "duration_ms": 3601,
       "error": null
     },
     {
@@ -521,7 +521,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "windvane",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,7 +529,7 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "zoomeyeapi",
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,7 +541,7 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 3086,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27982,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 26268,
+      "duration_ms": 26997,
       "error": null
     },
     {
@@ -565,15 +557,7 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30559,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "charmingtranskw.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45054,
+      "duration_ms": 30712,
       "error": null
     },
     {
@@ -581,7 +565,7 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61660,
+      "duration_ms": 61592,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "charmingtranskw.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65979,
+      "duration_ms": 65967,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65966,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "charmingtranskw.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65572,
       "error": null
     }
   ]

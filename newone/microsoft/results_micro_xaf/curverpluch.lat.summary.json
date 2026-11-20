@@ -1,37 +1,21 @@
 {
   "root_domain": "curverpluch.lat",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:53:03.980272+00:00",
-  "completed_at": "2026-11-20T08:54:12.913040+00:00",
-  "duration_ms": 68932,
+  "started_at": "2026-11-20T22:30:32.250781+00:00",
+  "completed_at": "2026-11-20T22:31:38.247769+00:00",
+  "duration_ms": 65996,
   "targets_scanned": [
     "curverpluch.lat"
   ],
   "total_unique_findings": 2,
-  "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
-  "reused_historical_findings_count": 0,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
+  "reused_historical_findings_count": 1,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "domainsproject",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "driftnet",
       "target": "curverpluch.lat",
@@ -49,15 +33,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "digitalyama",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "certspotter",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,47 +65,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "github",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "domscan",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "google",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,15 +97,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "domainsproject",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -178,6 +106,14 @@
     },
     {
       "resource": "arpsyndicate",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "chinaz",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +145,67 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "fullhunt",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,11 +225,11 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,11 +257,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -305,19 +305,35 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 93,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 79,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 112,
       "error": null
     },
     {
@@ -333,31 +349,7 @@
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 181,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 224,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 278,
+      "duration_ms": 218,
       "error": null
     },
     {
@@ -369,11 +361,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hudsonrock",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 80,
+      "duration_ms": 235,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 247,
       "error": null
     },
     {
@@ -393,7 +393,7 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "shodan",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,7 +401,7 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "securitytrails",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,15 @@
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
       "error": null
     },
     {
@@ -421,31 +429,15 @@
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 453,
+      "duration_ms": 482,
       "error": null
-    },
-    {
-      "resource": "racent",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 930,
-      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "myssl",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1115,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 109,
+      "duration_ms": 1117,
       "error": null
     },
     {
@@ -457,27 +449,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "racent",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3074,
-      "error": null
+      "duration_ms": 1187,
+      "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "shrewdeye",
+      "resource": "thc",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3045,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "findings_count": 1,
+      "duration_ms": 112,
       "error": null
     },
     {
@@ -489,11 +473,35 @@
       "error": null
     },
     {
+      "resource": "urlscan",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3059,
+      "error": null
+    },
+    {
       "resource": "virustotal",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3068,
       "error": null
     },
     {
@@ -505,23 +513,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3515,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,51 +529,27 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3270,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3064,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28889,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30422,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 44656,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61749,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "curverpluch.lat",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65923,
+      "duration_ms": 3079,
       "error": null
     },
     {
@@ -589,7 +557,39 @@
       "target": "curverpluch.lat",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65547,
+      "duration_ms": 11320,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31845,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33372,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61437,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "curverpluch.lat",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65986,
       "error": null
     }
   ]
