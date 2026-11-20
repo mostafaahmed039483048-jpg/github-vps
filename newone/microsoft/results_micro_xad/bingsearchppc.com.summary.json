@@ -1,53 +1,21 @@
 {
   "root_domain": "bingsearchppc.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:42:38.922226+00:00",
-  "completed_at": "2026-11-20T07:43:45.911752+00:00",
-  "duration_ms": 66989,
+  "started_at": "2026-11-20T21:16:41.250310+00:00",
+  "completed_at": "2026-11-20T21:18:38.258271+00:00",
+  "duration_ms": 117007,
   "targets_scanned": [
     "bingsearchppc.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "github",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "c99",
       "target": "bingsearchppc.com",
@@ -57,7 +25,23 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "certspotter",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -66,14 +50,6 @@
     },
     {
       "resource": "fullhunt",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,6 +73,70 @@
       "error": null
     },
     {
+      "resource": "arpsyndicate",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "digitalyama",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
@@ -113,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "dnsrepo",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,79 +161,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "dnsdumpster",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +177,43 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "domainsproject",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -225,15 +225,7 @@
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 50,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "odin",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +265,23 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 40,
+      "error": null
+    },
+    {
       "resource": "profundis",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,15 +305,31 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "anubis",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 71,
+      "duration_ms": 93,
       "error": null
     },
     {
       "resource": "rapidapi",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 254,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,27 +345,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 78,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 218,
+      "duration_ms": 270,
       "error": null
     },
     {
@@ -365,15 +365,7 @@
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -385,11 +377,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapiddns",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 273,
+      "duration_ms": 446,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,23 +413,7 @@
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 306,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 483,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -437,8 +421,24 @@
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 919,
+      "duration_ms": 1145,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1447,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3071,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,31 +453,15 @@
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 105,
+      "duration_ms": 111,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "shrewdeye",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1163,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 57,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -489,7 +473,7 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +481,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
+      "duration_ms": 3270,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -521,6 +513,14 @@
       "error": null
     },
     {
+      "resource": "threatcrowd",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3150,
+      "error": null
+    },
+    {
       "resource": "windvane",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "submd",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3052,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3298,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "bingsearchppc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3078,
+      "duration_ms": 13853,
       "error": null
     },
     {
@@ -565,15 +549,23 @@
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30166,
+      "duration_ms": 29584,
       "error": null
     },
     {
-      "resource": "submd",
+      "resource": "alienvault",
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45435,
+      "duration_ms": 45156,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61503,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingsearchppc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65708,
+      "duration_ms": 65530,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingsearchppc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 117000,
       "error": null
     }
   ]
