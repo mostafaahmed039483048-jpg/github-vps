@@ -1,63 +1,23 @@
 {
   "root_domain": "as8075.net",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:29:42.918403+00:00",
-  "completed_at": "2026-11-20T07:30:48.912835+00:00",
-  "duration_ms": 65994,
+  "started_at": "2026-11-20T20:50:11.251773+00:00",
+  "completed_at": "2026-11-20T20:52:32.265260+00:00",
+  "duration_ms": 141013,
   "targets_scanned": [
     "as8075.net"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domainsproject",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "github",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,95 +33,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "builtwith",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,14 +49,6 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "c99",
       "target": "as8075.net",
       "recursion_depth": 0,
@@ -193,7 +57,31 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "bufferover",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +97,127 @@
       "error": null
     },
     {
+      "resource": "digitalyama",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "huntermap",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,15 +229,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 42,
       "error": null
     },
     {
@@ -261,7 +261,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 59,
       "error": null
     },
     {
@@ -317,7 +317,15 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 63,
+      "duration_ms": 89,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -333,15 +341,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 181,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 172,
       "error": null
     },
     {
@@ -349,15 +349,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 227,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 249,
       "error": null
     },
     {
@@ -366,6 +358,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 263,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 283,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 496,
+      "duration_ms": 567,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 974,
+      "duration_ms": 921,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1064,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 101,
+      "duration_ms": 2067,
       "error": null
     },
     {
@@ -457,23 +449,31 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 102,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
+      "duration_ms": 3059,
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3040,
+      "duration_ms": 16,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -494,14 +494,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3390,
       "error": null
     },
     {
@@ -521,6 +513,14 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3061,
+      "error": null
+    },
+    {
       "resource": "windvane",
       "target": "as8075.net",
       "recursion_depth": 0,
@@ -537,11 +537,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3113,
+      "duration_ms": 3086,
       "error": null
     },
     {
@@ -549,15 +557,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 10864,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22056,
+      "duration_ms": 9470,
       "error": null
     },
     {
@@ -565,23 +565,7 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29967,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41830,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "as8075.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49630,
+      "duration_ms": 32176,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "as8075.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 66000,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65646,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "as8075.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 141004,
       "error": null
     }
   ]
