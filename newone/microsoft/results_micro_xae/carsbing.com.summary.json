@@ -1,111 +1,23 @@
 {
   "root_domain": "carsbing.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:08:44.923020+00:00",
-  "completed_at": "2026-11-20T08:09:53.912173+00:00",
-  "duration_ms": 68989,
+  "started_at": "2026-11-20T21:43:16.249525+00:00",
+  "completed_at": "2026-11-20T21:46:07.252312+00:00",
+  "duration_ms": 171002,
   "targets_scanned": [
     "carsbing.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "binaryedge",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "google",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,47 +33,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "dnsdb",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "driftnet",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +57,23 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "domscan",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +89,54 @@
       "error": null
     },
     {
+      "resource": "binaryedge",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "argosdns",
       "target": "carsbing.com",
       "recursion_depth": 0,
@@ -209,19 +145,75 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "digitalyama",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
       "error": null
     },
     {
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "netlas",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -273,11 +265,11 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "anubis",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 60,
       "error": null
     },
     {
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "carsbing.com",
       "recursion_depth": 0,
@@ -305,35 +305,19 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 63,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 86,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 114,
       "error": null
     },
     {
@@ -349,11 +333,11 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 191,
+      "duration_ms": 177,
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "rapidscan",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -365,15 +349,23 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 229,
+      "duration_ms": 216,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "redhuntlabs",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 241,
       "error": null
     },
     {
@@ -389,11 +381,11 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 46,
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "rsecloud",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 286,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -429,23 +421,23 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 536,
+      "duration_ms": 423,
       "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1191,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "myssl",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1150,
-      "error": null
-    },
-    {
-      "resource": "threatbook",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1937,
       "error": null
     },
     {
@@ -457,23 +449,7 @@
       "error": null
     },
     {
-      "resource": "racent",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1790,
-      "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "urlscan",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "trickest",
+      "resource": "threatbook",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -485,7 +461,31 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3064,
+      "duration_ms": 3066,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3053,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -494,14 +494,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3061,
       "error": null
     },
     {
@@ -521,6 +513,14 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
       "resource": "windvane",
       "target": "carsbing.com",
       "recursion_depth": 0,
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3389,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3084,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "carsbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20693,
+      "duration_ms": 3170,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29999,
+      "duration_ms": 32070,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61335,
+      "duration_ms": 36074,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61484,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 65987,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "carsbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65686,
+      "duration_ms": 65645,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "carsbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 170994,
       "error": null
     }
   ]

@@ -1,183 +1,23 @@
 {
   "root_domain": "bingciao.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:50:47.938708+00:00",
-  "completed_at": "2026-11-20T07:51:56.913968+00:00",
-  "duration_ms": 68975,
+  "started_at": "2026-11-20T21:43:28.247178+00:00",
+  "completed_at": "2026-11-20T21:46:19.251914+00:00",
+  "duration_ms": 171004,
   "targets_scanned": [
     "bingciao.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "c99",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +33,119 @@
       "error": null
     },
     {
+      "resource": "builtwith",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +161,59 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "certspotter",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
       "error": null
     },
     {
@@ -233,7 +233,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "leakix",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "merklemap",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,31 +257,15 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
       "resource": "netlas",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +289,15 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "pugrecon",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,15 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 57,
+      "duration_ms": 85,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -325,15 +325,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 183,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 179,
       "error": null
     },
     {
@@ -345,23 +337,7 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 244,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 289,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rapidfinder",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -369,15 +345,23 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 254,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "hudsonrock",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 256,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -393,11 +377,19 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "rsecloud",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 105,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 509,
+      "duration_ms": 436,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 965,
+      "duration_ms": 1194,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1504,
+      "duration_ms": 1273,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 100,
+      "duration_ms": 122,
       "error": null
     },
     {
@@ -461,7 +461,15 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3052,
+      "duration_ms": 3224,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3128,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3044,
       "error": null
     },
     {
@@ -497,7 +497,7 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,7 +505,7 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -517,7 +517,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 3488,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3074,
+      "duration_ms": 3132,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 10813,
+      "duration_ms": 8200,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31707,
+      "duration_ms": 30647,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42158,
+      "duration_ms": 61485,
       "error": null
     },
     {
@@ -573,15 +573,7 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46614,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingciao.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65966,
+      "duration_ms": 65989,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingciao.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65607,
+      "duration_ms": 65477,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingciao.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 170995,
       "error": null
     }
   ]

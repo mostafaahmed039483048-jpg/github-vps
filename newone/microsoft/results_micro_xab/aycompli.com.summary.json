@@ -1,21 +1,69 @@
 {
   "root_domain": "aycompli.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:14:22.922073+00:00",
-  "completed_at": "2026-11-20T08:15:31.911233+00:00",
-  "duration_ms": 68989,
+  "started_at": "2026-11-20T21:45:10.780823+00:00",
+  "completed_at": "2026-11-20T21:46:16.244039+00:00",
+  "duration_ms": 65463,
   "targets_scanned": [
     "aycompli.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
+    {
+      "resource": "google",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
     {
       "resource": "binaryedge",
       "target": "aycompli.com",
@@ -33,79 +81,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
+      "resource": "censys",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,55 +97,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
+      "resource": "argosdns",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,6 +113,78 @@
       "error": null
     },
     {
+      "resource": "driftnet",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdumpster",
       "target": "aycompli.com",
       "recursion_depth": 0,
@@ -193,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "domainsproject",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +201,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "digitalyama",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,11 +213,11 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 22,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "huntermap",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "intelx",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,19 +257,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
-      "error": null
-    },
-    {
       "resource": "netlas",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31,
       "error": null
     },
     {
@@ -305,31 +305,15 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "anubis",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 70,
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 199,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,31 +329,23 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 221,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 244,
+      "duration_ms": 221,
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rapidscan",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -381,7 +357,31 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 288,
+      "duration_ms": 249,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 508,
+      "duration_ms": 460,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1221,
+      "duration_ms": 990,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1382,
+      "duration_ms": 1342,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 102,
+      "duration_ms": 96,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 3097,
       "error": null
     },
     {
@@ -469,11 +469,11 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 3037,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -501,11 +501,11 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3300,
+      "duration_ms": 3270,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,15 +541,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3075,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 11312,
+      "duration_ms": 3105,
       "error": null
     },
     {
@@ -557,15 +549,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15581,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20686,
+      "duration_ms": 11127,
       "error": null
     },
     {
@@ -573,15 +557,7 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29090,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "aycompli.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65995,
+      "duration_ms": 30440,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "aycompli.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65622,
+      "duration_ms": 50109,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57316,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61558,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "aycompli.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65454,
       "error": null
     }
   ]
