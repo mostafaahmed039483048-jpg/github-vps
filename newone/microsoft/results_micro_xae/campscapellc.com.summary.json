@@ -1,191 +1,23 @@
 {
   "root_domain": "campscapellc.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:44:39.997620+00:00",
-  "completed_at": "2026-11-20T07:45:45.924668+00:00",
-  "duration_ms": 65927,
+  "started_at": "2026-11-20T21:11:18.248710+00:00",
+  "completed_at": "2026-11-20T21:12:50.932420+00:00",
+  "duration_ms": 92683,
   "targets_scanned": [
     "campscapellc.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "argosdns",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +33,191 @@
       "error": null
     },
     {
+      "resource": "google",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domainsproject",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,39 +233,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "digitorus",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 23,
-      "error": null
-    },
-    {
-      "resource": "leakix",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 24,
       "error": null
     },
     {
       "resource": "merklemap",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "odin",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,15 +257,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 27,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "leakix",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +273,15 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "odin",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "pugrecon",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -313,19 +305,19 @@
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
-      "error": null
-    },
-    {
       "resource": "anubis",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 59,
+      "duration_ms": 116,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -349,7 +341,15 @@
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 190,
+      "duration_ms": 182,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 252,
       "error": null
     },
     {
@@ -361,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "reconeer",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 199,
+      "duration_ms": 55,
       "error": null
     },
     {
@@ -377,19 +377,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
       "resource": "robtex",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 445,
       "error": null
     },
     {
@@ -413,23 +413,15 @@
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 22,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "hudsonrock",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 285,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 426,
+      "duration_ms": 946,
       "error": null
     },
     {
@@ -437,15 +429,15 @@
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1235,
+      "duration_ms": 1178,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "thc",
+      "resource": "myssl",
       "target": "campscapellc.com",
       "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 114,
+      "findings_count": 0,
+      "duration_ms": 1292,
       "error": null
     },
     {
@@ -457,19 +449,27 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "campscapellc.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1532,
+      "findings_count": 2,
+      "duration_ms": 136,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "riddler",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3067,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3077,
       "error": null
     },
     {
@@ -481,15 +481,7 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 24,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
+      "resource": "trickest",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,7 +489,7 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "virustotal",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,19 +505,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3062,
-      "error": null
-    },
-    {
-      "resource": "windvane",
+      "resource": "whoisxml",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3518,
       "error": null
     },
     {
@@ -537,19 +529,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "windvane",
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3095,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "campscapellc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3415,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -557,7 +541,7 @@
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3094,
+      "duration_ms": 3158,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23646,
+      "duration_ms": 30342,
       "error": null
     },
     {
@@ -573,7 +557,7 @@
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32661,
+      "duration_ms": 32705,
       "error": null
     },
     {
@@ -581,7 +565,15 @@
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49633,
+      "duration_ms": 34925,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61270,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "campscapellc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65917,
+      "duration_ms": 65986,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "campscapellc.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 92673,
       "error": null
     }
   ]

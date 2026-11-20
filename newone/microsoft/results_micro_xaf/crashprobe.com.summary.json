@@ -1,95 +1,23 @@
 {
   "root_domain": "crashprobe.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:51:07.926680+00:00",
-  "completed_at": "2026-11-20T07:52:16.913920+00:00",
-  "duration_ms": 68987,
+  "started_at": "2026-11-20T21:11:41.250146+00:00",
+  "completed_at": "2026-11-20T21:13:06.251621+00:00",
+  "duration_ms": 85001,
   "targets_scanned": [
     "crashprobe.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
+      "resource": "builtwith",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,22 +33,6 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "censys",
       "target": "crashprobe.com",
       "recursion_depth": 0,
@@ -129,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "fofa",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "arpsyndicate",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "coderog",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +65,15 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "digitalyama",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "chinaz",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "github",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +105,15 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "argosdns",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +137,71 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "dnsdumpster",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,7 +213,15 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,14 +249,6 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "crashprobe.com",
       "recursion_depth": 0,
@@ -269,7 +261,15 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 54,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 73,
+      "duration_ms": 68,
       "error": null
     },
     {
@@ -329,31 +329,15 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 207,
-      "error": null
-    },
-    {
       "resource": "alienvault",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 261,
+      "duration_ms": 172,
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "rapidscan",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -365,19 +349,11 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 296,
+      "duration_ms": 260,
       "error": null
     },
     {
-      "resource": "robtex",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
+      "resource": "redhuntlabs",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -389,11 +365,27 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42,
+      "duration_ms": 54,
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "robtex",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 416,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 515,
+      "duration_ms": 15,
       "error": null
     },
     {
@@ -429,15 +421,23 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 936,
+      "duration_ms": 935,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1108,
+      "error": null
     },
     {
       "resource": "myssl",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1332,
+      "duration_ms": 1856,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 98,
+      "duration_ms": 97,
       "error": null
     },
     {
@@ -461,23 +461,7 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3042,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3047,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3054,
       "error": null
     },
     {
@@ -489,7 +473,31 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3058,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "virustotal",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -509,15 +517,7 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3297,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3275,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3123,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20563,
+      "duration_ms": 3058,
       "error": null
     },
     {
@@ -557,23 +549,7 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32848,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 36774,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "crashprobe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 48970,
+      "duration_ms": 31938,
       "error": null
     },
     {
@@ -581,7 +557,23 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61286,
+      "duration_ms": 61522,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61293,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65985,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "crashprobe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65599,
+      "duration_ms": 65427,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "crashprobe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 84992,
       "error": null
     }
   ]
