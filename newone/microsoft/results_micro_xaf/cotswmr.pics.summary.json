@@ -1,119 +1,23 @@
 {
   "root_domain": "cotswmr.pics",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:34:19.920717+00:00",
-  "completed_at": "2026-11-20T07:35:28.911462+00:00",
-  "duration_ms": 68990,
+  "started_at": "2026-11-20T20:49:55.970962+00:00",
+  "completed_at": "2026-11-20T20:51:22.096430+00:00",
+  "duration_ms": 86125,
   "targets_scanned": [
     "cotswmr.pics"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domainsproject",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "chaos",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,31 +33,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "chinaz",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +57,31 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "driftnet",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,6 +97,22 @@
       "error": null
     },
     {
+      "resource": "google",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "c99",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
@@ -201,7 +121,87 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "binaryedge",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,19 +225,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
-      "error": null
-    },
-    {
-      "resource": "leakix",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -249,11 +241,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "leakix",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,7 +257,23 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 67,
+      "error": null
+    },
+    {
       "resource": "netlas",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
@@ -305,31 +305,15 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 109,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 72,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 203,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,11 +329,27 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 190,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 217,
+      "duration_ms": 224,
       "error": null
     },
     {
@@ -361,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 244,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 284,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 425,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 887,
+      "duration_ms": 520,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 976,
+      "duration_ms": 928,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 977,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,7 +453,7 @@
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 110,
+      "duration_ms": 112,
       "error": null
     },
     {
@@ -461,7 +461,15 @@
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3037,
+      "duration_ms": 3090,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -474,14 +482,6 @@
     },
     {
       "resource": "trickest",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,19 +505,19 @@
       "error": null
     },
     {
+      "resource": "threatminer",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3293,
       "error": null
     },
     {
@@ -537,6 +537,14 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
@@ -545,35 +553,19 @@
       "error": null
     },
     {
-      "resource": "reconcloud",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30851,
-      "error": null
-    },
-    {
       "resource": "submd",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43225,
+      "duration_ms": 12441,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconcloud",
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45076,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "cotswmr.pics",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41908,
+      "duration_ms": 32563,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65987,
+      "duration_ms": 65277,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "cotswmr.pics",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65625,
+      "duration_ms": 65913,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cotswmr.pics",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 86113,
       "error": null
     }
   ]
