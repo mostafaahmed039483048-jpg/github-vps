@@ -1,23 +1,23 @@
 {
   "root_domain": "accounts-inbox.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T09:02:00.921469+00:00",
-  "completed_at": "2026-11-20T09:03:09.922911+00:00",
-  "duration_ms": 69001,
+  "started_at": "2026-11-20T22:43:58.254092+00:00",
+  "completed_at": "2026-11-20T22:45:54.265369+00:00",
+  "duration_ms": 116011,
   "targets_scanned": [
     "accounts-inbox.com"
   ],
   "total_unique_findings": 83,
   "fresh_findings_count": 83,
-  "historical_findings_count": 0,
-  "new_findings_count": 83,
+  "historical_findings_count": 83,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
+      "resource": "certspotter",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,15 +25,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "c99",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,23 +41,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "google",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "chaos",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,23 +65,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "arpsyndicate",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,39 +97,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "domscan",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "domainsproject",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +121,23 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "dnsdumpster",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "bufferover",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,7 +161,55 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "coderog",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +221,15 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -261,19 +261,11 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 56,
       "error": null
     },
     {
       "resource": "netlas",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "onyphe",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,11 +297,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "quake",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 72,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -321,11 +313,11 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "anubis",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 75,
       "error": null
     },
     {
@@ -341,19 +333,11 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 186,
+      "duration_ms": 184,
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 287,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rapidscan",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -365,7 +349,23 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 292,
+      "duration_ms": 185,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 69,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42,
-      "error": null
-    },
-    {
-      "resource": "shodan",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 256,
       "error": null
     },
     {
@@ -409,11 +401,27 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 22,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 82,
+      "duration_ms": 837,
       "error": null
     },
     {
@@ -421,23 +429,15 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1481,
+      "duration_ms": 1185,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "rapiddns",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 82,
-      "duration_ms": 1610,
-      "error": null
     },
     {
       "resource": "myssl",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2994,
+      "duration_ms": 1953,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 99,
+      "duration_ms": 126,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3069,
+      "duration_ms": 3080,
       "error": null
     },
     {
@@ -485,7 +485,7 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3056,
+      "duration_ms": 3072,
       "error": null
     },
     {
@@ -501,15 +501,7 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3529,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3471,
       "error": null
     },
     {
@@ -521,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3111,
+      "duration_ms": 3160,
       "error": null
     },
     {
@@ -549,39 +549,7 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28358,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30285,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45016,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41903,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "accounts-inbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65943,
+      "duration_ms": 12731,
       "error": null
     },
     {
@@ -589,7 +557,39 @@
       "target": "accounts-inbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65535,
+      "duration_ms": 12730,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32514,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61590,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65981,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "accounts-inbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 115989,
       "error": null
     }
   ]
