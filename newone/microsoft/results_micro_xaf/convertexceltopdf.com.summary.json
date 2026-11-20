@@ -1,23 +1,31 @@
 {
   "root_domain": "convertexceltopdf.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:01:46.925520+00:00",
-  "completed_at": "2026-11-20T07:02:55.913496+00:00",
-  "duration_ms": 68987,
+  "started_at": "2026-11-20T20:10:40.249388+00:00",
+  "completed_at": "2026-11-20T20:12:06.247337+00:00",
+  "duration_ms": 85997,
   "targets_scanned": [
     "convertexceltopdf.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
+      "resource": "facebook",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,14 +41,6 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bufferover",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
@@ -49,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "domscan",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +65,39 @@
       "error": null
     },
     {
+      "resource": "argosdns",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "google",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,31 +113,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
+      "resource": "chinaz",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "fofa",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "bevigil",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,15 +161,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "c99",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +177,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "certspotter",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "arpsyndicate",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "censys",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +201,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "builtwith",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,19 +221,11 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 27,
       "error": null
     },
     {
       "resource": "huntermap",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,15 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "merklemap",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,11 +261,11 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 38,
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,19 +305,27 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 52,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 119,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 218,
       "error": null
     },
     {
@@ -341,15 +349,15 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 199,
+      "duration_ms": 229,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 207,
+      "duration_ms": 266,
       "error": null
     },
     {
@@ -365,7 +373,7 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 62,
       "error": null
     },
     {
@@ -382,14 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 287,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 12,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 449,
+      "duration_ms": 509,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1170,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 972,
+      "duration_ms": 1164,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1639,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 101,
+      "duration_ms": 123,
       "error": null
     },
     {
@@ -457,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3045,
-      "error": null
-    },
-    {
       "resource": "shrewdeye",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 3088,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3294,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
@@ -518,6 +510,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3364,
       "error": null
     },
     {
@@ -537,19 +537,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3488,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3144,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32295,
+      "duration_ms": 3091,
       "error": null
     },
     {
@@ -557,23 +557,15 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42376,
+      "duration_ms": 13042,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "reconcloud",
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61593,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "convertexceltopdf.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65972,
+      "duration_ms": 31825,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65972,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "convertexceltopdf.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65617,
+      "duration_ms": 65539,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "convertexceltopdf.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 85989,
       "error": null
     }
   ]

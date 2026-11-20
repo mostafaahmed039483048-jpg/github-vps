@@ -1,16 +1,16 @@
 {
   "root_domain": "appservicefeedback.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:58:30.920287+00:00",
-  "completed_at": "2026-11-20T06:59:39.911477+00:00",
-  "duration_ms": 68991,
+  "started_at": "2026-11-20T20:10:35.249652+00:00",
+  "completed_at": "2026-11-20T20:11:44.244549+00:00",
+  "duration_ms": 68994,
   "targets_scanned": [
     "appservicefeedback.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -18,70 +18,6 @@
   "resource_executions": [
     {
       "resource": "bevigil",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,79 +33,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "domscan",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "bufferover",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +57,119 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "domainsproject",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +185,23 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "c99",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "builtwith",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -230,6 +214,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41,
       "error": null
     },
     {
@@ -257,15 +257,23 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "odin",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "abuseipdb",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65,
+      "duration_ms": 84,
       "error": null
     },
     {
@@ -318,14 +318,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 221,
       "error": null
     },
     {
@@ -349,7 +341,23 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 251,
+      "duration_ms": 182,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 214,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
       "error": null
     },
     {
@@ -361,11 +369,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 286,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -385,11 +393,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "shodan",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 56,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 423,
+      "duration_ms": 463,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1228,
+      "duration_ms": 971,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1413,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 125,
+      "duration_ms": 2428,
       "error": null
     },
     {
@@ -457,11 +449,27 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 105,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3042,
+      "duration_ms": 3064,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3050,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 24,
       "error": null
     },
     {
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "whoisfreaks",
+      "target": "appservicefeedback.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
@@ -505,15 +513,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3039,
+      "duration_ms": 34,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "windvane",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "appservicefeedback.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "sitedossier",
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3292,
+      "duration_ms": 3271,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
+      "duration_ms": 3163,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 14657,
+      "duration_ms": 30537,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29805,
+      "duration_ms": 31691,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 41164,
+      "duration_ms": 57489,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65992,
+      "duration_ms": 65988,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "appservicefeedback.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65620,
+      "duration_ms": 65651,
       "error": null
     }
   ]
