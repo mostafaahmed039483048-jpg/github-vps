@@ -1,63 +1,23 @@
 {
   "root_domain": "castmaxw.run",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:19:05.956687+00:00",
-  "completed_at": "2026-11-20T08:20:14.913055+00:00",
-  "duration_ms": 68956,
+  "started_at": "2026-11-20T21:55:39.255562+00:00",
+  "completed_at": "2026-11-20T21:56:48.246270+00:00",
+  "duration_ms": 68990,
   "targets_scanned": [
     "castmaxw.run"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "facebook",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
+      "resource": "google",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,15 +33,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "chinaz",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,23 +49,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
+      "resource": "fofa",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "digitalyama",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,31 +73,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "chaos",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "certspotter",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +97,63 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "argosdns",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +169,39 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "censys",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,19 +221,11 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 57,
       "error": null
     },
     {
       "resource": "huntermap",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,19 +241,11 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 40,
       "error": null
     },
     {
@@ -273,7 +257,15 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "digitorus",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 62,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "castmaxw.run",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65,
+      "duration_ms": 107,
       "error": null
     },
     {
@@ -321,19 +321,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 220,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 183,
       "error": null
     },
     {
@@ -349,7 +349,15 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 263,
+      "duration_ms": 227,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 67,
       "error": null
     },
     {
@@ -361,15 +369,7 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 266,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,15 +377,15 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 296,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 484,
+      "duration_ms": 571,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 966,
+      "duration_ms": 2160,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1036,
+      "duration_ms": 2806,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 118,
       "error": null
     },
     {
@@ -449,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
+      "resource": "shrewdeye",
       "target": "castmaxw.run",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 108,
+      "findings_count": 0,
+      "duration_ms": 3097,
       "error": null
     },
     {
@@ -461,7 +469,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
+      "duration_ms": 3373,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3028,
       "error": null
     },
     {
@@ -501,15 +501,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3298,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3502,
       "error": null
     },
     {
@@ -521,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3079,
+      "duration_ms": 3108,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27709,
+      "duration_ms": 26483,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31119,
+      "duration_ms": 31908,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42407,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "castmaxw.run",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 46611,
+      "duration_ms": 61537,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65946,
+      "duration_ms": 65970,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "castmaxw.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65971,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "castmaxw.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65584,
+      "duration_ms": 65302,
       "error": null
     }
   ]
