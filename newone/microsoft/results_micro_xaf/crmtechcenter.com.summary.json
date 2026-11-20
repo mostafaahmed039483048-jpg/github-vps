@@ -1,77 +1,21 @@
 {
   "root_domain": "crmtechcenter.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:32:54.919445+00:00",
-  "completed_at": "2026-11-20T08:34:01.913301+00:00",
-  "duration_ms": 66993,
+  "started_at": "2026-11-20T22:06:27.389674+00:00",
+  "completed_at": "2026-11-20T22:07:44.260986+00:00",
+  "duration_ms": 76871,
   "targets_scanned": [
     "crmtechcenter.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "dnsdumpster",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "driftnet",
       "target": "crmtechcenter.com",
@@ -81,63 +25,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "google",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +41,47 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "domainsproject",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -162,6 +90,30 @@
     },
     {
       "resource": "certspotter",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +137,63 @@
       "error": null
     },
     {
+      "resource": "digitalyama",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "binaryedge",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,22 +209,6 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "huntermap",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
@@ -225,11 +217,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 50,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -313,11 +313,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "digitorus",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 72,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -329,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 196,
+      "error": null
+    },
+    {
       "resource": "rapidfinder",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
@@ -337,27 +345,19 @@
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 101,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 233,
+      "duration_ms": 241,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 265,
+      "duration_ms": 248,
       "error": null
     },
     {
@@ -389,7 +389,7 @@
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -409,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 290,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -429,7 +421,15 @@
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 462,
+      "duration_ms": 450,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1188,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 963,
+      "duration_ms": 1175,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -453,31 +453,15 @@
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 104,
+      "duration_ms": 122,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1378,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -489,7 +473,39 @@
       "error": null
     },
     {
+      "resource": "trickest",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3074,
+      "error": null
+    },
+    {
       "resource": "virustotal",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3276,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +521,7 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3042,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "windvane",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,43 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3072,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3391,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3055,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "crmtechcenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32586,
+      "duration_ms": 3165,
       "error": null
     },
     {
@@ -573,7 +549,23 @@
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47116,
+      "duration_ms": 25383,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31469,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 62350,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 65845,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "crmtechcenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65508,
+      "duration_ms": 65454,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "crmtechcenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 76862,
       "error": null
     }
   ]
