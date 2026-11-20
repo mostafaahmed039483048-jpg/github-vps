@@ -1,47 +1,23 @@
 {
   "root_domain": "bingtelevision.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:40:01.999653+00:00",
-  "completed_at": "2026-11-20T08:41:07.914281+00:00",
-  "duration_ms": 65914,
+  "started_at": "2026-11-20T22:34:02.252030+00:00",
+  "completed_at": "2026-11-20T22:35:11.246772+00:00",
+  "duration_ms": 68994,
   "targets_scanned": [
     "bingtelevision.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "dnsrepo",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +33,143 @@
       "error": null
     },
     {
+      "resource": "facebook",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "binaryedge",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,62 +193,6 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "c99",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
@@ -145,7 +201,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "dnsdumpster",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,55 +209,15 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "digitorus",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 24,
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "huntermap",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -214,22 +230,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "odin",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,19 +269,11 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 59,
+      "duration_ms": 29,
       "error": null
     },
     {
       "resource": "pugrecon",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,11 +297,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "quake",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 66,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -321,19 +313,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "anubis",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -345,23 +329,7 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 210,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 241,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rapidscan",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -369,7 +337,31 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "crtsh",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 111,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 186,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 202,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,15 +377,15 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 289,
+      "duration_ms": 54,
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "rsecloud",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "shodan",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 92,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 260,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 71,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 503,
+      "duration_ms": 454,
       "error": null
     },
     {
@@ -437,16 +437,8 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1268,
+      "duration_ms": 1218,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "thc",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 110,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -457,19 +449,19 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 94,
+      "error": null
+    },
+    {
       "resource": "myssl",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1679,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3126,
+      "duration_ms": 1773,
       "error": null
     },
     {
@@ -489,15 +481,15 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "riddler",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3040,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "virustotal",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,11 +505,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3251,
+      "duration_ms": 3046,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3388,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -549,23 +549,7 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3125,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31363,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingtelevision.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36860,
+      "duration_ms": 3064,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44160,
+      "duration_ms": 15630,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29923,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61396,
+      "duration_ms": 61533,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingtelevision.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65904,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingtelevision.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65740,
       "error": null
     }
   ]
