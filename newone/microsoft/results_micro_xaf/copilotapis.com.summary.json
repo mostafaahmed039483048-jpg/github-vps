@@ -1,157 +1,21 @@
 {
   "root_domain": "copilotapis.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:07:24.918390+00:00",
-  "completed_at": "2026-11-20T07:08:30.912198+00:00",
-  "duration_ms": 65993,
+  "started_at": "2026-11-20T20:17:42.247161+00:00",
+  "completed_at": "2026-11-20T20:18:51.246727+00:00",
+  "duration_ms": 68999,
   "targets_scanned": [
     "copilotapis.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "c99",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "argosdns",
       "target": "copilotapis.com",
@@ -161,23 +25,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "binaryedge",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,6 +41,110 @@
       "error": null
     },
     {
+      "resource": "google",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bufferover",
       "target": "copilotapis.com",
       "recursion_depth": 0,
@@ -201,7 +153,55 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "fullhunt",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +221,19 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 31,
       "error": null
     },
     {
       "resource": "intelx",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "odin",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,15 +269,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
-      "error": null
-    },
-    {
-      "resource": "odin",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -305,19 +305,35 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 103,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 181,
       "error": null
     },
     {
@@ -333,23 +349,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 284,
+      "duration_ms": 186,
       "error": null
     },
     {
@@ -365,7 +365,15 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 49,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 250,
       "error": null
     },
     {
@@ -374,14 +382,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 360,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 19,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 445,
+      "duration_ms": 452,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1153,
+      "duration_ms": 1019,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1419,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 110,
+      "duration_ms": 1402,
       "error": null
     },
     {
@@ -457,23 +449,31 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 114,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3078,
+      "duration_ms": 3045,
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3078,
+      "duration_ms": 6,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "shrewdeye",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3042,
       "error": null
     },
     {
@@ -513,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "whoisxml",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3298,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -537,11 +537,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3268,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3199,
+      "duration_ms": 3168,
       "error": null
     },
     {
@@ -549,15 +557,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32776,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29906,
+      "duration_ms": 30144,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42979,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "copilotapis.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61411,
+      "duration_ms": 43046,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 45070,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "copilotapis.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65994,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "copilotapis.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65702,
       "error": null
     }
   ]

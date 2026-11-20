@@ -1,39 +1,23 @@
 {
   "root_domain": "buy-kinect.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:04:06.931058+00:00",
-  "completed_at": "2026-11-20T07:05:12.913028+00:00",
-  "duration_ms": 65981,
+  "started_at": "2026-11-20T20:18:16.259840+00:00",
+  "completed_at": "2026-11-20T20:19:32.313344+00:00",
+  "duration_ms": 76053,
   "targets_scanned": [
     "buy-kinect.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domainsproject",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
+      "resource": "argosdns",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,63 +41,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "bufferover",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,39 +57,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "facebook",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,23 +73,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "dnsrepo",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "coderog",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,15 +97,135 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "builtwith",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
       "resource": "huntermap",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "netlas",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 57,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,19 +265,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "digitorus",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 60,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "onyphe",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,15 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 82,
+      "duration_ms": 104,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -329,14 +329,6 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 193,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
@@ -345,11 +337,27 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 180,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 244,
+      "duration_ms": 222,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 252,
       "error": null
     },
     {
@@ -365,15 +373,7 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -385,15 +385,7 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 316,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
+      "resource": "rsecloud",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 460,
+      "duration_ms": 541,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1771,
       "error": null
     },
     {
@@ -429,16 +437,8 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 915,
+      "duration_ms": 1879,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 2252,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,7 +453,7 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 107,
+      "duration_ms": 105,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3036,
+      "duration_ms": 3044,
       "error": null
     },
     {
@@ -469,11 +469,11 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 3050,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
@@ -513,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "threatminer",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3513,
+      "duration_ms": 47,
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,27 +529,27 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 23039,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29572,
+      "duration_ms": 3074,
       "error": null
     },
     {
@@ -565,23 +557,15 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32448,
+      "duration_ms": 31832,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "submd",
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34050,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "buy-kinect.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61444,
+      "duration_ms": 45050,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "buy-kinect.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65965,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65641,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "buy-kinect.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 76044,
       "error": null
     }
   ]
