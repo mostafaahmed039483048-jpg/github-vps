@@ -1,95 +1,23 @@
 {
   "root_domain": "bingtextad.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:41:07.921113+00:00",
-  "completed_at": "2026-11-20T08:42:20.913235+00:00",
-  "duration_ms": 72992,
+  "started_at": "2026-11-20T22:35:11.251243+00:00",
+  "completed_at": "2026-11-20T22:36:20.244402+00:00",
+  "duration_ms": 68993,
   "targets_scanned": [
     "bingtextad.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "coderog",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "driftnet",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "argosdns",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "bufferover",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +65,31 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "fofa",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,6 +105,14 @@
       "error": null
     },
     {
+      "resource": "builtwith",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "google",
       "target": "bingtextad.com",
       "recursion_depth": 0,
@@ -161,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "digitalyama",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,15 +129,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "coderog",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +145,15 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "certspotter",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -206,6 +166,54 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -225,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56,
-      "error": null
-    },
-    {
       "resource": "merklemap",
       "target": "bingtextad.com",
       "recursion_depth": 0,
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "digitorus",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -265,15 +265,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 71,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "odin",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -290,6 +282,14 @@
     },
     {
       "resource": "profundis",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +317,7 @@
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 99,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 185,
+      "duration_ms": 72,
       "error": null
     },
     {
@@ -345,19 +329,35 @@
       "error": null
     },
     {
+      "resource": "crtsh",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 118,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 228,
+      "duration_ms": 189,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 264,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 264,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 19,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 555,
+      "duration_ms": 498,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1171,
+      "duration_ms": 1201,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1386,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 115,
+      "duration_ms": 1312,
       "error": null
     },
     {
@@ -457,23 +449,31 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 104,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2771,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3060,
+      "duration_ms": 3036,
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 26,
-      "error": null
-    },
-    {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "shrewdeye",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3071,
       "error": null
     },
     {
@@ -513,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "whoisxml",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3129,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingtextad.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28949,
+      "duration_ms": 3084,
       "error": null
     },
     {
@@ -565,15 +557,23 @@
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29859,
+      "duration_ms": 25628,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "reconcloud",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32928,
+      "duration_ms": 33011,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingtextad.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61893,
       "error": null
     },
     {
@@ -585,11 +585,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "waybackarchive",
       "target": "bingtextad.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 72982,
+      "duration_ms": 65710,
       "error": null
     }
   ]

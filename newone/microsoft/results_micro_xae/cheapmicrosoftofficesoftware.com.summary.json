@@ -1,21 +1,85 @@
 {
   "root_domain": "cheapmicrosoftofficesoftware.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:52:50.916781+00:00",
-  "completed_at": "2026-11-20T08:54:00.911351+00:00",
-  "duration_ms": 69994,
+  "started_at": "2026-11-20T22:35:14.254438+00:00",
+  "completed_at": "2026-11-20T22:36:26.312990+00:00",
+  "duration_ms": 72058,
   "targets_scanned": [
     "cheapmicrosoftofficesoftware.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
+    {
+      "resource": "censys",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
     {
       "resource": "fofa",
       "target": "cheapmicrosoftofficesoftware.com",
@@ -25,7 +89,87 @@
       "error": null
     },
     {
+      "resource": "dnsdb",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bevigil",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,86 +193,6 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "google",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
@@ -145,7 +209,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "intelx",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,55 +217,15 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "abuseipdb",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 31,
       "error": null
     },
     {
-      "resource": "coderog",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "huntermap",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "merklemap",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -237,23 +253,7 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 35,
       "error": null
     },
     {
@@ -266,14 +266,6 @@
     },
     {
       "resource": "odin",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "pugrecon",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 67,
+      "duration_ms": 64,
       "error": null
     },
     {
@@ -329,14 +329,6 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 185,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
@@ -345,11 +337,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 179,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 221,
+      "duration_ms": 213,
       "error": null
     },
     {
@@ -365,7 +365,15 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 282,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
       "error": null
     },
     {
@@ -374,14 +382,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 483,
+      "duration_ms": 473,
       "error": null
     },
     {
@@ -429,23 +429,23 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1245,
+      "duration_ms": 991,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
+      "duration_ms": 1291,
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "thc",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3076,
+      "findings_count": 1,
+      "duration_ms": 112,
       "error": null
     },
     {
@@ -457,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 107,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
+      "resource": "riddler",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3558,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3063,
       "error": null
     },
     {
@@ -489,7 +473,31 @@
       "error": null
     },
     {
+      "resource": "urlscan",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3054,
+      "error": null
+    },
+    {
       "resource": "virustotal",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,19 +513,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "sitedossier",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3090,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "submd",
+      "resource": "threatcrowd",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 13743,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "cheapmicrosoftofficesoftware.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 23249,
+      "duration_ms": 3088,
       "error": null
     },
     {
@@ -557,15 +549,15 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28582,
+      "duration_ms": 30067,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "submd",
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45075,
+      "duration_ms": 43588,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61751,
+      "duration_ms": 42057,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "cheapmicrosoftofficesoftware.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65877,
+      "duration_ms": 65647,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cheapmicrosoftofficesoftware.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 72049,
       "error": null
     }
   ]
