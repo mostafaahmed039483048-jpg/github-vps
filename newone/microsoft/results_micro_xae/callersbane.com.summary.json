@@ -1,103 +1,23 @@
 {
   "root_domain": "callersbane.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:39:45.927537+00:00",
-  "completed_at": "2026-11-20T07:40:51.923532+00:00",
-  "duration_ms": 65995,
+  "started_at": "2026-11-20T21:06:07.249348+00:00",
+  "completed_at": "2026-11-20T21:07:13.243938+00:00",
+  "duration_ms": 65994,
   "targets_scanned": [
     "callersbane.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "censys",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "fofa",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,6 +33,22 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "certspotter",
       "target": "callersbane.com",
       "recursion_depth": 0,
@@ -121,31 +57,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "fullhunt",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +73,15 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "binaryedge",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +97,39 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "digitalyama",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,14 +145,6 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "c99",
       "target": "callersbane.com",
       "recursion_depth": 0,
@@ -209,7 +153,55 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "chaos",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,11 +221,11 @@
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 50,
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "huntermap",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 57,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,7 +257,23 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "odin",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 76,
+      "duration_ms": 84,
       "error": null
     },
     {
@@ -325,7 +325,7 @@
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 220,
+      "duration_ms": 183,
       "error": null
     },
     {
@@ -345,11 +345,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 265,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -361,14 +369,6 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 267,
-      "error": null
-    },
-    {
       "resource": "robtex",
       "target": "callersbane.com",
       "recursion_depth": 0,
@@ -377,19 +377,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 467,
       "error": null
     },
     {
@@ -413,23 +413,7 @@
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 486,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1132,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -437,15 +421,23 @@
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1198,
+      "duration_ms": 989,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "thc",
+      "resource": "myssl",
       "target": "callersbane.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 111,
+      "findings_count": 0,
+      "duration_ms": 1089,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3035,
       "error": null
     },
     {
@@ -457,11 +449,27 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "thc",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 104,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 3044,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3274,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 15,
       "error": null
     },
     {
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "whoisfreaks",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3074,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -513,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "threatcrowd",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3062,
       "error": null
     },
     {
@@ -537,35 +537,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3503,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "callersbane.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3091,
-      "error": null
-    },
-    {
       "resource": "submd",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11457,
+      "duration_ms": 9080,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "alienvault",
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19439,
+      "duration_ms": 11841,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31198,
+      "duration_ms": 31100,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 47640,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49644,
+      "duration_ms": 54576,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "callersbane.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61960,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "callersbane.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65977,
+      "duration_ms": 65986,
       "error": null
     }
   ]
