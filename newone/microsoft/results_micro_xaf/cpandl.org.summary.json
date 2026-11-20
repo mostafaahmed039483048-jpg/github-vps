@@ -1,21 +1,29 @@
 {
   "root_domain": "cpandl.org",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:44:22.924351+00:00",
-  "completed_at": "2026-11-20T07:45:28.921100+00:00",
-  "duration_ms": 65996,
+  "started_at": "2026-11-20T21:02:04.248574+00:00",
+  "completed_at": "2026-11-20T21:04:27.252413+00:00",
+  "duration_ms": 143003,
   "targets_scanned": [
     "cpandl.org"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
+    {
+      "resource": "certspotter",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
     {
       "resource": "dnsdumpster",
       "target": "cpandl.org",
@@ -25,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "chinaz",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "digitalyama",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,31 +49,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "chaos",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +65,23 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "censys",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -90,6 +90,38 @@
     },
     {
       "resource": "binaryedge",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,6 +145,14 @@
       "error": null
     },
     {
+      "resource": "domainsproject",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "coderog",
       "target": "cpandl.org",
       "recursion_depth": 0,
@@ -121,7 +161,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "google",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "argosdns",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +177,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "fullhunt",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "bevigil",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,15 +201,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "driftnet",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,35 +209,11 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "digitorus",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -225,22 +233,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "cpandl.org",
       "recursion_depth": 0,
@@ -249,15 +241,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "odin",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +265,23 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
       "resource": "onyphe",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 71,
+      "duration_ms": 105,
       "error": null
     },
     {
@@ -329,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 181,
+      "error": null
+    },
+    {
       "resource": "rapidfinder",
       "target": "cpandl.org",
       "recursion_depth": 0,
@@ -337,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "hackertarget",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 114,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 184,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 225,
+      "duration_ms": 265,
       "error": null
     },
     {
@@ -373,7 +373,7 @@
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 52,
       "error": null
     },
     {
@@ -413,23 +413,7 @@
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 299,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1051,
+      "duration_ms": 15,
       "error": null
     },
     {
@@ -437,7 +421,31 @@
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 1257,
+      "duration_ms": 479,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 936,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1324,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 104,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "racent",
+      "resource": "riddler",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1294,
-      "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "thc",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 115,
+      "duration_ms": 3042,
       "error": null
     },
     {
@@ -473,6 +473,14 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3042,
+      "error": null
+    },
+    {
       "resource": "urlscan",
       "target": "cpandl.org",
       "recursion_depth": 0,
@@ -481,27 +489,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
-      "error": null
-    },
-    {
       "resource": "virustotal",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3049,
       "error": null
     },
     {
@@ -521,6 +513,14 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
       "resource": "zoomeyeapi",
       "target": "cpandl.org",
       "recursion_depth": 0,
@@ -537,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3050,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3509,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3070,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "cpandl.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29326,
+      "duration_ms": 3083,
       "error": null
     },
     {
@@ -573,15 +549,31 @@
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28542,
+      "duration_ms": 8178,
       "error": null
     },
     {
       "resource": "waybackarchive",
       "target": "cpandl.org",
       "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 14259,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33918,
+      "duration_ms": 30578,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61449,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "cpandl.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65971,
+      "duration_ms": 65986,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cpandl.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 142994,
       "error": null
     }
   ]

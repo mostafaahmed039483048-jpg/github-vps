@@ -1,167 +1,23 @@
 {
   "root_domain": "callbing411.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:37:32.926111+00:00",
-  "completed_at": "2026-11-20T07:38:39.911704+00:00",
-  "duration_ms": 66985,
+  "started_at": "2026-11-20T21:03:02.677185+00:00",
+  "completed_at": "2026-11-20T21:04:58.339225+00:00",
+  "duration_ms": 115662,
   "targets_scanned": [
     "callbing411.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "github",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "fofa",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "domainsproject",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +65,150 @@
       "error": null
     },
     {
+      "resource": "domscan",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "intelx",
       "target": "callbing411.com",
       "recursion_depth": 0,
@@ -217,23 +217,15 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 30,
       "error": null
     },
     {
       "resource": "huntermap",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,6 +241,14 @@
       "error": null
     },
     {
+      "resource": "merklemap",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "callbing411.com",
       "recursion_depth": 0,
@@ -257,11 +257,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 84,
+      "duration_ms": 33,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 92,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "callbing411.com",
       "recursion_depth": 0,
@@ -321,11 +313,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "anubis",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 127,
+      "duration_ms": 77,
       "error": null
     },
     {
@@ -349,7 +341,7 @@
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 203,
+      "duration_ms": 186,
       "error": null
     },
     {
@@ -357,7 +349,15 @@
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 231,
+      "duration_ms": 210,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 263,
       "error": null
     },
     {
@@ -369,19 +369,19 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 60,
+      "error": null
+    },
+    {
       "resource": "robtex",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 48,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 272,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -429,15 +421,23 @@
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 476,
+      "duration_ms": 481,
       "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1221,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "myssl",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 924,
+      "duration_ms": 2054,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 118,
+      "duration_ms": 119,
       "error": null
     },
     {
@@ -457,12 +457,12 @@
       "error": null
     },
     {
-      "resource": "racent",
+      "resource": "riddler",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1462,
-      "error": "'list' object has no attribute 'get'"
+      "duration_ms": 3068,
+      "error": null
     },
     {
       "resource": "urlscan",
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 3090,
       "error": null
     },
     {
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3473,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "callbing411.com",
       "recursion_depth": 0,
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "zoomeyeapi",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,59 +537,11 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3052,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3289,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3194,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30117,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61743,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "callbing411.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65965,
+      "duration_ms": 3215,
       "error": null
     },
     {
@@ -589,7 +549,47 @@
       "target": "callbing411.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65377,
+      "duration_ms": 13102,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32427,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54128,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61783,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65557,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "callbing411.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 115652,
       "error": null
     }
   ]
