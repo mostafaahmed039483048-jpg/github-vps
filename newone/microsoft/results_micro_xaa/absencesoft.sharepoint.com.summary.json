@@ -1,9 +1,9 @@
 {
   "root_domain": "absencesoft.sharepoint.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:25:08.920221+00:00",
-  "completed_at": "2026-11-20T08:26:17.912468+00:00",
-  "duration_ms": 68992,
+  "started_at": "2026-11-20T22:02:54.246908+00:00",
+  "completed_at": "2026-11-20T22:04:19.252448+00:00",
+  "duration_ms": 85005,
   "targets_scanned": [
     "absencesoft.sharepoint.com"
   ],
@@ -17,71 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "builtwith",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "chaos",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,87 +33,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "intelx",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "leakix",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "dnsdumpster",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "certspotter",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +57,15 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "c99",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "arpsyndicate",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "bevigil",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +105,143 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "facebook",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,6 +257,14 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
@@ -265,11 +273,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "onyphe",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -289,23 +297,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidapi",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,15 @@
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 67,
+      "duration_ms": 61,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -329,14 +329,6 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 236,
-      "error": null
-    },
-    {
       "resource": "rapidscan",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
@@ -345,19 +337,27 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 174,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 227,
+      "error": null
+    },
+    {
       "resource": "hackertarget",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 290,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 244,
       "error": null
     },
     {
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "reconeer",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 351,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 488,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 914,
+      "duration_ms": 514,
       "error": null
     },
     {
@@ -437,15 +429,15 @@
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1213,
+      "duration_ms": 1305,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "threatbook",
+      "resource": "myssl",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 2000,
       "error": null
     },
     {
@@ -457,19 +449,19 @@
       "error": null
     },
     {
+      "resource": "threatbook",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 3053,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3041,
       "error": null
     },
     {
@@ -497,19 +497,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3493,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3394,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3115,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "absencesoft.sharepoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29778,
+      "duration_ms": 3097,
       "error": null
     },
     {
@@ -557,15 +549,15 @@
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44717,
+      "duration_ms": 8679,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconcloud",
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 62219,
+      "duration_ms": 30747,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61526,
+      "duration_ms": 41877,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65981,
+      "duration_ms": 65990,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "absencesoft.sharepoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65576,
+      "duration_ms": 65675,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "absencesoft.sharepoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 84997,
       "error": null
     }
   ]
