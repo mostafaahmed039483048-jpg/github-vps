@@ -1,63 +1,23 @@
 {
   "root_domain": "accesssetup.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:42:08.925305+00:00",
-  "completed_at": "2026-11-20T08:43:34.917259+00:00",
-  "duration_ms": 85991,
+  "started_at": "2026-11-20T22:27:01.419948+00:00",
+  "completed_at": "2026-11-20T22:28:07.249578+00:00",
+  "duration_ms": 65829,
   "targets_scanned": [
     "accesssetup.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "fullhunt",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,55 +33,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "binaryedge",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,55 +49,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "driftnet",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "github",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,7 +81,127 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "dnsdb",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +213,23 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 26,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -257,6 +257,14 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "accesssetup.com",
       "recursion_depth": 0,
@@ -265,11 +273,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "profundis",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -289,23 +297,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidapi",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,11 +309,11 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 66,
+      "duration_ms": 70,
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,11 +329,19 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 178,
+      "duration_ms": 181,
       "error": null
     },
     {
@@ -349,15 +349,15 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 231,
+      "duration_ms": 226,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 272,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 285,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 61,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 15,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 484,
+      "duration_ms": 524,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1117,
+      "duration_ms": 1210,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1498,
+      "duration_ms": 1424,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 108,
+      "duration_ms": 102,
       "error": null
     },
     {
@@ -461,15 +461,15 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3074,
+      "duration_ms": 3055,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "shrewdeye",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3071,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "urlscan",
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3081,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -494,6 +494,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -510,14 +518,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3393,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29530,
+      "duration_ms": 3071,
       "error": null
     },
     {
@@ -557,31 +549,7 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29410,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61372,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65978,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "accesssetup.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65593,
+      "duration_ms": 15175,
       "error": null
     },
     {
@@ -589,7 +557,39 @@
       "target": "accesssetup.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85984,
+      "duration_ms": 21895,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22572,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33076,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61772,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "accesssetup.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65816,
       "error": null
     }
   ]

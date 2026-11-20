@@ -1,95 +1,23 @@
 {
   "root_domain": "cupposunshine.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:49:09.924693+00:00",
-  "completed_at": "2026-11-20T08:50:18.910913+00:00",
-  "duration_ms": 68986,
+  "started_at": "2026-11-20T22:27:04.248589+00:00",
+  "completed_at": "2026-11-20T22:28:14.247698+00:00",
+  "duration_ms": 69999,
   "targets_scanned": [
     "cupposunshine.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domainsproject",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
+      "resource": "driftnet",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,63 +33,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "bevigil",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "chinaz",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +57,47 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "builtwith",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +113,103 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "c99",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +229,11 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 24,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "merklemap",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "odin",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,11 +269,11 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 71,
+      "duration_ms": 34,
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "profundis",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,27 +297,11 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 90,
       "error": null
     },
     {
@@ -321,11 +313,11 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "anubis",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 119,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -345,19 +337,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 225,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 255,
+      "duration_ms": 197,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 246,
       "error": null
     },
     {
@@ -369,6 +361,14 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
       "resource": "rsecloud",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rapiddns",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 432,
       "error": null
     },
     {
@@ -413,23 +413,7 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 297,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 477,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -437,7 +421,7 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1347,
+      "duration_ms": 1124,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -445,7 +429,23 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1487,
+      "duration_ms": 1339,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3064,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 126,
       "error": null
     },
     {
@@ -457,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
+      "resource": "shrewdeye",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 110,
+      "findings_count": 0,
+      "duration_ms": 3060,
       "error": null
     },
     {
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3071,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
@@ -513,11 +505,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "whoisxml",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3089,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3123,
       "error": null
     },
     {
@@ -537,19 +537,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "submd",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 11746,
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "alienvault",
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3097,
+      "duration_ms": 22154,
       "error": null
     },
     {
@@ -557,15 +557,7 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31053,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "cupposunshine.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46085,
+      "duration_ms": 30420,
       "error": null
     },
     {
@@ -573,7 +565,15 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61387,
+      "duration_ms": 61809,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cupposunshine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65987,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65976,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "cupposunshine.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65644,
+      "duration_ms": 65559,
       "error": null
     }
   ]
