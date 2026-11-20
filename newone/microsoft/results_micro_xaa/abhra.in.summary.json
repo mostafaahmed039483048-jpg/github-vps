@@ -1,77 +1,21 @@
 {
   "root_domain": "abhra.in",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:18:05.920231+00:00",
-  "completed_at": "2026-11-20T08:20:21.928131+00:00",
-  "duration_ms": 136007,
+  "started_at": "2026-11-20T21:55:47.886904+00:00",
+  "completed_at": "2026-11-20T21:58:08.970167+00:00",
+  "duration_ms": 141083,
   "targets_scanned": [
     "abhra.in"
   ],
   "total_unique_findings": 64,
   "fresh_findings_count": 64,
-  "historical_findings_count": 0,
-  "new_findings_count": 64,
+  "historical_findings_count": 64,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "binaryedge",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "chaos",
       "target": "abhra.in",
@@ -89,38 +33,6 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "github",
       "target": "abhra.in",
       "recursion_depth": 0,
@@ -129,55 +41,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "digitalyama",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "c99",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +73,139 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "domscan",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -221,7 +213,15 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,11 +233,11 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "digitorus",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -265,7 +265,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "odin",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,15 +281,7 @@
       "error": null
     },
     {
-      "resource": "odin",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -298,6 +290,14 @@
     },
     {
       "resource": "quake",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 89,
+      "duration_ms": 57,
       "error": null
     },
     {
@@ -329,14 +329,6 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 194,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
       "target": "abhra.in",
       "recursion_depth": 0,
@@ -345,11 +337,27 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 233,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 206,
+      "duration_ms": 242,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "abhra.in",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 258,
       "error": null
     },
     {
@@ -365,19 +373,11 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50,
+      "duration_ms": 53,
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "abhra.in",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 275,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 494,
+      "duration_ms": 527,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1014,
+      "duration_ms": 966,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1233,
+      "duration_ms": 1147,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -453,7 +453,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 64,
-      "duration_ms": 114,
+      "duration_ms": 117,
       "error": null
     },
     {
@@ -461,11 +461,11 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3036,
+      "duration_ms": 3048,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -477,11 +477,11 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3059,
+      "duration_ms": 3062,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -509,7 +509,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 3269,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
+      "duration_ms": 3069,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27379,
+      "duration_ms": 26182,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29957,
+      "duration_ms": 32415,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61464,
+      "duration_ms": 61673,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65980,
+      "duration_ms": 65349,
       "error": null
     },
     {
@@ -581,15 +581,15 @@
       "target": "abhra.in",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65626,
+      "duration_ms": 65975,
       "error": null
     },
     {
       "resource": "crtsh",
       "target": "abhra.in",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 135987,
+      "findings_count": 62,
+      "duration_ms": 141055,
       "error": null
     }
   ]

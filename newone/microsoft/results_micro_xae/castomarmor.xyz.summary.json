@@ -1,69 +1,21 @@
 {
   "root_domain": "castomarmor.xyz",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:20:14.918144+00:00",
-  "completed_at": "2026-11-20T08:21:20.931303+00:00",
-  "duration_ms": 66013,
+  "started_at": "2026-11-20T21:56:48.249219+00:00",
+  "completed_at": "2026-11-20T21:58:23.902169+00:00",
+  "duration_ms": 95652,
   "targets_scanned": [
     "castomarmor.xyz"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "chaos",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "dnsdb",
       "target": "castomarmor.xyz",
@@ -73,39 +25,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
+      "resource": "chaos",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -114,6 +34,14 @@
     },
     {
       "resource": "domainsproject",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,6 +65,110 @@
       "error": null
     },
     {
+      "resource": "certspotter",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "builtwith",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
@@ -153,31 +185,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "github",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,27 +201,11 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "fofa",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35,
       "error": null
     },
     {
@@ -233,11 +225,11 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "abuseipdb",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -246,6 +238,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
       "error": null
     },
     {
@@ -258,22 +266,6 @@
     },
     {
       "resource": "netlas",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 37,
-      "error": null
-    },
-    {
-      "resource": "profundis",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,11 +297,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "quake",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -321,11 +313,27 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 69,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 199,
       "error": null
     },
     {
@@ -337,19 +345,27 @@
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 113,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 245,
+      "duration_ms": 223,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 277,
       "error": null
     },
     {
@@ -357,11 +373,11 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 86,
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "rsecloud",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -374,22 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 309,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 507,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 762,
+      "duration_ms": 434,
       "error": null
     },
     {
@@ -437,7 +429,7 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1177,
+      "duration_ms": 1226,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -445,7 +437,15 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1192,
+      "duration_ms": 1366,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 99,
       "error": null
     },
     {
@@ -457,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
+      "resource": "riddler",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 118,
+      "findings_count": 0,
+      "duration_ms": 3101,
       "error": null
     },
     {
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 3066,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
@@ -513,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3061,
+      "duration_ms": 3534,
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisxml",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "zoomeyeapi",
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3121,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3391,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -557,7 +541,15 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3080,
+      "duration_ms": 3129,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20756,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 9848,
+      "duration_ms": 27793,
       "error": null
     },
     {
@@ -573,15 +565,7 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31946,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "castomarmor.xyz",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42638,
+      "duration_ms": 32361,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "castomarmor.xyz",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 66002,
+      "duration_ms": 65989,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65592,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "castomarmor.xyz",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 95644,
       "error": null
     }
   ]

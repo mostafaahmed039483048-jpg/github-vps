@@ -1,167 +1,23 @@
 {
   "root_domain": "bingsmart.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:09:39.923614+00:00",
-  "completed_at": "2026-11-20T08:11:52.926309+00:00",
-  "duration_ms": 133002,
+  "started_at": "2026-11-20T21:57:21.250252+00:00",
+  "completed_at": "2026-11-20T21:58:30.246077+00:00",
+  "duration_ms": 68995,
   "targets_scanned": [
     "bingsmart.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "c99",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "chaos",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "fullhunt",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,15 +41,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "binaryedge",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +57,167 @@
       "error": null
     },
     {
+      "resource": "fofa",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "intelx",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +229,11 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 28,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "leakix",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,39 +249,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 90,
-      "error": null
-    },
-    {
-      "resource": "netlas",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "odin",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -285,11 +261,19 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 90,
+      "duration_ms": 50,
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "netlas",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -321,19 +305,27 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "anubis",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
+      "duration_ms": 97,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "rapidapi",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 207,
       "error": null
     },
     {
@@ -345,19 +337,27 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 218,
+      "duration_ms": 213,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 244,
       "error": null
     },
     {
@@ -369,19 +369,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 293,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 64,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 498,
+      "duration_ms": 537,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1117,
+      "duration_ms": 1291,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1358,
+      "duration_ms": 1434,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 121,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3067,
+      "duration_ms": 3048,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
+      "resource": "threatminer",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
       "resource": "trickest",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
       "error": null
     },
     {
@@ -497,15 +497,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3077,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "shrewdeye",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3051,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,7 +541,7 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3298,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3103,
+      "duration_ms": 3090,
       "error": null
     },
     {
@@ -557,31 +557,7 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28328,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31710,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65997,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingsmart.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65591,
+      "duration_ms": 10234,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "bingsmart.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 132994,
+      "duration_ms": 27604,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32267,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65994,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingsmart.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65673,
       "error": null
     }
   ]
