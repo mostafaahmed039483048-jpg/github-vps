@@ -1,23 +1,23 @@
 {
   "root_domain": "accessdatabasetemplates.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:31:56.917650+00:00",
-  "completed_at": "2026-11-20T08:33:05.913777+00:00",
-  "duration_ms": 68996,
+  "started_at": "2026-11-20T22:13:59.327928+00:00",
+  "completed_at": "2026-11-20T22:15:05.252717+00:00",
+  "duration_ms": 65924,
   "targets_scanned": [
     "accessdatabasetemplates.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "bufferover",
+      "resource": "coderog",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,15 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "domscan",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -34,6 +42,46 @@
     },
     {
       "resource": "google",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,87 +105,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "driftnet",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "argosdns",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "binaryedge",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,31 +137,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "dnsdumpster",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +153,55 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "domainsproject",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +217,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 24,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "odin",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
@@ -257,19 +265,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
-      "resource": "odin",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -305,23 +305,15 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "crtsh",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 48,
       "error": null
     },
     {
       "resource": "rapidapi",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,11 +329,27 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 71,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 190,
+      "duration_ms": 188,
       "error": null
     },
     {
@@ -349,7 +357,7 @@
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 198,
+      "duration_ms": 244,
       "error": null
     },
     {
@@ -358,22 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 85,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 297,
       "error": null
     },
     {
@@ -393,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "reconeer",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 63,
       "error": null
     },
     {
@@ -409,11 +401,27 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 14,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 276,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 487,
+      "duration_ms": 495,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1221,
+      "duration_ms": 901,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1630,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 115,
+      "duration_ms": 105,
       "error": null
     },
     {
@@ -457,11 +457,19 @@
       "error": null
     },
     {
+      "resource": "myssl",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1594,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 3055,
       "error": null
     },
     {
@@ -481,14 +489,6 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3183,
-      "error": null
-    },
-    {
       "resource": "virustotal",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "shrewdeye",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3386,
+      "duration_ms": 3049,
       "error": null
     },
     {
@@ -521,14 +521,6 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "zoomeyeapi",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
@@ -537,35 +529,27 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3467,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3109,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20489,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29125,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "accessdatabasetemplates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45066,
+      "duration_ms": 3081,
       "error": null
     },
     {
@@ -573,15 +557,15 @@
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61446,
+      "duration_ms": 10669,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "reconcloud",
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65988,
+      "duration_ms": 32397,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "accessdatabasetemplates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65476,
+      "duration_ms": 37468,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42052,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "accessdatabasetemplates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65916,
       "error": null
     }
   ]
