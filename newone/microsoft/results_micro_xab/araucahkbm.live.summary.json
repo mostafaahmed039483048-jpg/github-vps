@@ -1,37 +1,21 @@
 {
   "root_domain": "araucahkbm.live",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:10:27.919913+00:00",
-  "completed_at": "2026-11-20T07:11:33.912913+00:00",
-  "duration_ms": 65993,
+  "started_at": "2026-11-20T20:23:16.012454+00:00",
+  "completed_at": "2026-11-20T20:24:37.555761+00:00",
+  "duration_ms": 81543,
   "targets_scanned": [
     "araucahkbm.live"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "certspotter",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "censys",
       "target": "araucahkbm.live",
@@ -49,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "arpsyndicate",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,23 +49,39 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsdumpster",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "bufferover",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +105,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "chinaz",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,63 +129,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "argosdns",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +145,46 @@
       "error": null
     },
     {
+      "resource": "fofa",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "coderog",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
@@ -209,11 +193,27 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "domainsproject",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -249,19 +249,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 72,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
@@ -321,11 +313,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "anubis",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 202,
+      "duration_ms": 80,
       "error": null
     },
     {
@@ -345,11 +337,27 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 188,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 206,
+      "duration_ms": 225,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 257,
       "error": null
     },
     {
@@ -361,11 +369,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rsecloud",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -377,15 +385,15 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 261,
+      "duration_ms": 43,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "securitytrails",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 446,
+      "duration_ms": 459,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 969,
       "error": null
     },
     {
@@ -429,15 +437,15 @@
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 939,
+      "duration_ms": 1252,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1148,
+      "findings_count": 1,
+      "duration_ms": 111,
       "error": null
     },
     {
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 103,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3042,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3056,
       "error": null
     },
     {
@@ -481,15 +473,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3041,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
+      "resource": "trickest",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,15 +481,15 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "shrewdeye",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3281,
+      "duration_ms": 3064,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "virustotal",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -521,11 +505,19 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3492,
       "error": null
     },
     {
@@ -537,19 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3055,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "araucahkbm.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29017,
+      "duration_ms": 3100,
       "error": null
     },
     {
@@ -557,15 +549,15 @@
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34037,
+      "duration_ms": 15271,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "reconcloud",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41772,
+      "duration_ms": 31003,
       "error": null
     },
     {
@@ -573,15 +565,15 @@
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44814,
+      "duration_ms": 54218,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "threatminer",
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 61741,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "araucahkbm.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65222,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "araucahkbm.live",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 81534,
       "error": null
     }
   ]
