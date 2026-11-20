@@ -1,95 +1,23 @@
 {
   "root_domain": "bingcelebrity.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:42:10.924367+00:00",
-  "completed_at": "2026-11-20T07:43:16.912985+00:00",
-  "duration_ms": 65988,
+  "started_at": "2026-11-20T21:29:12.260225+00:00",
+  "completed_at": "2026-11-20T21:31:23.258766+00:00",
+  "duration_ms": 130998,
   "targets_scanned": [
     "bingcelebrity.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "builtwith",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsdumpster",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "domscan",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,39 +41,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
+      "resource": "builtwith",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,6 +57,14 @@
       "error": null
     },
     {
+      "resource": "bevigil",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "facebook",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
@@ -169,7 +73,31 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "github",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +113,63 @@
       "error": null
     },
     {
+      "resource": "dnsrepo",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "coderog",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +185,31 @@
       "error": null
     },
     {
+      "resource": "certspotter",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bufferover",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "intelx",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "merklemap",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
@@ -249,31 +249,15 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "abuseipdb",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 49,
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
+      "resource": "netlas",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +281,23 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,7 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 74,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 69,
       "error": null
     },
     {
@@ -341,7 +333,15 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 209,
+      "duration_ms": 183,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -349,7 +349,15 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 227,
+      "duration_ms": 230,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 272,
       "error": null
     },
     {
@@ -358,14 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 412,
-      "error": null
-    },
-    {
-      "resource": "shodan",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 78,
       "error": null
     },
     {
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1149,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1287,
+      "duration_ms": 444,
       "error": null
     },
     {
@@ -437,15 +429,23 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1434,
+      "duration_ms": 1270,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2039,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 131,
+      "duration_ms": 113,
       "error": null
     },
     {
@@ -461,15 +461,15 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
+      "duration_ms": 3062,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 3066,
       "error": null
     },
     {
@@ -497,22 +497,6 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3112,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3300,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,7 +541,7 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3083,
+      "duration_ms": 3072,
       "error": null
     },
     {
@@ -557,15 +549,7 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11608,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingcelebrity.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 9854,
+      "duration_ms": 25645,
       "error": null
     },
     {
@@ -573,15 +557,15 @@
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29238,
+      "duration_ms": 31968,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "threatminer",
       "target": "bingcelebrity.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65054,
+      "duration_ms": 61376,
       "error": null
     },
     {
@@ -590,6 +574,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 65969,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65568,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingcelebrity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 130983,
       "error": null
     }
   ]
