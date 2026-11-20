@@ -1,47 +1,23 @@
 {
   "root_domain": "bingstreetside.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:25:35.918231+00:00",
-  "completed_at": "2026-11-20T08:26:44.913014+00:00",
-  "duration_ms": 68994,
+  "started_at": "2026-11-20T22:21:35.256738+00:00",
+  "completed_at": "2026-11-20T22:22:44.246141+00:00",
+  "duration_ms": 68989,
   "targets_scanned": [
     "bingstreetside.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chinaz",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "dnsrepo",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,6 +33,62 @@
       "error": null
     },
     {
+      "resource": "dnsdumpster",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "fullhunt",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
@@ -65,7 +97,15 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "arpsyndicate",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "binaryedge",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "digitalyama",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "fofa",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +161,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "c99",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +177,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "argosdns",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,31 +185,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
+      "resource": "chinaz",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,39 +201,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "bufferover",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,11 +217,19 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "merklemap",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,15 +257,23 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 33,
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "netlas",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 69,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -329,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 187,
+      "error": null
+    },
+    {
       "resource": "rapidfinder",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
@@ -337,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 192,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 235,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 283,
+      "duration_ms": 248,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 518,
+      "duration_ms": 454,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 976,
+      "duration_ms": 1231,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1258,
+      "duration_ms": 1555,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 122,
+      "duration_ms": 123,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3095,
+      "duration_ms": 3068,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3056,
+      "duration_ms": 3048,
       "error": null
     },
     {
@@ -497,19 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "bingstreetside.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "sitedossier",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -521,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "whoisxml",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "bingstreetside.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3087,
+      "duration_ms": 3099,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25175,
+      "duration_ms": 27504,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30650,
+      "duration_ms": 30421,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45060,
+      "duration_ms": 36352,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61682,
+      "duration_ms": 41847,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 65979,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingstreetside.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65601,
+      "duration_ms": 65611,
       "error": null
     }
   ]

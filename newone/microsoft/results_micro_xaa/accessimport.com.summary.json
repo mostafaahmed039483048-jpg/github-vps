@@ -1,135 +1,23 @@
 {
   "root_domain": "accessimport.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:37:33.920164+00:00",
-  "completed_at": "2026-11-20T08:38:39.925723+00:00",
-  "duration_ms": 66005,
+  "started_at": "2026-11-20T22:22:11.247523+00:00",
+  "completed_at": "2026-11-20T22:23:18.244647+00:00",
+  "duration_ms": 66997,
   "targets_scanned": [
     "accessimport.com"
   ],
   "total_unique_findings": 2,
-  "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
-  "reused_historical_findings_count": 0,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
+  "reused_historical_findings_count": 1,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "coderog",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "fullhunt",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +33,23 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "arpsyndicate",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +65,103 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "dnsdumpster",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "dnsrepo",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "chaos",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +201,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "coderog",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,14 +217,6 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31,
-      "error": null
-    },
-    {
       "resource": "huntermap",
       "target": "accessimport.com",
       "recursion_depth": 0,
@@ -233,19 +225,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
-      "error": null
-    },
-    {
-      "resource": "netlas",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -265,15 +249,15 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "digitorus",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 37,
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "netlas",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +273,6 @@
       "error": null
     },
     {
-      "resource": "quake",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "pugrecon",
       "target": "accessimport.com",
       "recursion_depth": 0,
@@ -305,11 +281,27 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "onyphe",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 67,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -321,6 +313,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "accessimport.com",
       "recursion_depth": 0,
@@ -329,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "crtsh",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 176,
+      "duration_ms": 105,
       "error": null
     },
     {
@@ -349,27 +349,19 @@
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 207,
+      "duration_ms": 234,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 248,
       "error": null
     },
     {
       "resource": "redhuntlabs",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,19 +377,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 283,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
+      "resource": "rsecloud",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -409,11 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 26,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 317,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 488,
+      "duration_ms": 446,
       "error": null
     },
     {
@@ -429,16 +437,8 @@
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1700,
+      "duration_ms": 962,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 2630,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,27 +453,19 @@
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 100,
+      "duration_ms": 212,
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
+      "duration_ms": 1527,
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3053,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +473,15 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "threatminer",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "shrewdeye",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3040,
       "error": null
     },
     {
@@ -513,15 +513,7 @@
       "error": null
     },
     {
-      "resource": "waybackarchive",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 460,
-      "error": null
-    },
-    {
-      "resource": "windvane",
+      "resource": "whoisfreaks",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,27 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3105,
+      "error": null
+    },
+    {
       "resource": "sitedossier",
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3557,
+      "duration_ms": 3271,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3056,
+      "duration_ms": 3152,
       "error": null
     },
     {
@@ -557,23 +565,7 @@
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15202,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22050,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "accessimport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20410,
+      "duration_ms": 26462,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31024,
+      "duration_ms": 32933,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "accessimport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65996,
+      "duration_ms": 65992,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "accessimport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65414,
       "error": null
     }
   ]
