@@ -1,23 +1,31 @@
 {
   "root_domain": "carbonatedgames.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:57:07.926266+00:00",
-  "completed_at": "2026-11-20T07:58:16.912872+00:00",
-  "duration_ms": 68986,
+  "started_at": "2026-11-20T21:26:34.986886+00:00",
+  "completed_at": "2026-11-20T21:27:44.248285+00:00",
+  "duration_ms": 69261,
   "targets_scanned": [
     "carbonatedgames.com"
   ],
   "total_unique_findings": 6,
-  "fresh_findings_count": 6,
-  "historical_findings_count": 0,
-  "new_findings_count": 6,
-  "reused_historical_findings_count": 0,
+  "fresh_findings_count": 5,
+  "historical_findings_count": 6,
+  "new_findings_count": 0,
+  "reused_historical_findings_count": 1,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "driftnet",
+      "resource": "domscan",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,22 +49,6 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
@@ -65,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "argosdns",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,39 +65,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "fofa",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +81,55 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "chinaz",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +153,23 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "binaryedge",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "dnsdumpster",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,23 +193,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "google",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,31 +209,23 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "huntermap",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
       "error": null
     },
     {
       "resource": "intelx",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,19 +249,11 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "abuseipdb",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -273,7 +265,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "odin",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,6 +274,14 @@
     },
     {
       "resource": "profundis",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,15 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60,
+      "duration_ms": 87,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 191,
       "error": null
     },
     {
@@ -326,14 +334,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 215,
       "error": null
     },
     {
@@ -349,7 +349,15 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 238,
+      "duration_ms": 231,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 241,
       "error": null
     },
     {
@@ -361,14 +369,6 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 53,
-      "error": null
-    },
-    {
       "resource": "robtex",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
@@ -377,19 +377,19 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
+      "error": null
+    },
+    {
       "resource": "rsecloud",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 317,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 19,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 497,
+      "duration_ms": 430,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 962,
+      "duration_ms": 1013,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1366,
+      "duration_ms": 1310,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 5,
+      "duration_ms": 115,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 5,
-      "duration_ms": 98,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 3060,
       "error": null
     },
     {
@@ -469,11 +469,11 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 3050,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "sitedossier",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 3274,
       "error": null
     },
     {
@@ -521,14 +521,6 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
-      "target": "carbonatedgames.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "windvane",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "zoomeyeapi",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,7 +541,7 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3080,
+      "duration_ms": 3101,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16540,
+      "duration_ms": 25746,
       "error": null
     },
     {
@@ -565,15 +557,23 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33039,
+      "duration_ms": 31236,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "carbonatedgames.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61755,
       "error": null
     },
     {
       "resource": "crtsh",
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
-      "findings_count": 4,
-      "duration_ms": 44481,
+      "findings_count": 0,
+      "duration_ms": 65248,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65995,
+      "duration_ms": 65248,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "carbonatedgames.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65591,
+      "duration_ms": 65903,
       "error": null
     }
   ]

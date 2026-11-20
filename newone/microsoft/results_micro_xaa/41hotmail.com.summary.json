@@ -1,63 +1,23 @@
 {
   "root_domain": "41hotmail.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:55:04.927533+00:00",
-  "completed_at": "2026-11-20T07:56:13.913278+00:00",
-  "duration_ms": 68985,
+  "started_at": "2026-11-20T21:26:18.246739+00:00",
+  "completed_at": "2026-11-20T21:27:27.246328+00:00",
+  "duration_ms": 68999,
   "targets_scanned": [
     "41hotmail.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chaos",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bevigil",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,38 +33,6 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "c99",
       "target": "41hotmail.com",
       "recursion_depth": 0,
@@ -113,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "chaos",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,31 +49,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
+      "resource": "fullhunt",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "driftnet",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,15 +73,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "domainsproject",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +89,39 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "coderog",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +137,71 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "chinaz",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +213,19 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 32,
       "error": null
     },
     {
       "resource": "intelx",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,14 +249,6 @@
       "error": null
     },
     {
-      "resource": "odin",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "netlas",
       "target": "41hotmail.com",
       "recursion_depth": 0,
@@ -269,15 +261,23 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 68,
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "odin",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 68,
       "error": null
     },
     {
@@ -297,19 +297,11 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 77,
       "error": null
     },
     {
@@ -321,19 +313,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 212,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
+      "resource": "quake",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 186,
       "error": null
     },
     {
@@ -345,19 +337,27 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 233,
+      "duration_ms": 248,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 256,
       "error": null
     },
     {
@@ -366,6 +366,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 60,
       "error": null
     },
     {
@@ -382,14 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 297,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 486,
+      "duration_ms": 445,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1187,
+      "duration_ms": 926,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1264,
+      "duration_ms": 1167,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -453,7 +453,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 102,
+      "duration_ms": 117,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3077,
+      "duration_ms": 3059,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3074,
+      "duration_ms": 3053,
       "error": null
     },
     {
@@ -501,15 +501,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3299,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -521,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
+      "duration_ms": 3129,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 6236,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "41hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22047,
+      "duration_ms": 27098,
       "error": null
     },
     {
@@ -565,7 +557,15 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31485,
+      "duration_ms": 30563,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "41hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 63954,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61503,
+      "duration_ms": 61585,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65974,
+      "duration_ms": 65989,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "41hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65575,
+      "duration_ms": 65610,
       "error": null
     }
   ]
