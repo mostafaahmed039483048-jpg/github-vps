@@ -1,103 +1,23 @@
 {
   "root_domain": "bingshopping.net",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:05:03.919199+00:00",
-  "completed_at": "2026-11-20T08:06:12.914598+00:00",
-  "duration_ms": 68995,
+  "started_at": "2026-11-20T21:49:30.478882+00:00",
+  "completed_at": "2026-11-20T21:52:45.253377+00:00",
+  "duration_ms": 194774,
   "targets_scanned": [
     "bingshopping.net"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "coderog",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "digitalyama",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "domainsproject",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "fofa",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,31 +49,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
+      "resource": "bevigil",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,31 +65,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "certspotter",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +81,127 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "github",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,7 +213,7 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "intelx",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +241,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "leakix",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -273,11 +265,11 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "abuseipdb",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "onyphe",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +309,15 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 96,
+      "duration_ms": 93,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "rapidapi",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 108,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 211,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 259,
+      "duration_ms": 232,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 285,
+      "duration_ms": 247,
       "error": null
     },
     {
@@ -366,6 +366,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -382,14 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 561,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1286,
+      "duration_ms": 522,
       "error": null
     },
     {
@@ -437,15 +429,15 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1291,
+      "duration_ms": 914,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "thc",
+      "resource": "myssl",
       "target": "bingshopping.net",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 117,
+      "findings_count": 0,
+      "duration_ms": 1355,
       "error": null
     },
     {
@@ -457,19 +449,19 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 108,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3074,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3054,
       "error": null
     },
     {
@@ -485,7 +477,15 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 3044,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -501,7 +501,7 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -521,7 +521,7 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "windvane",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,7 +529,7 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "zoomeyeapi",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,23 +541,7 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3120,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 5170,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30806,
+      "duration_ms": 3078,
       "error": null
     },
     {
@@ -565,23 +549,15 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43860,
+      "duration_ms": 24857,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "reconcloud",
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61510,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "bingshopping.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65980,
+      "duration_ms": 32871,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "bingshopping.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65590,
+      "duration_ms": 36338,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61741,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65757,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingshopping.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 194766,
       "error": null
     }
   ]
