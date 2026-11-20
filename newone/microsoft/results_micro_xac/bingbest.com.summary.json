@@ -1,87 +1,23 @@
 {
   "root_domain": "bingbest.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:09:50.922031+00:00",
-  "completed_at": "2026-11-20T07:10:56.913321+00:00",
-  "duration_ms": 65991,
+  "started_at": "2026-11-20T20:34:36.261222+00:00",
+  "completed_at": "2026-11-20T20:35:42.244829+00:00",
+  "duration_ms": 65983,
   "targets_scanned": [
     "bingbest.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "builtwith",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "facebook",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "argosdns",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,22 +57,6 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
       "target": "bingbest.com",
       "recursion_depth": 0,
@@ -145,47 +65,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsrepo",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +89,119 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "domscan",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,7 +213,7 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "huntermap",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +241,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "leakix",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -273,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "abuseipdb",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 53,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "bingbest.com",
       "recursion_depth": 0,
@@ -325,7 +317,15 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 63,
+      "duration_ms": 87,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 221,
       "error": null
     },
     {
@@ -349,15 +349,15 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 196,
+      "duration_ms": 226,
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "hackertarget",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 227,
+      "duration_ms": 242,
       "error": null
     },
     {
@@ -369,19 +369,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 284,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 509,
+      "duration_ms": 485,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1262,
+      "duration_ms": 991,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "riddler",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3048,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,27 +449,19 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3040,
+      "error": null
+    },
+    {
       "resource": "thc",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 104,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 2404,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 100,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3036,
+      "duration_ms": 3277,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -494,6 +494,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3081,
       "error": null
     },
     {
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "windvane",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3054,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "myssl",
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3279,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3117,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "bingbest.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29801,
+      "duration_ms": 23301,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31311,
+      "duration_ms": 31904,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50038,
+      "duration_ms": 30850,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43847,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61320,
+      "duration_ms": 61744,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingbest.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65974,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingbest.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65974,
       "error": null
     }
   ]
