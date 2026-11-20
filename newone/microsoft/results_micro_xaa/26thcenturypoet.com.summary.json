@@ -1,16 +1,16 @@
 {
   "root_domain": "26thcenturypoet.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:41:57.926520+00:00",
-  "completed_at": "2026-11-20T07:43:06.910709+00:00",
-  "duration_ms": 68984,
+  "started_at": "2026-11-20T21:08:56.254900+00:00",
+  "completed_at": "2026-11-20T21:10:05.246521+00:00",
+  "duration_ms": 68991,
   "targets_scanned": [
     "26thcenturypoet.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -25,39 +25,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "github",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "google",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,15 +49,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "dnsdumpster",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +73,31 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "chinaz",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "bufferover",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,31 +121,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "domainsproject",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +145,55 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "arpsyndicate",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,11 +209,11 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "abuseipdb",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -225,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "digitorus",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 41,
       "error": null
     },
     {
@@ -265,11 +265,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "netlas",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 74,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,7 @@
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 88,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 83,
       "error": null
     },
     {
@@ -333,7 +325,7 @@
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 212,
+      "duration_ms": 206,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 226,
+      "duration_ms": 227,
       "error": null
     },
     {
@@ -361,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 251,
       "error": null
     },
     {
@@ -377,23 +377,15 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
       "resource": "robtex",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 335,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 21,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "rapiddns",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1101,
+      "duration_ms": 593,
       "error": null
     },
     {
@@ -429,23 +429,15 @@
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1185,
+      "duration_ms": 994,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "rapiddns",
+      "resource": "myssl",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1289,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 104,
+      "duration_ms": 1971,
       "error": null
     },
     {
@@ -457,6 +449,14 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 99,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
@@ -465,19 +465,19 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3062,
+      "error": null
+    },
+    {
       "resource": "urlscan",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 10,
       "error": null
     },
     {
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "whoisfreaks",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
@@ -505,19 +513,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3292,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3111,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "26thcenturypoet.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 27786,
+      "duration_ms": 3072,
       "error": null
     },
     {
@@ -565,15 +549,23 @@
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30399,
+      "duration_ms": 31102,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "submd",
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61791,
+      "duration_ms": 43060,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61487,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65973,
+      "duration_ms": 65980,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "26thcenturypoet.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65980,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "26thcenturypoet.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65631,
+      "duration_ms": 65613,
       "error": null
     }
   ]
