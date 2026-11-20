@@ -1,23 +1,23 @@
 {
   "root_domain": "2013xbox.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-19T21:31:21.992702+00:00",
-  "completed_at": "2026-11-19T21:32:30.805274+00:00",
-  "duration_ms": 68812,
+  "started_at": "2026-11-20T07:21:34.915710+00:00",
+  "completed_at": "2026-11-20T07:22:40.912318+00:00",
+  "duration_ms": 65996,
   "targets_scanned": [
     "2013xbox.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
+      "resource": "certspotter",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "dnsdumpster",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,14 +41,6 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "chinaz",
       "target": "2013xbox.com",
       "recursion_depth": 0,
@@ -57,7 +49,23 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "fofa",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "digitalyama",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,7 +97,15 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "c99",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -98,6 +114,30 @@
     },
     {
       "resource": "domscan",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,30 +161,6 @@
       "error": null
     },
     {
-      "resource": "certspotter",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "google",
       "target": "2013xbox.com",
       "recursion_depth": 0,
@@ -153,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "coderog",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,23 +185,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "arpsyndicate",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,11 +201,19 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "builtwith",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
       "error": null
     },
     {
@@ -225,11 +233,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "leakix",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -241,31 +249,23 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "odin",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
       "resource": "netlas",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
-      "resource": "odin",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 76,
+      "duration_ms": 67,
       "error": null
     },
     {
@@ -329,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "alienvault",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 226,
+      "duration_ms": 197,
       "error": null
     },
     {
@@ -345,19 +345,19 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 238,
+      "error": null
+    },
+    {
       "resource": "hackertarget",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 272,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 68,
+      "duration_ms": 270,
       "error": null
     },
     {
@@ -366,6 +366,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -385,11 +393,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "shodan",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 459,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 473,
+      "duration_ms": 501,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1095,
+      "duration_ms": 1050,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1203,
+      "duration_ms": 1449,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -453,7 +453,7 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 114,
+      "duration_ms": 100,
       "error": null
     },
     {
@@ -461,15 +461,15 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3086,
+      "duration_ms": 3051,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "shrewdeye",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "urlscan",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3088,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -494,6 +494,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3297,
       "error": null
     },
     {
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3527,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3099,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22012,
+      "duration_ms": 3061,
       "error": null
     },
     {
@@ -557,7 +549,15 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29641,
+      "duration_ms": 22058,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25480,
       "error": null
     },
     {
@@ -565,23 +565,7 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33002,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61668,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "2013xbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65802,
+      "duration_ms": 30938,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "2013xbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65229,
+      "duration_ms": 33624,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61471,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "2013xbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65986,
       "error": null
     }
   ]
