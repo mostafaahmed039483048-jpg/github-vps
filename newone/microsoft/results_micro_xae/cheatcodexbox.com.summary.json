@@ -1,15 +1,15 @@
 {
   "root_domain": "cheatcodexbox.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:58:49.989408+00:00",
-  "completed_at": "2026-11-20T08:59:58.910777+00:00",
-  "duration_ms": 68921,
+  "started_at": "2026-11-20T22:43:40.257234+00:00",
+  "completed_at": "2026-11-20T22:44:46.256255+00:00",
+  "duration_ms": 65999,
   "targets_scanned": [
     "cheatcodexbox.com"
   ],
-  "total_unique_findings": 1,
-  "fresh_findings_count": 1,
-  "historical_findings_count": 0,
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 1,
   "new_findings_count": 1,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
@@ -17,95 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "binaryedge",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "fullhunt",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "coderog",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "digitalyama",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "driftnet",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "arpsyndicate",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "certspotter",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "builtwith",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "facebook",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +97,23 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "domscan",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +129,95 @@
       "error": null
     },
     {
+      "resource": "domainsproject",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "chaos",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -214,22 +230,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 25,
       "error": null
     },
     {
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 33,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,15 +305,31 @@
       "error": null
     },
     {
+      "resource": "rapidapi",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "anubis",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 95,
+      "duration_ms": 60,
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "alienvault",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 191,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,27 +345,11 @@
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "hackertarget",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 178,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 246,
+      "duration_ms": 251,
       "error": null
     },
     {
@@ -361,11 +361,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "hudsonrock",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 281,
+      "duration_ms": 253,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41,
       "error": null
     },
     {
@@ -385,11 +393,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "securitytrails",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -401,19 +409,11 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 444,
+      "duration_ms": 517,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1111,
       "error": null
     },
     {
@@ -429,24 +437,8 @@
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 944,
+      "duration_ms": 1135,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "riddler",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3049,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3036,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -461,7 +453,15 @@
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 96,
+      "duration_ms": 113,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3053,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
       "resource": "trickest",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
-      "target": "cheatcodexbox.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3060,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
@@ -513,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "shrewdeye",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3068,
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,27 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "zoomeyeapi",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22970,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "sitedossier",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23503,
+      "duration_ms": 3356,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "cheatcodexbox.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3158,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27383,
+      "duration_ms": 11894,
       "error": null
     },
     {
@@ -565,15 +565,15 @@
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31087,
+      "duration_ms": 33086,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "waybackarchive",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61621,
+      "findings_count": 1,
+      "duration_ms": 35514,
       "error": null
     },
     {
@@ -581,15 +581,15 @@
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65914,
+      "duration_ms": 65989,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "crtsh",
       "target": "cheatcodexbox.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65078,
+      "duration_ms": 65989,
       "error": null
     }
   ]
