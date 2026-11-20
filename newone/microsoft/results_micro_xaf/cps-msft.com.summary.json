@@ -1,63 +1,23 @@
 {
   "root_domain": "cps-msft.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:45:28.933238+00:00",
-  "completed_at": "2026-11-20T07:46:34.911803+00:00",
-  "duration_ms": 65978,
+  "started_at": "2026-11-20T21:04:27.255480+00:00",
+  "completed_at": "2026-11-20T21:06:18.643656+00:00",
+  "duration_ms": 111388,
   "targets_scanned": [
     "cps-msft.com"
   ],
-  "total_unique_findings": 3,
-  "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "total_unique_findings": 19,
+  "fresh_findings_count": 19,
+  "historical_findings_count": 3,
+  "new_findings_count": 16,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "facebook",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "bufferover",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "facebook",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,55 +41,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "binaryedge",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "arpsyndicate",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +65,15 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "builtwith",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,15 +81,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
+      "resource": "bevigil",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +97,15 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "c99",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,11 +121,99 @@
       "error": null
     },
     {
+      "resource": "domainsproject",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdb",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -225,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 27,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "cps-msft.com",
       "recursion_depth": 0,
@@ -249,22 +249,6 @@
       "error": null
     },
     {
-      "resource": "odin",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35,
-      "error": null
-    },
-    {
       "resource": "netlas",
       "target": "cps-msft.com",
       "recursion_depth": 0,
@@ -273,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "odin",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "digitorus",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,23 @@
       "error": null
     },
     {
+      "resource": "pugrecon",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,11 +317,11 @@
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 73,
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "rapidscan",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,35 +337,19 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 108,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 225,
+      "duration_ms": 247,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 252,
       "error": null
     },
     {
@@ -366,6 +358,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 52,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "alienvault",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 293,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 427,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -425,27 +425,19 @@
       "error": null
     },
     {
-      "resource": "myssl",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1182,
-      "error": null
-    },
-    {
       "resource": "racent",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1453,
+      "duration_ms": 1145,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "thc",
+      "resource": "myssl",
       "target": "cps-msft.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 111,
+      "findings_count": 0,
+      "duration_ms": 1175,
       "error": null
     },
     {
@@ -457,11 +449,19 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 111,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3053,
+      "duration_ms": 3061,
       "error": null
     },
     {
@@ -477,7 +477,7 @@
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3070,
+      "duration_ms": 3061,
       "error": null
     },
     {
@@ -497,19 +497,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3468,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3300,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3069,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22154,
+      "duration_ms": 3103,
       "error": null
     },
     {
@@ -557,7 +549,15 @@
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29080,
+      "duration_ms": 31106,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 28015,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49768,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "cps-msft.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 64971,
+      "duration_ms": 35222,
       "error": null
     },
     {
@@ -581,15 +573,23 @@
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 62177,
+      "duration_ms": 61344,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "commoncrawl",
       "target": "cps-msft.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 62576,
+      "duration_ms": 65979,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cps-msft.com",
+      "recursion_depth": 0,
+      "findings_count": 19,
+      "duration_ms": 111370,
       "error": null
     }
   ]
