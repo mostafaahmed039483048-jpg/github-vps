@@ -1,0 +1,596 @@
+{
+  "root_domain": "czreadsecurity.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T23:22:21.257527+00:00",
+  "completed_at": "2026-11-20T23:23:30.246596+00:00",
+  "duration_ms": 68989,
+  "targets_scanned": [
+    "czreadsecurity.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "coderog",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 190,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 212,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 241,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 16,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 435,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 948,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1211,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 100,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3072,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 16,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3067,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3106,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31765,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36531,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53631,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65990,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "czreadsecurity.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65649,
+      "error": null
+    }
+  ]
+}
