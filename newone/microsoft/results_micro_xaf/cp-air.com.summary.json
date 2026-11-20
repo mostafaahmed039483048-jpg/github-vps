@@ -1,55 +1,23 @@
 {
   "root_domain": "cp-air.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:41:01.962226+00:00",
-  "completed_at": "2026-11-20T07:42:07.912410+00:00",
-  "duration_ms": 65950,
+  "started_at": "2026-11-20T20:58:07.101421+00:00",
+  "completed_at": "2026-11-20T20:59:52.488703+00:00",
+  "duration_ms": 105387,
   "targets_scanned": [
     "cp-air.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "github",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "argosdns",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,127 +33,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "facebook",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +49,110 @@
       "error": null
     },
     {
+      "resource": "fullhunt",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domainsproject",
       "target": "cp-air.com",
       "recursion_depth": 0,
@@ -209,7 +161,47 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "domscan",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,6 +217,14 @@
       "error": null
     },
     {
+      "resource": "huntermap",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "abuseipdb",
       "target": "cp-air.com",
       "recursion_depth": 0,
@@ -233,7 +233,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "merklemap",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "leakix",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,19 +257,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +317,15 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 82,
+      "duration_ms": 81,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "hudsonrock",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 268,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 192,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 280,
+      "duration_ms": 195,
       "error": null
     },
     {
@@ -361,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "reconeer",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 290,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 46,
       "error": null
     },
     {
@@ -385,19 +377,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 44,
-      "error": null
-    },
-    {
-      "resource": "shodan",
+      "resource": "robtex",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 254,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 453,
+      "duration_ms": 441,
       "error": null
     },
     {
@@ -429,15 +429,23 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1446,
+      "duration_ms": 1229,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3077,
+      "duration_ms": 1588,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -449,19 +457,19 @@
       "error": null
     },
     {
+      "resource": "riddler",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3077,
+      "error": null
+    },
+    {
       "resource": "shrewdeye",
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3419,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 138,
       "error": null
     },
     {
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "whoisxml",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "cp-air.com",
       "recursion_depth": 0,
@@ -509,15 +517,7 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3281,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
+      "duration_ms": 3075,
       "error": null
     },
     {
@@ -549,23 +549,7 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30186,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 38662,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "cp-air.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49436,
+      "duration_ms": 32501,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61572,
+      "duration_ms": 45542,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 59337,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61752,
+      "duration_ms": 61347,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "cp-air.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65940,
+      "duration_ms": 65132,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cp-air.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 105376,
       "error": null
     }
   ]

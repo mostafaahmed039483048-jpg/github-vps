@@ -1,159 +1,23 @@
 {
   "root_domain": "2019office.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:35:14.924005+00:00",
-  "completed_at": "2026-11-20T07:36:21.911749+00:00",
-  "duration_ms": 66987,
+  "started_at": "2026-11-20T20:58:43.247648+00:00",
+  "completed_at": "2026-11-20T20:59:49.245443+00:00",
+  "duration_ms": 65997,
   "targets_scanned": [
     "2019office.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "binaryedge",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "github",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +33,87 @@
       "error": null
     },
     {
+      "resource": "google",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "arpsyndicate",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,15 +129,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "chinaz",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +145,63 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "certspotter",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "bevigil",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "huntermap",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,31 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
+      "error": null
+    },
+    {
       "resource": "merklemap",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,15 +265,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "profundis",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,15 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "odin",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,15 +297,39 @@
       "error": null
     },
     {
+      "resource": "pugrecon",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "anubis",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 109,
+      "duration_ms": 80,
       "error": null
     },
     {
       "resource": "rapidapi",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 189,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,7 +345,23 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "hudsonrock",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 199,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,31 +369,15 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconeer",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 115,
+      "duration_ms": 52,
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 192,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 222,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rsecloud",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -374,22 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 292,
+      "duration_ms": 27,
       "error": null
     },
     {
@@ -429,15 +421,31 @@
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 543,
+      "duration_ms": 459,
       "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 983,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "myssl",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1012,
+      "duration_ms": 1056,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 97,
       "error": null
     },
     {
@@ -449,23 +457,23 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 101,
-      "error": null
-    },
-    {
-      "resource": "racent",
+      "resource": "riddler",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1175,
-      "error": "'list' object has no attribute 'get'"
+      "duration_ms": 3048,
+      "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3066,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -473,15 +481,7 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 19,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "whoisxml",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -513,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "sitedossier",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3269,
       "error": null
     },
     {
@@ -537,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3052,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3298,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3110,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "2019office.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 8493,
+      "duration_ms": 3096,
       "error": null
     },
     {
@@ -573,15 +549,15 @@
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30646,
+      "duration_ms": 32002,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "submd",
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65998,
+      "duration_ms": 35402,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "2019office.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65744,
+      "duration_ms": 52784,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 60053,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61319,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "2019office.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65988,
       "error": null
     }
   ]
