@@ -1,16 +1,16 @@
 {
   "root_domain": "accomplea.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:53:47.919536+00:00",
-  "completed_at": "2026-11-20T08:54:53.911289+00:00",
-  "duration_ms": 65991,
+  "started_at": "2026-11-20T22:36:07.248172+00:00",
+  "completed_at": "2026-11-20T22:37:16.246411+00:00",
+  "duration_ms": 68998,
   "targets_scanned": [
     "accomplea.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -18,86 +18,6 @@
   "resource_executions": [
     {
       "resource": "bufferover",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +33,47 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "chinaz",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -122,6 +82,102 @@
     },
     {
       "resource": "fofa",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,79 +201,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
+      "resource": "binaryedge",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -226,6 +210,22 @@
     },
     {
       "resource": "intelx",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,14 +257,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 43,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "accomplea.com",
       "recursion_depth": 0,
@@ -273,11 +265,11 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "abuseipdb",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +309,23 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 90,
+      "duration_ms": 71,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapidapi",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 195,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 237,
       "error": null
     },
     {
@@ -345,11 +345,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "hackertarget",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 200,
+      "duration_ms": 247,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 54,
+      "duration_ms": 72,
       "error": null
     },
     {
@@ -366,6 +366,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 486,
       "error": null
     },
     {
@@ -382,14 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 297,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 451,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 971,
+      "duration_ms": 1181,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +429,15 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2568,
+      "duration_ms": 1723,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3048,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 102,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -457,15 +457,15 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3060,
+      "duration_ms": 3096,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -473,15 +473,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
+      "duration_ms": 21,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,23 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "sitedossier",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3555,
+      "duration_ms": 3486,
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,27 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3102,
+      "duration_ms": 3129,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 6739,
       "error": null
     },
     {
@@ -549,15 +557,7 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30668,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41115,
+      "duration_ms": 31633,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47139,
+      "duration_ms": 61689,
       "error": null
     },
     {
@@ -573,15 +573,7 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 59056,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "accomplea.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61675,
+      "duration_ms": 65990,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "accomplea.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 65990,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "accomplea.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65298,
       "error": null
     }
   ]

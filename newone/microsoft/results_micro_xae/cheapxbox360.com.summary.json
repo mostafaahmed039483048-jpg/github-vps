@@ -1,23 +1,23 @@
 {
   "root_domain": "cheapxbox360.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:54:00.928715+00:00",
-  "completed_at": "2026-11-20T08:55:09.911177+00:00",
-  "duration_ms": 68982,
+  "started_at": "2026-11-20T22:36:26.316039+00:00",
+  "completed_at": "2026-11-20T22:37:33.245149+00:00",
+  "duration_ms": 66929,
   "targets_scanned": [
     "cheapxbox360.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chinaz",
+      "resource": "driftnet",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "bevigil",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,95 +33,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "dnsrepo",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "chinaz",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "bufferover",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "c99",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "dnsdb",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "github",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "certspotter",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +113,95 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "fofa",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,14 +217,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36,
-      "error": null
-    },
-    {
       "resource": "intelx",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
@@ -233,7 +225,15 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "abuseipdb",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "merklemap",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,11 +265,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -305,19 +305,19 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 82,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
       "error": null
     },
     {
@@ -329,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "anubis",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 177,
+      "duration_ms": 63,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 250,
+      "duration_ms": 204,
       "error": null
     },
     {
@@ -361,19 +361,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 210,
+      "error": null
+    },
+    {
       "resource": "hackertarget",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 286,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66,
+      "duration_ms": 266,
       "error": null
     },
     {
@@ -409,11 +409,19 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,15 +429,7 @@
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 484,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1017,
+      "duration_ms": 485,
       "error": null
     },
     {
@@ -437,8 +437,16 @@
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1492,
+      "duration_ms": 906,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 955,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,31 +461,7 @@
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 124,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3044,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3051,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -489,6 +473,22 @@
       "error": null
     },
     {
+      "resource": "urlscan",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
+      "error": null
+    },
+    {
       "resource": "virustotal",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
@@ -497,7 +497,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "riddler",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3079,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +513,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3297,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +537,27 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3120,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "cheapxbox360.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3113,
+      "duration_ms": 3122,
       "error": null
     },
     {
@@ -549,7 +565,7 @@
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15383,
+      "duration_ms": 10399,
       "error": null
     },
     {
@@ -557,23 +573,7 @@
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30795,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47526,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "cheapxbox360.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61703,
+      "duration_ms": 30911,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65974,
+      "duration_ms": 65936,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "cheapxbox360.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65586,
+      "duration_ms": 65838,
       "error": null
     }
   ]
