@@ -1,151 +1,23 @@
 {
   "root_domain": "bingcruises.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:13:17.931591+00:00",
-  "completed_at": "2026-11-20T08:14:27.914784+00:00",
-  "duration_ms": 69983,
+  "started_at": "2026-11-20T22:17:20.321593+00:00",
+  "completed_at": "2026-11-20T22:18:29.245467+00:00",
+  "duration_ms": 68923,
   "targets_scanned": [
     "bingcruises.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chaos",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "fofa",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,31 +33,111 @@
       "error": null
     },
     {
+      "resource": "arpsyndicate",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdb",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +153,14 @@
       "error": null
     },
     {
+      "resource": "domscan",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
       "target": "bingcruises.com",
       "recursion_depth": 0,
@@ -209,15 +169,39 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "chinaz",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "domainsproject",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -226,6 +210,22 @@
     },
     {
       "resource": "intelx",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,19 +249,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 66,
-      "error": null
-    },
-    {
-      "resource": "odin",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -273,15 +265,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
+      "resource": "odin",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,6 +281,22 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "bingcruises.com",
       "recursion_depth": 0,
@@ -305,27 +305,19 @@
       "error": null
     },
     {
+      "resource": "crtsh",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 48,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 97,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 233,
       "error": null
     },
     {
@@ -345,19 +337,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "anubis",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 273,
+      "duration_ms": 72,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "alienvault",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 180,
       "error": null
     },
     {
@@ -369,6 +361,14 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 204,
+      "error": null
+    },
+    {
       "resource": "rsecloud",
       "target": "bingcruises.com",
       "recursion_depth": 0,
@@ -377,23 +377,15 @@
       "error": null
     },
     {
-      "resource": "racent",
+      "resource": "reconeer",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1159,
-      "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "robtex",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 51,
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "robtex",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 257,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1269,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -429,23 +429,23 @@
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1285,
+      "duration_ms": 508,
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "racent",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
-      "error": null
+      "duration_ms": 956,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "thc",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 98,
+      "duration_ms": 115,
       "error": null
     },
     {
@@ -457,23 +457,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "myssl",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 1393,
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3298,
-      "error": null
-    },
-    {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +473,15 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "riddler",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3074,
+      "error": null
+    },
+    {
+      "resource": "trickest",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,19 +505,19 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3102,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3060,
       "error": null
     },
     {
@@ -537,19 +537,27 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3464,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingcruises.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3128,
+      "error": null
+    },
+    {
       "resource": "submd",
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11545,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22127,
+      "duration_ms": 7774,
       "error": null
     },
     {
@@ -557,7 +565,7 @@
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30535,
+      "duration_ms": 32954,
       "error": null
     },
     {
@@ -565,15 +573,7 @@
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61344,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingcruises.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65957,
+      "duration_ms": 61349,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65958,
+      "duration_ms": 65916,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingcruises.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65356,
+      "duration_ms": 65636,
       "error": null
     }
   ]
