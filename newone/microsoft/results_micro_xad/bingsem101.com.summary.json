@@ -1,45 +1,21 @@
 {
   "root_domain": "bingsem101.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:50:57.923725+00:00",
-  "completed_at": "2026-11-20T07:52:06.910827+00:00",
-  "duration_ms": 68987,
+  "started_at": "2026-11-20T21:27:45.249717+00:00",
+  "completed_at": "2026-11-20T21:30:10.253312+00:00",
+  "duration_ms": 145003,
   "targets_scanned": [
     "bingsem101.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "domscan",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "c99",
       "target": "bingsem101.com",
@@ -49,23 +25,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "domscan",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +41,15 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "arpsyndicate",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +73,55 @@
       "error": null
     },
     {
+      "resource": "argosdns",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "certspotter",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +145,23 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "chinaz",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,23 +177,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "driftnet",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,39 +201,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36,
-      "error": null
-    },
-    {
-      "resource": "intelx",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -230,6 +214,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -249,14 +249,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
-      "error": null
-    },
-    {
       "resource": "netlas",
       "target": "bingsem101.com",
       "recursion_depth": 0,
@@ -273,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "abuseipdb",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 73,
+      "duration_ms": 81,
       "error": null
     },
     {
@@ -341,7 +341,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 228,
+      "duration_ms": 229,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 247,
+      "duration_ms": 256,
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 278,
+      "duration_ms": 282,
       "error": null
     },
     {
@@ -389,7 +389,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 74,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 466,
+      "duration_ms": 460,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 915,
+      "duration_ms": 1178,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2245,
+      "duration_ms": 1266,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 120,
       "error": null
     },
     {
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 106,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3054,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3073,
       "error": null
     },
     {
@@ -477,7 +469,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3039,
+      "duration_ms": 3089,
       "error": null
     },
     {
@@ -489,7 +481,23 @@
       "error": null
     },
     {
+      "resource": "urlscan",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "virustotal",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -509,15 +517,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3294,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3287,
       "error": null
     },
     {
@@ -541,31 +541,7 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3087,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22049,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29783,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingsem101.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42315,
+      "duration_ms": 3082,
       "error": null
     },
     {
@@ -573,15 +549,23 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47804,
+      "duration_ms": 11213,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "threatminer",
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65976,
+      "duration_ms": 20434,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30559,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "bingsem101.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65620,
+      "duration_ms": 27885,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65992,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingsem101.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 144988,
       "error": null
     }
   ]
