@@ -1,167 +1,23 @@
 {
   "root_domain": "aadrm.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:11:40.917477+00:00",
-  "completed_at": "2026-11-20T08:12:46.954000+00:00",
-  "duration_ms": 66036,
+  "started_at": "2026-11-20T21:48:55.254198+00:00",
+  "completed_at": "2026-11-20T21:50:01.279687+00:00",
+  "duration_ms": 66025,
   "targets_scanned": [
     "aadrm.com"
   ],
   "total_unique_findings": 241,
   "fresh_findings_count": 241,
-  "historical_findings_count": 0,
-  "new_findings_count": 241,
+  "historical_findings_count": 241,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsrepo",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,23 +33,79 @@
       "error": null
     },
     {
+      "resource": "fullhunt",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "fofa",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +121,87 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "domainsproject",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +217,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "intelx",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -249,19 +249,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,15 @@
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 96,
+      "duration_ms": 70,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "hudsonrock",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 225,
       "error": null
     },
     {
@@ -337,19 +337,19 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "rapidfinder",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 112,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 189,
+      "duration_ms": 250,
       "error": null
     },
     {
@@ -365,7 +365,15 @@
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 62,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 100,
+      "duration_ms": 772,
       "error": null
     },
     {
@@ -374,14 +382,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 287,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 32,
       "error": null
     },
     {
@@ -421,23 +421,31 @@
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 916,
+      "duration_ms": 985,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "hudsonrock",
+      "resource": "myssl",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 968,
+      "duration_ms": 1203,
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "riddler",
       "target": "aadrm.com",
       "recursion_depth": 0,
-      "findings_count": 100,
-      "duration_ms": 892,
+      "findings_count": 0,
+      "duration_ms": 3061,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 171,
+      "duration_ms": 157,
       "error": null
     },
     {
@@ -449,23 +457,15 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 171,
-      "duration_ms": 169,
-      "error": null
-    },
-    {
-      "resource": "myssl",
+      "resource": "shrewdeye",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1425,
+      "duration_ms": 3058,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -473,15 +473,15 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 3363,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatcrowd",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3048,
+      "duration_ms": 3143,
       "error": null
     },
     {
@@ -537,27 +537,19 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "submd",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3071,
+      "duration_ms": 13842,
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "alienvault",
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3298,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20273,
+      "duration_ms": 15696,
       "error": null
     },
     {
@@ -565,15 +557,7 @@
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31240,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "aadrm.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45554,
+      "duration_ms": 30154,
       "error": null
     },
     {
@@ -581,7 +565,15 @@
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44436,
+      "duration_ms": 34033,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61608,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "aadrm.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65982,
+      "duration_ms": 65981,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "aadrm.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65981,
       "error": null
     }
   ]
