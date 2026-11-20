@@ -1,23 +1,23 @@
 {
   "root_domain": "askcortana.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:38:42.920387+00:00",
-  "completed_at": "2026-11-20T07:39:57.139917+00:00",
-  "duration_ms": 74219,
+  "started_at": "2026-11-20T21:01:46.249411+00:00",
+  "completed_at": "2026-11-20T21:03:30.260307+00:00",
+  "duration_ms": 104010,
   "targets_scanned": [
     "askcortana.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
+      "resource": "chaos",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "bufferover",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,55 +33,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
+      "resource": "facebook",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "certspotter",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,6 +65,22 @@
       "error": null
     },
     {
+      "resource": "arpsyndicate",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domainsproject",
       "target": "askcortana.com",
       "recursion_depth": 0,
@@ -121,7 +89,103 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "fullhunt",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,75 +209,11 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "intelx",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 51,
       "error": null
     },
     {
@@ -225,7 +225,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "digitorus",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,11 +249,19 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "odin",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
       "error": null
     },
     {
@@ -257,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 66,
-      "error": null
-    },
-    {
-      "resource": "odin",
+      "resource": "profundis",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,23 +297,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidapi",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,15 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 83,
+      "duration_ms": 112,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -325,15 +325,7 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 188,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 192,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
+      "resource": "rapidscan",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 258,
+      "duration_ms": 233,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 308,
+      "duration_ms": 246,
       "error": null
     },
     {
@@ -366,14 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49,
       "error": null
     },
     {
@@ -390,6 +382,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 504,
+      "duration_ms": 433,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1215,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 977,
+      "duration_ms": 1957,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1316,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 115,
+      "duration_ms": 123,
       "error": null
     },
     {
@@ -461,7 +461,15 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
+      "duration_ms": 3057,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
       "error": null
     },
     {
@@ -481,23 +489,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3051,
-      "error": null
-    },
-    {
       "resource": "virustotal",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,11 +505,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "shrewdeye",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3282,
+      "duration_ms": 3079,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -537,43 +537,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3363,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3094,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28378,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30151,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61627,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "askcortana.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65977,
+      "duration_ms": 3133,
       "error": null
     },
     {
@@ -581,7 +557,31 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65581,
+      "duration_ms": 13685,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 19649,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31040,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "askcortana.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65987,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "askcortana.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 74202,
+      "duration_ms": 104002,
       "error": null
     }
   ]
