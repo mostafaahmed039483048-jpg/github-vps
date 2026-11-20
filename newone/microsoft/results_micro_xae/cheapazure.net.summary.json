@@ -1,95 +1,23 @@
 {
   "root_domain": "cheapazure.net",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:50:32.918100+00:00",
-  "completed_at": "2026-11-20T08:51:41.984155+00:00",
-  "duration_ms": 69066,
+  "started_at": "2026-11-20T22:32:59.252166+00:00",
+  "completed_at": "2026-11-20T22:34:08.247605+00:00",
+  "duration_ms": 68995,
   "targets_scanned": [
     "cheapazure.net"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "google",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "binaryedge",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +33,15 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "bufferover",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,6 +57,38 @@
       "error": null
     },
     {
+      "resource": "censys",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "argosdns",
       "target": "cheapazure.net",
       "recursion_depth": 0,
@@ -129,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "facebook",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +105,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "dnsrepo",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "dnsdumpster",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +121,23 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "domainsproject",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "fofa",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "builtwith",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "chinaz",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,15 +201,31 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "coderog",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 0,
       "error": null
     },
     {
       "resource": "huntermap",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "cheapazure.net",
       "recursion_depth": 0,
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,15 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 111,
       "error": null
     },
     {
@@ -329,14 +337,6 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 194,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
       "target": "cheapazure.net",
       "recursion_depth": 0,
@@ -345,11 +345,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 215,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 226,
+      "duration_ms": 234,
       "error": null
     },
     {
@@ -361,15 +369,15 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "robtex",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -381,15 +389,7 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 284,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 254,
       "error": null
     },
     {
@@ -409,11 +409,19 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 458,
+      "duration_ms": 455,
       "error": null
     },
     {
@@ -429,16 +437,8 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 911,
+      "duration_ms": 1626,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1806,
-      "error": null
     },
     {
       "resource": "thc",
@@ -457,11 +457,19 @@
       "error": null
     },
     {
+      "resource": "myssl",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2296,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
+      "duration_ms": 3080,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3077,
       "error": null
     },
     {
@@ -497,22 +497,6 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "cheapazure.net",
       "recursion_depth": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "shrewdeye",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3083,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,27 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "cheapazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3087,
+      "duration_ms": 3136,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11070,
+      "duration_ms": 11043,
       "error": null
     },
     {
@@ -557,7 +565,7 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29371,
+      "duration_ms": 33086,
       "error": null
     },
     {
@@ -565,7 +573,7 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61339,
+      "duration_ms": 61333,
       "error": null
     },
     {
@@ -573,7 +581,7 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65986,
+      "duration_ms": 65982,
       "error": null
     },
     {
@@ -581,15 +589,7 @@
       "target": "cheapazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65602,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "cheapazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 69058,
+      "duration_ms": 65667,
       "error": null
     }
   ]
