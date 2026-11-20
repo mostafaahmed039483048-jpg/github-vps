@@ -1,159 +1,23 @@
 {
   "root_domain": "bingcompanymarketing.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:04:15.997638+00:00",
-  "completed_at": "2026-11-20T08:05:24.913196+00:00",
-  "duration_ms": 68915,
+  "started_at": "2026-11-20T22:03:23.329551+00:00",
+  "completed_at": "2026-11-20T22:05:14.331273+00:00",
+  "duration_ms": 111001,
   "targets_scanned": [
     "bingcompanymarketing.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "c99",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "domainsproject",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,31 +33,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "chaos",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +49,159 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "dnsdb",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,7 +213,15 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,7 +233,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "leakix",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "merklemap",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,19 +269,11 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 32,
       "error": null
     },
     {
       "resource": "profundis",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +309,23 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 77,
+      "duration_ms": 70,
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rapidapi",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 188,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 182,
       "error": null
     },
     {
@@ -345,11 +345,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hudsonrock",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 197,
+      "duration_ms": 208,
       "error": null
     },
     {
@@ -361,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42,
-      "error": null
-    },
-    {
       "resource": "hackertarget",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 300,
+      "duration_ms": 241,
       "error": null
     },
     {
@@ -393,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "reconeer",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 46,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 13,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 511,
+      "duration_ms": 492,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1240,
+      "duration_ms": 995,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1326,
+      "duration_ms": 1311,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 114,
+      "duration_ms": 97,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 3048,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 3041,
       "error": null
     },
     {
@@ -513,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3075,
+      "duration_ms": 78,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3299,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -549,23 +549,7 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3160,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20072,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingcompanymarketing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31774,
+      "duration_ms": 3071,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48498,
+      "duration_ms": 25241,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30823,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65906,
+      "duration_ms": 65920,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingcompanymarketing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65600,
+      "duration_ms": 65597,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingcompanymarketing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 110994,
       "error": null
     }
   ]

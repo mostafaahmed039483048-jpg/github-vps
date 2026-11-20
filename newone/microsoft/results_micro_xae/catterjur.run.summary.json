@@ -1,151 +1,23 @@
 {
   "root_domain": "catterjur.run",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:24:48.919166+00:00",
-  "completed_at": "2026-11-20T08:25:57.913772+00:00",
-  "duration_ms": 68994,
+  "started_at": "2026-11-20T22:03:48.689863+00:00",
+  "completed_at": "2026-11-20T22:04:57.246763+00:00",
+  "duration_ms": 68556,
   "targets_scanned": [
     "catterjur.run"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "certspotter",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "chaos",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "fullhunt",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +41,31 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "fofa",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +81,47 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "facebook",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +145,70 @@
       "error": null
     },
     {
+      "resource": "argosdns",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "intelx",
       "target": "catterjur.run",
       "recursion_depth": 0,
@@ -217,15 +217,23 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "huntermap",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 58,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "abuseipdb",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -238,22 +246,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 68,
       "error": null
     },
     {
@@ -273,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "digitorus",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 106,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -318,6 +318,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 109,
       "error": null
     },
     {
@@ -341,7 +349,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 235,
+      "duration_ms": 180,
       "error": null
     },
     {
@@ -349,7 +357,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 257,
+      "duration_ms": 224,
       "error": null
     },
     {
@@ -365,7 +373,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 55,
       "error": null
     },
     {
@@ -377,23 +385,7 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 311,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shodan",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,35 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 12,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "rapiddns",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1050,
+      "duration_ms": 424,
       "error": null
     },
     {
@@ -429,16 +437,8 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1189,
+      "duration_ms": 1603,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "rapiddns",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1290,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,7 +453,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 107,
+      "duration_ms": 117,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3048,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3081,
       "error": null
     },
     {
@@ -481,15 +473,7 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,15 +481,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 27,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "virustotal",
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -518,6 +502,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3099,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3301,
+      "duration_ms": 3552,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3065,
+      "duration_ms": 3139,
       "error": null
     },
     {
@@ -557,7 +557,15 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 13302,
+      "duration_ms": 9641,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "catterjur.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22478,
       "error": null
     },
     {
@@ -565,7 +573,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30609,
+      "duration_ms": 32120,
       "error": null
     },
     {
@@ -573,15 +581,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65990,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "catterjur.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65991,
+      "duration_ms": 65552,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "catterjur.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65589,
+      "duration_ms": 65209,
       "error": null
     }
   ]
