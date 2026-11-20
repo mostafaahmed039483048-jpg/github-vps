@@ -1,47 +1,23 @@
 {
   "root_domain": "bingsupport.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:31:16.932609+00:00",
-  "completed_at": "2026-11-20T08:32:25.911351+00:00",
-  "duration_ms": 68978,
+  "started_at": "2026-11-20T22:26:08.251370+00:00",
+  "completed_at": "2026-11-20T22:27:14.244983+00:00",
+  "duration_ms": 65993,
   "targets_scanned": [
     "bingsupport.com"
   ],
-  "total_unique_findings": 2,
-  "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "total_unique_findings": 3,
+  "fresh_findings_count": 3,
+  "historical_findings_count": 2,
+  "new_findings_count": 1,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "fofa",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,47 +33,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
+      "resource": "driftnet",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,31 +49,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "arpsyndicate",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,23 +65,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "dnsdb",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +81,79 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "builtwith",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +169,47 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "censys",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,15 +229,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 27,
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "odin",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,19 +261,11 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 66,
+      "duration_ms": 57,
       "error": null
     },
     {
-      "resource": "odin",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
+      "resource": "netlas",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -290,6 +282,14 @@
     },
     {
       "resource": "pugrecon",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,15 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 68,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 180,
       "error": null
     },
     {
@@ -337,11 +345,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 188,
+      "duration_ms": 246,
       "error": null
     },
     {
@@ -349,15 +357,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 220,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 269,
+      "duration_ms": 247,
       "error": null
     },
     {
@@ -373,11 +373,11 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 47,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 441,
+      "duration_ms": 492,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1153,
+      "duration_ms": 1201,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2677,
+      "duration_ms": 1659,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 105,
+      "duration_ms": 120,
       "error": null
     },
     {
@@ -461,7 +461,15 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
+      "duration_ms": 3129,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -477,15 +485,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3071,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3075,
       "error": null
     },
     {
@@ -505,19 +505,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3274,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3304,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3127,
+      "duration_ms": 3105,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 12150,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30812,
+      "duration_ms": 9125,
       "error": null
     },
     {
@@ -565,7 +557,23 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45049,
+      "duration_ms": 19109,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 16045,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingsupport.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30077,
       "error": null
     },
     {
@@ -573,7 +581,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61603,
+      "duration_ms": 61387,
       "error": null
     },
     {
@@ -581,15 +589,7 @@
       "target": "bingsupport.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65963,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingsupport.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65596,
+      "duration_ms": 65984,
       "error": null
     }
   ]
