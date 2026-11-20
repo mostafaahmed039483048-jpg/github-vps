@@ -1,45 +1,21 @@
 {
   "root_domain": "crackinghotmail.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:49:58.921549+00:00",
-  "completed_at": "2026-11-20T07:51:07.910535+00:00",
-  "duration_ms": 68988,
+  "started_at": "2026-11-20T21:10:32.250003+00:00",
+  "completed_at": "2026-11-20T21:11:41.247258+00:00",
+  "duration_ms": 68997,
   "targets_scanned": [
     "crackinghotmail.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "arpsyndicate",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "fullhunt",
       "target": "crackinghotmail.com",
@@ -49,47 +25,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
+      "resource": "bevigil",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +41,47 @@
       "error": null
     },
     {
+      "resource": "domainsproject",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "argosdns",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +97,47 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "github",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -130,6 +146,14 @@
     },
     {
       "resource": "fofa",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,46 +177,6 @@
       "error": null
     },
     {
-      "resource": "facebook",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
@@ -201,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "google",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +193,15 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "domscan",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +217,27 @@
       "error": null
     },
     {
+      "resource": "intelx",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "abuseipdb",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -241,7 +249,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 56,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,31 +273,7 @@
       "error": null
     },
     {
-      "resource": "odin",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 44,
-      "error": null
-    },
-    {
       "resource": "pugrecon",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "onyphe",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,19 +309,11 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 72,
+      "duration_ms": 131,
       "error": null
     },
     {
-      "resource": "rapidscan",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
+      "resource": "rapidapi",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -341,15 +325,23 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 187,
+      "duration_ms": 215,
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rapidfinder",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 256,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -357,7 +349,15 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 293,
+      "duration_ms": 263,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -377,23 +377,15 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rapiddns",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 464,
       "error": null
     },
     {
       "resource": "robtex",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 33,
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "hudsonrock",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 459,
+      "duration_ms": 631,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1198,
+      "duration_ms": 1228,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1264,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 106,
+      "duration_ms": 1333,
       "error": null
     },
     {
@@ -457,11 +449,27 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 96,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 3054,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -481,15 +489,23 @@
       "error": null
     },
     {
+      "resource": "virustotal",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shrewdeye",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
+      "duration_ms": 3066,
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "whoisfreaks",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +521,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3298,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "zoomeyeapi",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,11 +537,11 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "sitedossier",
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -541,15 +549,7 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3080,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28667,
+      "duration_ms": 3161,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30654,
+      "duration_ms": 29089,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61544,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "crackinghotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61351,
+      "duration_ms": 48190,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65979,
+      "duration_ms": 65990,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "crackinghotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65990,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "crackinghotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65572,
+      "duration_ms": 65592,
       "error": null
     }
   ]
