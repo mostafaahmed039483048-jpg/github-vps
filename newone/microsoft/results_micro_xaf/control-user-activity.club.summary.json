@@ -1,21 +1,165 @@
 {
   "root_domain": "control-user-activity.club",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:59:28.921293+00:00",
-  "completed_at": "2026-11-20T07:00:37.914315+00:00",
-  "duration_ms": 68993,
+  "started_at": "2026-11-20T20:08:14.251136+00:00",
+  "completed_at": "2026-11-20T20:09:30.966031+00:00",
+  "duration_ms": 76714,
   "targets_scanned": [
     "control-user-activity.club"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
+    {
+      "resource": "binaryedge",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
     {
       "resource": "domscan",
       "target": "control-user-activity.club",
@@ -41,159 +185,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "builtwith",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +201,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 23,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "facebook",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -226,6 +210,22 @@
     },
     {
       "resource": "huntermap",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,14 +249,6 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
@@ -265,11 +257,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "netlas",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 58,
+      "duration_ms": 121,
       "error": null
     },
     {
@@ -329,19 +329,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 203,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 201,
+      "duration_ms": 255,
       "error": null
     },
     {
@@ -353,19 +345,27 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 279,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 327,
+      "error": null
+    },
+    {
       "resource": "redhuntlabs",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 78,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 313,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 471,
+      "duration_ms": 468,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1256,
+      "duration_ms": 1248,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1725,
+      "duration_ms": 2634,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 107,
       "error": null
     },
     {
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 111,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3092,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3069,
+      "duration_ms": 3052,
       "error": null
     },
     {
@@ -489,7 +481,23 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3037,
+      "error": null
+    },
+    {
       "resource": "virustotal",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -509,15 +517,7 @@
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3299,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3486,
       "error": null
     },
     {
@@ -541,23 +541,7 @@
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3088,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22049,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28002,
+      "duration_ms": 3129,
       "error": null
     },
     {
@@ -565,23 +549,15 @@
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31827,
+      "duration_ms": 30075,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "submd",
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61408,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "control-user-activity.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65978,
+      "duration_ms": 39116,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "control-user-activity.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65580,
+      "duration_ms": 50465,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61606,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65985,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "control-user-activity.club",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 76704,
       "error": null
     }
   ]

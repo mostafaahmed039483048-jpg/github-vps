@@ -1,167 +1,23 @@
 {
   "root_domain": "appreadiness.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:56:15.047098+00:00",
-  "completed_at": "2026-11-20T06:57:21.911463+00:00",
-  "duration_ms": 66864,
+  "started_at": "2026-11-20T20:08:17.366064+00:00",
+  "completed_at": "2026-11-20T20:09:26.247275+00:00",
+  "duration_ms": 68881,
   "targets_scanned": [
     "appreadiness.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "chinaz",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "chaos",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +41,15 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "dnsdb",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +65,143 @@
       "error": null
     },
     {
+      "resource": "certspotter",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domscan",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,19 +217,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36,
       "error": null
     },
     {
@@ -253,7 +253,7 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -305,11 +305,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "crtsh",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 78,
+      "duration_ms": 53,
       "error": null
     },
     {
@@ -321,19 +321,19 @@
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 113,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 83,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 207,
+      "duration_ms": 184,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 221,
+      "duration_ms": 219,
       "error": null
     },
     {
@@ -377,23 +377,15 @@
       "error": null
     },
     {
-      "resource": "robtex",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "reconeer",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 49,
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "robtex",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,11 @@
       "error": null
     },
     {
-      "resource": "shodanx",
+      "resource": "securitytrails",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -421,7 +413,15 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 291,
+      "duration_ms": 255,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
       "error": null
     },
     {
@@ -429,16 +429,16 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 500,
+      "duration_ms": 562,
       "error": null
     },
     {
-      "resource": "racent",
+      "resource": "myssl",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1235,
-      "error": "'list' object has no attribute 'get'"
+      "duration_ms": 1337,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,24 +453,16 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 116,
+      "duration_ms": 113,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "racent",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1556,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35,
-      "error": null
+      "duration_ms": 2548,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "urlscan",
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3060,
       "error": null
     },
     {
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "shrewdeye",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3036,
       "error": null
     },
     {
@@ -513,15 +513,7 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3040,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "zoomeyeapi",
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3061,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,7 +541,7 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3404,
+      "duration_ms": 3274,
       "error": null
     },
     {
@@ -557,15 +549,7 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3060,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "appreadiness.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30592,
+      "duration_ms": 3105,
       "error": null
     },
     {
@@ -573,7 +557,23 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53077,
+      "duration_ms": 28797,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30897,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "appreadiness.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61489,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65860,
+      "duration_ms": 65870,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "appreadiness.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65226,
+      "duration_ms": 65590,
       "error": null
     }
   ]
