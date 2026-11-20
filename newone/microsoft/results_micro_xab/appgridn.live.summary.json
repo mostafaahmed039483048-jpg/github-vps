@@ -1,0 +1,596 @@
+{
+  "root_domain": "appgridn.live",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T06:43:17.917514+00:00",
+  "completed_at": "2026-11-20T06:44:27.915461+00:00",
+  "duration_ms": 69997,
+  "targets_scanned": [
+    "appgridn.live"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 72,
+  "failed_resource_executions": 0,
+  "resource_executions": [
+    {
+      "resource": "certspotter",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 192,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 466,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 795,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1048,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 1485,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3084,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 118,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3193,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3507,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3096,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 14814,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 17729,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27889,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30063,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61342,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65985,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65401,
+      "error": null
+    }
+  ]
+}

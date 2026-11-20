@@ -1,9 +1,9 @@
 {
   "root_domain": "0fficeteam.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-19T20:55:17.828128+00:00",
-  "completed_at": "2026-11-19T20:56:26.804748+00:00",
-  "duration_ms": 68976,
+  "started_at": "2026-11-20T06:44:45.935751+00:00",
+  "completed_at": "2026-11-20T06:45:51.911963+00:00",
+  "duration_ms": 65976,
   "targets_scanned": [
     "0fficeteam.com"
   ],
@@ -17,55 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "argosdns",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,71 +33,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
+      "resource": "facebook",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "google",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +57,31 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "certspotter",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "fofa",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +113,54 @@
       "error": null
     },
     {
+      "resource": "chaos",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "fullhunt",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
@@ -209,7 +169,39 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "censys",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,15 +217,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30,
-      "error": null
-    },
-    {
-      "resource": "leakix",
+      "resource": "huntermap",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,23 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
       "resource": "merklemap",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,7 +261,7 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "anubis",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
@@ -321,7 +313,7 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "rapidscan",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 186,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -349,7 +341,15 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 231,
+      "duration_ms": 178,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 192,
       "error": null
     },
     {
@@ -365,15 +365,15 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 72,
+      "duration_ms": 65,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "robtex",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 485,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "hackertarget",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "findings_count": 1,
+      "duration_ms": 558,
       "error": null
     },
     {
@@ -409,19 +409,19 @@
       "error": null
     },
     {
-      "resource": "shodanx",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34,
-      "error": null
-    },
-    {
       "resource": "rapiddns",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 464,
+      "duration_ms": 501,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1188,
+      "duration_ms": 1065,
       "error": null
     },
     {
@@ -437,8 +437,8 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1312,
-      "error": "'NoneType' object is not iterable"
+      "duration_ms": 1143,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "threatbook",
@@ -453,7 +453,7 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 120,
+      "duration_ms": 115,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3082,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3056,
       "error": null
     },
     {
@@ -477,11 +469,19 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3075,
+      "duration_ms": 3149,
       "error": null
     },
     {
       "resource": "trickest",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,19 +497,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3310,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3292,
       "error": null
     },
     {
@@ -541,23 +541,7 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3101,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31859,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "0fficeteam.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31418,
+      "duration_ms": 3058,
       "error": null
     },
     {
@@ -565,23 +549,23 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48846,
+      "duration_ms": 7691,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "submd",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61421,
+      "duration_ms": 26504,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "reconcloud",
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65964,
+      "duration_ms": 30361,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "0fficeteam.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65371,
+      "duration_ms": 41888,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61365,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "0fficeteam.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65967,
       "error": null
     }
   ]
