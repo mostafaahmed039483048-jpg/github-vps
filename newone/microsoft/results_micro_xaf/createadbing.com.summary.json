@@ -1,151 +1,23 @@
 {
   "root_domain": "createadbing.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:52:16.923395+00:00",
-  "completed_at": "2026-11-20T07:53:22.911175+00:00",
-  "duration_ms": 65987,
+  "started_at": "2026-11-20T21:13:06.254720+00:00",
+  "completed_at": "2026-11-20T21:14:36.752085+00:00",
+  "duration_ms": 90497,
   "targets_scanned": [
     "createadbing.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "coderog",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "c99",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "builtwith",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +41,15 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "facebook",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -178,6 +58,70 @@
     },
     {
       "resource": "binaryedge",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +145,63 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "dnsdb",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,23 +217,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 39,
       "error": null
     },
     {
       "resource": "huntermap",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,11 +241,27 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "merklemap",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "pugrecon",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "createadbing.com",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 66,
+      "duration_ms": 86,
       "error": null
     },
     {
@@ -318,14 +318,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 104,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "hackertarget",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 204,
+      "duration_ms": 241,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 460,
       "error": null
     },
     {
@@ -357,11 +357,19 @@
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 52,
+      "duration_ms": 57,
       "error": null
     },
     {
       "resource": "redhuntlabs",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,15 +385,15 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "hudsonrock",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 294,
+      "duration_ms": 827,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "shodan",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,35 +409,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 306,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 514,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -437,8 +421,32 @@
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1156,
+      "duration_ms": 973,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1264,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3037,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 99,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,23 +457,15 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "shrewdeye",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1237,
+      "duration_ms": 3046,
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 117,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -473,15 +473,15 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "sitedossier",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 54,
+      "duration_ms": 3278,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -494,6 +494,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3062,
       "error": null
     },
     {
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "windvane",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,43 +537,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "reconcloud",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3047,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3301,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3072,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "createadbing.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 15609,
+      "duration_ms": 29506,
       "error": null
     },
     {
@@ -573,15 +549,23 @@
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27424,
+      "duration_ms": 29545,
       "error": null
     },
     {
-      "resource": "reconcloud",
+      "resource": "alienvault",
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32109,
+      "duration_ms": 45165,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61707,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "createadbing.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65977,
+      "duration_ms": 65980,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65669,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "createadbing.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 90488,
       "error": null
     }
   ]

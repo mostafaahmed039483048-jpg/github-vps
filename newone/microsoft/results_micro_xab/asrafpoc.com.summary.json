@@ -1,103 +1,23 @@
 {
   "root_domain": "asrafpoc.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:47:43.924398+00:00",
-  "completed_at": "2026-11-20T07:48:49.912428+00:00",
-  "duration_ms": 65988,
+  "started_at": "2026-11-20T21:13:29.249647+00:00",
+  "completed_at": "2026-11-20T21:14:35.245384+00:00",
+  "duration_ms": 65995,
   "targets_scanned": [
     "asrafpoc.com"
   ],
   "total_unique_findings": 3,
   "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "historical_findings_count": 3,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdb",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "chinaz",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,15 +33,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "fofa",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,6 +49,14 @@
       "error": null
     },
     {
+      "resource": "builtwith",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
@@ -145,31 +65,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "dnsdumpster",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +81,31 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "binaryedge",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "github",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,23 +129,103 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 44,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
+      "resource": "bevigil",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41,
       "error": null
     },
     {
       "resource": "intelx",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
@@ -262,14 +270,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
       "error": null
     },
     {
@@ -317,23 +317,7 @@
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 92,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 192,
+      "duration_ms": 61,
       "error": null
     },
     {
@@ -349,7 +333,23 @@
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 238,
+      "duration_ms": 218,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 252,
       "error": null
     },
     {
@@ -365,15 +365,7 @@
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -385,19 +377,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 298,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
+      "resource": "rsecloud",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 512,
       "error": null
     },
     {
@@ -409,27 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 489,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1094,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -437,8 +421,32 @@
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1137,
+      "duration_ms": 1132,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2174,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3075,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 96,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,27 +457,19 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 3,
-      "duration_ms": 103,
-      "error": null
-    },
-    {
       "resource": "shrewdeye",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3117,
+      "duration_ms": 3081,
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3178,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "threatcrowd",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3111,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
@@ -510,14 +518,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3506,
       "error": null
     },
     {
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "alienvault",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3104,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22049,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "asrafpoc.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30994,
+      "duration_ms": 26480,
       "error": null
     },
     {
@@ -565,15 +549,23 @@
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46543,
+      "duration_ms": 27184,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29936,
       "error": null
     },
     {
       "resource": "waybackarchive",
       "target": "asrafpoc.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49502,
+      "findings_count": 1,
+      "duration_ms": 48705,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61613,
+      "duration_ms": 61454,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "asrafpoc.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65976,
+      "duration_ms": 65986,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "asrafpoc.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65986,
       "error": null
     }
   ]

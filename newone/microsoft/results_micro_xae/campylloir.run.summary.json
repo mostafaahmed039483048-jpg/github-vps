@@ -1,45 +1,21 @@
 {
   "root_domain": "campylloir.run",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:45:45.930501+00:00",
-  "completed_at": "2026-11-20T07:46:54.915827+00:00",
-  "duration_ms": 68985,
+  "started_at": "2026-11-20T21:12:50.935702+00:00",
+  "completed_at": "2026-11-20T21:14:15.757525+00:00",
+  "duration_ms": 84821,
   "targets_scanned": [
     "campylloir.run"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "builtwith",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "fofa",
       "target": "campylloir.run",
@@ -49,23 +25,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "facebook",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,15 +41,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "google",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,38 +65,6 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
       "target": "campylloir.run",
       "recursion_depth": 0,
@@ -161,31 +81,7 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "c99",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +97,54 @@
       "error": null
     },
     {
+      "resource": "chaos",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdumpster",
       "target": "campylloir.run",
       "recursion_depth": 0,
@@ -209,7 +153,55 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "binaryedge",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,15 +217,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 25,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,23 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
       "resource": "leakix",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,14 +257,6 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "campylloir.run",
       "recursion_depth": 0,
@@ -273,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "digitorus",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 86,
       "error": null
     },
     {
@@ -333,7 +333,7 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 203,
+      "duration_ms": 186,
       "error": null
     },
     {
@@ -349,7 +349,15 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 224,
+      "duration_ms": 211,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 243,
       "error": null
     },
     {
@@ -365,7 +373,7 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -374,14 +382,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 285,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 437,
+      "duration_ms": 429,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1028,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 958,
+      "duration_ms": 1233,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1259,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 98,
+      "duration_ms": 111,
       "error": null
     },
     {
@@ -461,15 +461,15 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 3053,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "shrewdeye",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3055,
       "error": null
     },
     {
@@ -481,15 +481,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3072,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,15 +489,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
+      "resource": "virustotal",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -518,6 +502,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3068,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 15569,
+      "duration_ms": 3120,
       "error": null
     },
     {
@@ -557,23 +549,15 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31426,
+      "duration_ms": 32207,
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "campylloir.run",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 37502,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
+      "resource": "submd",
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46595,
+      "duration_ms": 61317,
       "error": null
     },
     {
@@ -581,7 +565,15 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61683,
+      "duration_ms": 61334,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65300,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "campylloir.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65588,
+      "duration_ms": 65973,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "campylloir.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 84812,
       "error": null
     }
   ]
