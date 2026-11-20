@@ -1,167 +1,23 @@
 {
   "root_domain": "app-view-support.club",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:04:53.920236+00:00",
-  "completed_at": "2026-11-20T07:06:02.911590+00:00",
-  "duration_ms": 68991,
+  "started_at": "2026-11-20T20:16:27.248041+00:00",
+  "completed_at": "2026-11-20T20:17:36.640346+00:00",
+  "duration_ms": 69392,
   "targets_scanned": [
     "app-view-support.club"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "driftnet",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,6 +33,22 @@
       "error": null
     },
     {
+      "resource": "bevigil",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "chinaz",
       "target": "app-view-support.club",
       "recursion_depth": 0,
@@ -185,7 +57,87 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "dnsdb",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "builtwith",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +161,47 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "google",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "coderog",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +233,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,11 +249,27 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "odin",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -273,23 +281,15 @@
       "error": null
     },
     {
-      "resource": "profundis",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "odin",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "pugrecon",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +317,7 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 73,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 178,
+      "duration_ms": 65,
       "error": null
     },
     {
@@ -349,7 +333,23 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 254,
+      "duration_ms": 204,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 267,
       "error": null
     },
     {
@@ -365,7 +365,15 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 50,
+      "duration_ms": 45,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 422,
       "error": null
     },
     {
@@ -374,14 +382,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 424,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 957,
+      "duration_ms": 1145,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -429,15 +429,23 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1316,
+      "duration_ms": 1422,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "alienvault",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1533,
+      "duration_ms": 1669,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 109,
       "error": null
     },
     {
@@ -449,19 +457,19 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 112,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3080,
+      "duration_ms": 3055,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3047,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3041,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "app-view-support.club",
       "recursion_depth": 0,
@@ -517,11 +509,11 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3528,
+      "duration_ms": 3475,
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "whoisfreaks",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3095,
+      "duration_ms": 3069,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 9602,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "app-view-support.club",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22067,
+      "duration_ms": 25300,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30081,
+      "duration_ms": 33061,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42056,
+      "duration_ms": 61537,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 65964,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "app-view-support.club",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65428,
+      "duration_ms": 65133,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "app-view-support.club",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 69359,
       "error": null
     }
   ]

@@ -1,15 +1,15 @@
 {
   "root_domain": "buyinfly.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:03:00.919856+00:00",
-  "completed_at": "2026-11-20T07:04:06.924103+00:00",
-  "duration_ms": 66004,
+  "started_at": "2026-11-20T20:17:10.249122+00:00",
+  "completed_at": "2026-11-20T20:18:16.250558+00:00",
+  "duration_ms": 66001,
   "targets_scanned": [
     "buyinfly.com"
   ],
-  "total_unique_findings": 1,
-  "fresh_findings_count": 1,
-  "historical_findings_count": 0,
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 1,
   "new_findings_count": 1,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
@@ -17,15 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "coderog",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "certspotter",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,39 +33,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
+      "resource": "censys",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "bevigil",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,14 +65,6 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "argosdns",
       "target": "buyinfly.com",
       "recursion_depth": 0,
@@ -121,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "binaryedge",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +81,15 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "github",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +105,55 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "domscan",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +177,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "facebook",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "dnsdb",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +201,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "google",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +209,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "huntermap",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +229,11 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 38,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "merklemap",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "netlas",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,23 +265,15 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitorus",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 62,
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,35 +305,19 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 184,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 85,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 191,
       "error": null
     },
     {
@@ -349,27 +333,11 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 202,
+      "duration_ms": 257,
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rapidfinder",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -381,7 +349,31 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 270,
+      "duration_ms": 262,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 52,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -390,6 +382,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 644,
       "error": null
     },
     {
@@ -409,19 +409,19 @@
       "error": null
     },
     {
-      "resource": "shodanx",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 14,
-      "error": null
-    },
-    {
       "resource": "rapiddns",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 455,
+      "duration_ms": 486,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 912,
+      "duration_ms": 1128,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1426,
+      "duration_ms": 1449,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 110,
+      "duration_ms": 116,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3039,
       "error": null
     },
     {
@@ -485,7 +477,15 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
+      "duration_ms": 3053,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -509,19 +509,11 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3297,
+      "duration_ms": 3270,
       "error": null
     },
     {
       "resource": "whoisxml",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3082,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "buyinfly.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20493,
+      "duration_ms": 3098,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27034,
+      "duration_ms": 26024,
       "error": null
     },
     {
@@ -565,15 +557,15 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31842,
+      "duration_ms": 28466,
       "error": null
     },
     {
       "resource": "waybackarchive",
       "target": "buyinfly.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36953,
+      "findings_count": 1,
+      "duration_ms": 39977,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 50300,
+      "duration_ms": 45353,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "buyinfly.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42738,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "buyinfly.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65995,
+      "duration_ms": 65992,
       "error": null
     }
   ]
