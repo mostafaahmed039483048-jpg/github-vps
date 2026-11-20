@@ -1,23 +1,23 @@
 {
   "root_domain": "customer-notifications.info",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:55:24.983246+00:00",
-  "completed_at": "2026-11-20T08:56:33.916007+00:00",
-  "duration_ms": 68932,
+  "started_at": "2026-11-20T22:32:47.256385+00:00",
+  "completed_at": "2026-11-20T22:33:56.247249+00:00",
+  "duration_ms": 68990,
   "targets_scanned": [
     "customer-notifications.info"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "binaryedge",
+      "resource": "domscan",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,79 +25,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
+      "resource": "fofa",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "chaos",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,31 +49,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "censys",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,6 +73,126 @@
       "error": null
     },
     {
+      "resource": "dnsdb",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "argosdns",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
@@ -185,27 +209,11 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "digitorus",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -217,23 +225,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 39,
-      "error": null
-    },
-    {
       "resource": "intelx",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "leakix",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,6 +241,14 @@
       "error": null
     },
     {
+      "resource": "leakix",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
@@ -257,23 +257,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 29,
       "error": null
     },
     {
       "resource": "netlas",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,31 +289,15 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 75,
-      "error": null
-    },
-    {
-      "resource": "rapidapi",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -333,7 +309,15 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 94,
+      "duration_ms": 78,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -345,19 +329,27 @@
       "error": null
     },
     {
+      "resource": "crtsh",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 109,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 210,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 244,
+      "duration_ms": 193,
       "error": null
     },
     {
@@ -373,15 +365,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 56,
       "error": null
     },
     {
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "hackertarget",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 253,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "securitytrails",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 289,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 259,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 21,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 474,
+      "duration_ms": 469,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1129,
+      "duration_ms": 1202,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -445,7 +445,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 116,
+      "duration_ms": 120,
       "error": null
     },
     {
@@ -461,15 +461,15 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1256,
+      "duration_ms": 1363,
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 3081,
       "error": null
     },
     {
@@ -497,7 +497,7 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "riddler",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3054,
+      "duration_ms": 3094,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,7 +541,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3295,
+      "duration_ms": 3271,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3125,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "customer-notifications.info",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30155,
+      "duration_ms": 3134,
       "error": null
     },
     {
@@ -565,7 +557,15 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44949,
+      "duration_ms": 10314,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "customer-notifications.info",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32069,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61372,
+      "duration_ms": 61986,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65922,
+      "duration_ms": 65979,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "customer-notifications.info",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65633,
+      "duration_ms": 65638,
       "error": null
     }
   ]
