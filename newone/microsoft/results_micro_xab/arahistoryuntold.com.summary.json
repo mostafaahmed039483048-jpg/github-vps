@@ -1,21 +1,93 @@
 {
   "root_domain": "arahistoryuntold.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:09:21.936947+00:00",
-  "completed_at": "2026-11-20T07:10:27.913126+00:00",
-  "duration_ms": 65976,
+  "started_at": "2026-11-20T20:21:58.468409+00:00",
+  "completed_at": "2026-11-20T20:23:16.009225+00:00",
+  "duration_ms": 77540,
   "targets_scanned": [
     "arahistoryuntold.com"
   ],
   "total_unique_findings": 3,
   "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "historical_findings_count": 3,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
+    {
+      "resource": "chaos",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
     {
       "resource": "censys",
       "target": "arahistoryuntold.com",
@@ -33,47 +105,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
+      "resource": "certspotter",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,46 +121,6 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "fullhunt",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
@@ -137,31 +129,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "domscan",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +145,7 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "google",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "dnsdumpster",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +161,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "dnsrepo",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +177,38 @@
       "error": null
     },
     {
+      "resource": "github",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
@@ -217,11 +217,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -265,19 +265,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "anubis",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
-      "error": null
-    },
-    {
-      "resource": "profundis",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 62,
       "error": null
     },
     {
@@ -290,6 +282,14 @@
     },
     {
       "resource": "pugrecon",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -313,27 +313,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "abuseipdb",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 127,
+      "duration_ms": 69,
       "error": null
     },
     {
@@ -345,11 +329,19 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 201,
+      "duration_ms": 199,
       "error": null
     },
     {
@@ -357,7 +349,15 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 223,
+      "duration_ms": 220,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 241,
       "error": null
     },
     {
@@ -369,19 +369,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 63,
-      "error": null
-    },
-    {
       "resource": "rsecloud",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 290,
+      "duration_ms": 15,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 480,
+      "duration_ms": 433,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1178,
+      "duration_ms": 917,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 1195,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,7 +453,7 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 107,
+      "duration_ms": 116,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3047,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3075,
       "error": null
     },
     {
@@ -481,15 +473,39 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
+      "duration_ms": 3046,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
       "resource": "virustotal",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -502,22 +518,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "whoisfreaks",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3042,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3279,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
+      "duration_ms": 3073,
       "error": null
     },
     {
@@ -557,23 +557,7 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 7813,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 24231,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "arahistoryuntold.com",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 25888,
+      "duration_ms": 8926,
       "error": null
     },
     {
@@ -581,7 +565,7 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29901,
+      "duration_ms": 31171,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "arahistoryuntold.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65967,
+      "duration_ms": 65784,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65416,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "arahistoryuntold.com",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 77531,
       "error": null
     }
   ]

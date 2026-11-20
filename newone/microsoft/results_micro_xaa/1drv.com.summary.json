@@ -1,23 +1,127 @@
 {
   "root_domain": "1drv.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:04:42.923219+00:00",
-  "completed_at": "2026-11-20T07:05:52.063089+00:00",
-  "duration_ms": 69139,
+  "started_at": "2026-11-20T20:21:32.329802+00:00",
+  "completed_at": "2026-11-20T20:23:10.329701+00:00",
+  "duration_ms": 97999,
   "targets_scanned": [
     "1drv.com"
   ],
-  "total_unique_findings": 1202,
-  "fresh_findings_count": 1124,
-  "historical_findings_count": 1199,
-  "new_findings_count": 3,
-  "reused_historical_findings_count": 78,
+  "total_unique_findings": 1204,
+  "fresh_findings_count": 1201,
+  "historical_findings_count": 1202,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 3,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "facebook",
+      "resource": "fullhunt",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,111 +145,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "google",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,23 +161,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "dnsrepo",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "facebook",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,19 +193,27 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "argosdns",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
       "error": null
     },
     {
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,11 +249,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 57,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,15 +305,23 @@
       "error": null
     },
     {
+      "resource": "rapidapi",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "anubis",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 66,
+      "duration_ms": 113,
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "rapidscan",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -329,27 +337,11 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 119,
-      "error": null
-    },
-    {
       "resource": "alienvault",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 187,
+      "duration_ms": 233,
       "error": null
     },
     {
@@ -357,19 +349,19 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 227,
+      "duration_ms": 220,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
       "error": null
     },
     {
       "resource": "redhuntlabs",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "robtex",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -389,11 +381,11 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65,
+      "duration_ms": 47,
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "robtex",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,19 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 14,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 283,
+      "duration_ms": 19,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 98,
-      "duration_ms": 749,
+      "duration_ms": 791,
       "error": null
     },
     {
@@ -437,7 +429,7 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 47,
-      "duration_ms": 847,
+      "duration_ms": 944,
       "error": null
     },
     {
@@ -445,7 +437,7 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1205,
+      "duration_ms": 1525,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -461,15 +453,7 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 995,
-      "duration_ms": 549,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 517,
       "error": null
     },
     {
@@ -477,11 +461,27 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 3059,
       "error": null
     },
     {
       "resource": "trickest",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,23 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shrewdeye",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3048,
+      "duration_ms": 3054,
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "whoisfreaks",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "sitedossier",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3512,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "1drv.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 27337,
+      "duration_ms": 3098,
       "error": null
     },
     {
@@ -565,15 +557,15 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42531,
+      "duration_ms": 9791,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "reconcloud",
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61492,
+      "duration_ms": 30528,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65977,
+      "duration_ms": 65924,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "1drv.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65707,
+      "duration_ms": 65558,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "1drv.com",
+      "recursion_depth": 0,
+      "findings_count": 164,
+      "duration_ms": 97802,
       "error": null
     }
   ]
