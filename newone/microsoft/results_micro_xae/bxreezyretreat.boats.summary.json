@@ -1,0 +1,596 @@
+{
+  "root_domain": "bxreezyretreat.boats",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T07:30:53.921170+00:00",
+  "completed_at": "2026-11-20T07:31:59.927334+00:00",
+  "duration_ms": 66006,
+  "targets_scanned": [
+    "bxreezyretreat.boats"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "dnsdb",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 182,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 215,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 282,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 489,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 951,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1520,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 105,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3037,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 37,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3046,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3292,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3103,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18644,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25251,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32842,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65997,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bxreezyretreat.boats",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65998,
+      "error": null
+    }
+  ]
+}
