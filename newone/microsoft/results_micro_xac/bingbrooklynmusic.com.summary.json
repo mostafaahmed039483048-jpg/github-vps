@@ -1,23 +1,23 @@
 {
   "root_domain": "bingbrooklynmusic.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:22:12.930918+00:00",
-  "completed_at": "2026-11-20T07:23:18.924316+00:00",
-  "duration_ms": 65993,
+  "started_at": "2026-11-20T20:55:56.339209+00:00",
+  "completed_at": "2026-11-20T20:57:49.330869+00:00",
+  "duration_ms": 112991,
   "targets_scanned": [
     "bingbrooklynmusic.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "driftnet",
+      "resource": "chinaz",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "c99",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,39 +33,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "digitalyama",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +49,31 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "arpsyndicate",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "argosdns",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -105,7 +97,23 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "binaryedge",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,54 +137,6 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsrepo",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
@@ -185,7 +145,23 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "builtwith",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +177,31 @@
       "error": null
     },
     {
+      "resource": "dnsdumpster",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "censys",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,19 +217,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 25,
       "error": null
     },
     {
@@ -249,19 +249,19 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 85,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
@@ -321,11 +313,11 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "anubis",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 96,
       "error": null
     },
     {
@@ -337,23 +329,15 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 190,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 208,
+      "duration_ms": 202,
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "rapidscan",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -361,15 +345,23 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 248,
+      "error": null
+    },
+    {
       "resource": "reconeer",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 80,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "redhuntlabs",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,11 +377,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "robtex",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 273,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 497,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 494,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 966,
+      "duration_ms": 923,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +429,15 @@
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1444,
+      "duration_ms": 1267,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 103,
+      "duration_ms": 102,
       "error": null
     },
     {
@@ -457,11 +457,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 3059,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3476,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3037,
       "error": null
     },
     {
@@ -497,15 +497,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3293,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "threatcrowd",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3056,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "waybackarchive",
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3080,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22049,
+      "duration_ms": 10401,
       "error": null
     },
     {
@@ -557,7 +549,15 @@
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30125,
+      "duration_ms": 19936,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22087,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31010,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingbrooklynmusic.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35100,
+      "duration_ms": 31747,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41974,
+      "duration_ms": 61451,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingbrooklynmusic.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65984,
+      "duration_ms": 65897,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingbrooklynmusic.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 112983,
       "error": null
     }
   ]

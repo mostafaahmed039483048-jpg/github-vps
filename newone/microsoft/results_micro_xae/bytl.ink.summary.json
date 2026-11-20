@@ -1,23 +1,23 @@
 {
   "root_domain": "bytl.ink",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:31:59.933875+00:00",
-  "completed_at": "2026-11-20T07:33:08.915098+00:00",
-  "duration_ms": 68981,
+  "started_at": "2026-11-20T20:56:16.249367+00:00",
+  "completed_at": "2026-11-20T20:57:25.246394+00:00",
+  "duration_ms": 68997,
   "targets_scanned": [
     "bytl.ink"
   ],
   "total_unique_findings": 10,
-  "fresh_findings_count": 10,
-  "historical_findings_count": 0,
-  "new_findings_count": 10,
-  "reused_historical_findings_count": 0,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 10,
+  "new_findings_count": 0,
+  "reused_historical_findings_count": 8,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsrepo",
+      "resource": "domainsproject",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,23 +25,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "digitalyama",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,6 +41,14 @@
       "error": null
     },
     {
+      "resource": "fullhunt",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "certspotter",
       "target": "bytl.ink",
       "recursion_depth": 0,
@@ -65,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "driftnet",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "dnsrepo",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,15 +73,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "chaos",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,70 +97,6 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "censys",
       "target": "bytl.ink",
       "recursion_depth": 0,
@@ -185,7 +105,15 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "binaryedge",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +129,87 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "bufferover",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,15 +221,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 39,
       "error": null
     },
     {
@@ -249,19 +249,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "abuseipdb",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -273,7 +265,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "netlas",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,23 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,15 +317,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 87,
-      "error": null
-    },
-    {
-      "resource": "rapidapi",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -341,7 +341,15 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 176,
+      "duration_ms": 186,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 247,
       "error": null
     },
     {
@@ -349,15 +357,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 231,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56,
+      "duration_ms": 285,
       "error": null
     },
     {
@@ -377,19 +377,19 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
       "resource": "robtex",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 301,
       "error": null
     },
     {
@@ -413,7 +413,15 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 35,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 510,
       "error": null
     },
     {
@@ -421,23 +429,15 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1128,
+      "duration_ms": 961,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "rapiddns",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1306,
-      "error": null
     },
     {
       "resource": "myssl",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1565,
+      "duration_ms": 1483,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 111,
+      "duration_ms": 123,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3059,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "bytl.ink",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3066,
       "error": null
     },
     {
@@ -489,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +489,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "virustotal",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -521,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "sitedossier",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "bytl.ink",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3061,
+      "duration_ms": 3087,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20328,
+      "duration_ms": 15879,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31415,
+      "duration_ms": 31770,
       "error": null
     },
     {
@@ -565,15 +565,15 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42196,
+      "duration_ms": 61641,
       "error": null
     },
     {
       "resource": "crtsh",
       "target": "bytl.ink",
       "recursion_depth": 0,
-      "findings_count": 10,
-      "duration_ms": 48028,
+      "findings_count": 0,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65966,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bytl.ink",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65583,
+      "duration_ms": 65595,
       "error": null
     }
   ]
