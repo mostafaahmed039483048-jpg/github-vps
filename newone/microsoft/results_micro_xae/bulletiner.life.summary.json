@@ -1,63 +1,23 @@
 {
   "root_domain": "bulletiner.life",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:47:05.920224+00:00",
-  "completed_at": "2026-11-20T06:48:11.912801+00:00",
-  "duration_ms": 65992,
+  "started_at": "2026-11-20T19:58:52.253618+00:00",
+  "completed_at": "2026-11-20T20:00:01.250262+00:00",
+  "duration_ms": 68996,
   "targets_scanned": [
     "bulletiner.life"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "github",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "fofa",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,95 +33,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "arpsyndicate",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "driftnet",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +57,31 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "builtwith",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +97,111 @@
       "error": null
     },
     {
+      "resource": "dnsrepo",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdb",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,19 +217,19 @@
       "error": null
     },
     {
-      "resource": "huntermap",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "abuseipdb",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 43,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,14 +249,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 52,
-      "error": null
-    },
-    {
       "resource": "netlas",
       "target": "bulletiner.life",
       "recursion_depth": 0,
@@ -273,6 +265,22 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "onyphe",
       "target": "bulletiner.life",
       "recursion_depth": 0,
@@ -282,14 +290,6 @@
     },
     {
       "resource": "profundis",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,23 @@
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 101,
+      "duration_ms": 115,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 179,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -333,15 +349,7 @@
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 212,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 204,
       "error": null
     },
     {
@@ -349,15 +357,7 @@
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 253,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 302,
+      "duration_ms": 248,
       "error": null
     },
     {
@@ -389,15 +389,7 @@
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53,
-      "error": null
-    },
-    {
-      "resource": "shodan",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 77,
       "error": null
     },
     {
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -421,31 +421,23 @@
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 509,
+      "duration_ms": 485,
       "error": null
     },
     {
-      "resource": "racent",
+      "resource": "hackertarget",
       "target": "bulletiner.life",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 971,
-      "error": "'list' object has no attribute 'get'"
+      "findings_count": 1,
+      "duration_ms": 846,
+      "error": null
     },
     {
       "resource": "myssl",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1132,
-      "error": null
-    },
-    {
-      "resource": "threatbook",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 1036,
       "error": null
     },
     {
@@ -457,11 +449,27 @@
       "error": null
     },
     {
+      "resource": "threatbook",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1262,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
       "resource": "riddler",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
+      "duration_ms": 3064,
       "error": null
     },
     {
@@ -470,14 +478,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3041,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "threatminer",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 13,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "bulletiner.life",
       "recursion_depth": 0,
@@ -513,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "shrewdeye",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3090,
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisxml",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "sitedossier",
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3293,
+      "duration_ms": 3512,
       "error": null
     },
     {
@@ -549,23 +549,7 @@
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3087,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31450,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bulletiner.life",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42558,
+      "duration_ms": 3179,
       "error": null
     },
     {
@@ -573,15 +557,15 @@
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46077,
+      "duration_ms": 26977,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconcloud",
       "target": "bulletiner.life",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 49289,
+      "findings_count": 0,
+      "duration_ms": 30595,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "bulletiner.life",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65980,
+      "duration_ms": 45240,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61422,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bulletiner.life",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65665,
       "error": null
     }
   ]

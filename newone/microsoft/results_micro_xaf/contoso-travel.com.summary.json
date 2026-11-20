@@ -1,63 +1,23 @@
 {
   "root_domain": "contoso-travel.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:49:39.920945+00:00",
-  "completed_at": "2026-11-20T06:50:48.912687+00:00",
-  "duration_ms": 68991,
+  "started_at": "2026-11-20T19:59:24.248270+00:00",
+  "completed_at": "2026-11-20T20:00:30.245362+00:00",
+  "duration_ms": 65997,
   "targets_scanned": [
     "contoso-travel.com"
   ],
   "total_unique_findings": 3,
   "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "historical_findings_count": 3,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "certspotter",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsrepo",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,38 +33,6 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
@@ -113,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "bufferover",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "google",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +57,15 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "chinaz",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "fullhunt",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "coderog",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +121,63 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "github",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "binaryedge",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +201,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 25,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "builtwith",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "abuseipdb",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,11 +249,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 71,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 78,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
@@ -313,27 +321,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 67,
-      "error": null
-    },
-    {
       "resource": "alienvault",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 186,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 179,
       "error": null
     },
     {
@@ -345,19 +337,19 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 237,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 285,
+      "duration_ms": 187,
       "error": null
     },
     {
@@ -373,7 +365,7 @@
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 57,
+      "duration_ms": 79,
       "error": null
     },
     {
@@ -382,6 +374,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 413,
       "error": null
     },
     {
@@ -409,19 +409,19 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 502,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 415,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 935,
+      "duration_ms": 981,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2888,
+      "duration_ms": 1857,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 98,
+      "duration_ms": 132,
       "error": null
     },
     {
@@ -465,11 +465,11 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "shrewdeye",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3070,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "urlscan",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -494,14 +494,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3037,
       "error": null
     },
     {
@@ -521,6 +513,14 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3485,
+      "error": null
+    },
+    {
       "resource": "windvane",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3295,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "contoso-travel.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 26789,
+      "duration_ms": 3074,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29360,
+      "duration_ms": 32653,
       "error": null
     },
     {
@@ -573,15 +557,15 @@
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 57191,
+      "duration_ms": 44059,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "submd",
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65981,
+      "duration_ms": 43324,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "contoso-travel.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65631,
+      "duration_ms": 49420,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61413,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "contoso-travel.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65988,
       "error": null
     }
   ]
