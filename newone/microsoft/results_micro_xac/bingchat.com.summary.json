@@ -1,0 +1,596 @@
+{
+  "root_domain": "bingchat.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T07:46:37.919250+00:00",
+  "completed_at": "2026-11-20T07:47:44.912419+00:00",
+  "duration_ms": 66993,
+  "targets_scanned": [
+    "bingchat.com"
+  ],
+  "total_unique_findings": 4,
+  "fresh_findings_count": 4,
+  "historical_findings_count": 0,
+  "new_findings_count": 4,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "digitalyama",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 53,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 92,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 96,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 211,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 215,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 271,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 951,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 1270,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 104,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1933,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 8,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3040,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3051,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3291,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3086,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32215,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 46356,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingchat.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65005,
+      "error": null
+    }
+  ]
+}
