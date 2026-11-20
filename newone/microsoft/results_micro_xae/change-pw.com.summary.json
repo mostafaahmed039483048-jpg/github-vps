@@ -1,143 +1,23 @@
 {
   "root_domain": "change-pw.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:45:59.927629+00:00",
-  "completed_at": "2026-11-20T08:47:08.912818+00:00",
-  "duration_ms": 68985,
+  "started_at": "2026-11-20T22:28:19.248812+00:00",
+  "completed_at": "2026-11-20T22:29:32.345803+00:00",
+  "duration_ms": 73096,
   "targets_scanned": [
     "change-pw.com"
   ],
   "total_unique_findings": 3,
   "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "historical_findings_count": 3,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "certspotter",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "domscan",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +41,15 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "censys",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "chaos",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "bufferover",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +81,47 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "binaryedge",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +137,78 @@
       "error": null
     },
     {
+      "resource": "argosdns",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "intelx",
       "target": "change-pw.com",
       "recursion_depth": 0,
@@ -217,11 +217,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 27,
       "error": null
     },
     {
@@ -249,14 +249,6 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 44,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "change-pw.com",
       "recursion_depth": 0,
@@ -273,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "abuseipdb",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 52,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 57,
+      "duration_ms": 68,
       "error": null
     },
     {
@@ -329,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 207,
+      "error": null
+    },
+    {
       "resource": "rapidfinder",
       "target": "change-pw.com",
       "recursion_depth": 0,
@@ -337,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 181,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 189,
+      "duration_ms": 221,
       "error": null
     },
     {
@@ -361,15 +361,23 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 265,
+      "error": null
+    },
+    {
       "resource": "reconeer",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 47,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,15 +385,7 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 285,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 538,
+      "duration_ms": 455,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1178,
+      "duration_ms": 1158,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1626,
+      "duration_ms": 1483,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3076,
       "error": null
     },
     {
@@ -481,15 +473,7 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3056,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
+      "resource": "trickest",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,15 +481,15 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "shrewdeye",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 3089,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "virustotal",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -521,11 +505,19 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "whoisfreaks",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
       "error": null
     },
     {
@@ -537,19 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3124,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "change-pw.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29935,
+      "duration_ms": 3087,
       "error": null
     },
     {
@@ -557,15 +549,15 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29414,
+      "duration_ms": 10624,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconcloud",
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34017,
+      "duration_ms": 33079,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61475,
+      "duration_ms": 61794,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65976,
+      "duration_ms": 65987,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "change-pw.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65615,
+      "duration_ms": 65604,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "change-pw.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 73088,
       "error": null
     }
   ]

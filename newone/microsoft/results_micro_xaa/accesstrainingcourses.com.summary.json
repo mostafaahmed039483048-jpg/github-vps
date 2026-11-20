@@ -1,39 +1,23 @@
 {
   "root_domain": "accesstrainingcourses.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:43:34.923698+00:00",
-  "completed_at": "2026-11-20T08:44:40.911374+00:00",
-  "duration_ms": 65987,
+  "started_at": "2026-11-20T22:28:07.255838+00:00",
+  "completed_at": "2026-11-20T22:29:17.248359+00:00",
+  "duration_ms": 69992,
   "targets_scanned": [
     "accesstrainingcourses.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdb",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "certspotter",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,55 +33,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "fofa",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,78 +49,6 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "builtwith",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
@@ -193,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "domainsproject",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +73,139 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "facebook",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -222,6 +214,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -249,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "netlas",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
@@ -261,15 +269,7 @@
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 40,
-      "error": null
-    },
-    {
-      "resource": "netlas",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 34,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 81,
+      "duration_ms": 96,
       "error": null
     },
     {
@@ -329,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hudsonrock",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 174,
+      "duration_ms": 198,
       "error": null
     },
     {
@@ -345,23 +345,39 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 231,
-      "error": null
-    },
-    {
       "resource": "hackertarget",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 271,
+      "duration_ms": 254,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
       "error": null
     },
     {
       "resource": "redhuntlabs",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 435,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,15 +393,7 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 44,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "shodan",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,27 +409,11 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 860,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 932,
+      "duration_ms": 1307,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +429,15 @@
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1640,
+      "duration_ms": 1467,
       "error": null
     },
     {
-      "resource": "threatbook",
+      "resource": "riddler",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3067,
       "error": null
     },
     {
@@ -457,19 +449,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3040,
-      "error": null
-    },
-    {
-      "resource": "trickest",
+      "resource": "threatbook",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3221,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "sitedossier",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3070,
+      "duration_ms": 3493,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -513,19 +513,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "threatcrowd",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3293,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3107,
       "error": null
     },
     {
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "zoomeyeapi",
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3096,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,31 +541,7 @@
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11825,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28236,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31655,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "accesstrainingcourses.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61308,
+      "duration_ms": 11411,
       "error": null
     },
     {
@@ -581,7 +549,31 @@
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65979,
+      "duration_ms": 22048,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22162,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32609,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61538,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "accesstrainingcourses.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65979,
+      "duration_ms": 65975,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "accesstrainingcourses.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65143,
       "error": null
     }
   ]

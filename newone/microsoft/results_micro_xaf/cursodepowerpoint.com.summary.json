@@ -1,63 +1,23 @@
 {
   "root_domain": "cursodepowerpoint.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:50:18.918020+00:00",
-  "completed_at": "2026-11-20T08:51:41.006468+00:00",
-  "duration_ms": 82088,
+  "started_at": "2026-11-20T22:28:14.251147+00:00",
+  "completed_at": "2026-11-20T22:29:23.247454+00:00",
+  "duration_ms": 68996,
   "targets_scanned": [
     "cursodepowerpoint.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "driftnet",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "bevigil",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,31 +33,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
+      "resource": "domainsproject",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +49,63 @@
       "error": null
     },
     {
+      "resource": "chaos",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsdumpster",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "domscan",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "dnsdb",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,31 +153,23 @@
       "error": null
     },
     {
+      "resource": "c99",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "censys",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +185,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "certspotter",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +193,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "argosdns",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,11 +225,11 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "abuseipdb",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,11 +261,11 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
+      "duration_ms": 56,
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "netlas",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "profundis",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +309,15 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 63,
+      "duration_ms": 71,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -341,7 +341,7 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 207,
+      "duration_ms": 191,
       "error": null
     },
     {
@@ -349,15 +349,15 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 252,
+      "duration_ms": 236,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65,
+      "duration_ms": 284,
       "error": null
     },
     {
@@ -369,19 +369,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 320,
-      "error": null
-    },
-    {
       "resource": "robtex",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 91,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 517,
+      "duration_ms": 447,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 956,
+      "duration_ms": 955,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,15 +437,7 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1217,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 96,
+      "duration_ms": 1244,
       "error": null
     },
     {
@@ -457,27 +449,19 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 110,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3070,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3057,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3051,
       "error": null
     },
     {
@@ -489,7 +473,7 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "trickest",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,15 +481,15 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "shrewdeye",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3294,
+      "duration_ms": 3076,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "virustotal",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "sitedossier",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3489,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,19 @@
       "error": null
     },
     {
+      "resource": "zoomeyeapi",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3128,
+      "duration_ms": 3131,
       "error": null
     },
     {
@@ -549,7 +549,15 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25036,
+      "duration_ms": 8107,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "cursodepowerpoint.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22054,
       "error": null
     },
     {
@@ -557,7 +565,7 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31772,
+      "duration_ms": 32484,
       "error": null
     },
     {
@@ -565,7 +573,7 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61709,
+      "duration_ms": 61684,
       "error": null
     },
     {
@@ -581,15 +589,7 @@
       "target": "cursodepowerpoint.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65577,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "cursodepowerpoint.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 82080,
+      "duration_ms": 65537,
       "error": null
     }
   ]

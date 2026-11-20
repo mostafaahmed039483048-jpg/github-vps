@@ -1,0 +1,596 @@
+{
+  "root_domain": "azurecopilot-test.io",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T22:28:03.575240+00:00",
+  "completed_at": "2026-11-20T22:29:12.246308+00:00",
+  "duration_ms": 68671,
+  "targets_scanned": [
+    "azurecopilot-test.io"
+  ],
+  "total_unique_findings": 0,
+  "fresh_findings_count": 0,
+  "historical_findings_count": 0,
+  "new_findings_count": 0,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "dnsdb",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 216,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 249,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 261,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 105,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 583,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1237,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1465,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3164,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3381,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3486,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3116,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 12057,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31366,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61661,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65660,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65661,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "azurecopilot-test.io",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65019,
+      "error": null
+    }
+  ]
+}
