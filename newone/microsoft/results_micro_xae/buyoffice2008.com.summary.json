@@ -1,103 +1,23 @@
 {
   "root_domain": "buyoffice2008.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:08:36.923565+00:00",
-  "completed_at": "2026-11-20T07:09:45.913741+00:00",
-  "duration_ms": 68990,
+  "started_at": "2026-11-20T20:24:51.350448+00:00",
+  "completed_at": "2026-11-20T20:26:41.919799+00:00",
+  "duration_ms": 110569,
   "targets_scanned": [
     "buyoffice2008.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fullhunt",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
+      "resource": "facebook",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "fullhunt",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,47 +41,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
+      "resource": "arpsyndicate",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "argosdns",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +65,15 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "certspotter",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +89,119 @@
       "error": null
     },
     {
+      "resource": "github",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bevigil",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,19 +221,11 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 32,
       "error": null
     },
     {
       "resource": "huntermap",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "leakix",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,19 +241,11 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "leakix",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 44,
       "error": null
     },
     {
@@ -273,7 +257,15 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "abuseipdb",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,6 +274,14 @@
     },
     {
       "resource": "onyphe",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 70,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
@@ -321,19 +313,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "anubis",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 174,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 91,
       "error": null
     },
     {
@@ -345,11 +329,27 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 197,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 212,
+      "duration_ms": 242,
       "error": null
     },
     {
@@ -365,23 +365,7 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 263,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 277,
       "error": null
     },
     {
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "reconeer",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "shodan",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 520,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1194,
+      "duration_ms": 474,
       "error": null
     },
     {
@@ -437,15 +429,23 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1239,
+      "duration_ms": 973,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1096,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 115,
+      "duration_ms": 106,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3062,
       "error": null
     },
     {
@@ -477,11 +469,19 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 3036,
       "error": null
     },
     {
       "resource": "urlscan",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "sitedossier",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -513,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "whoisxml",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3498,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3088,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "buyoffice2008.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31010,
+      "duration_ms": 3094,
       "error": null
     },
     {
@@ -565,15 +549,15 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61369,
+      "duration_ms": 7682,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconcloud",
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65976,
+      "duration_ms": 30845,
       "error": null
     },
     {
@@ -581,7 +565,15 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65976,
+      "duration_ms": 55889,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61401,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "buyoffice2008.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65650,
+      "duration_ms": 65535,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "buyoffice2008.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 110559,
       "error": null
     }
   ]
