@@ -1,0 +1,596 @@
+{
+  "root_domain": "adfs-senate.email",
+  "recursive_depth": 0,
+  "started_at": "2026-11-20T23:51:08.848416+00:00",
+  "completed_at": "2026-11-20T23:52:17.247081+00:00",
+  "duration_ms": 68398,
+  "targets_scanned": [
+    "adfs-senate.email"
+  ],
+  "total_unique_findings": 3,
+  "fresh_findings_count": 3,
+  "historical_findings_count": 0,
+  "new_findings_count": 3,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "bevigil",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 64,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 187,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 197,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 15,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 492,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1108,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1198,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 114,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3070,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3065,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3270,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3133,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32609,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44910,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 52563,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61671,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65386,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "adfs-senate.email",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65062,
+      "error": null
+    }
+  ]
+}
