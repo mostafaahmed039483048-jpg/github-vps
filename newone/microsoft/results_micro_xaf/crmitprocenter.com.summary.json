@@ -1,23 +1,39 @@
 {
   "root_domain": "crmitprocenter.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:31:45.918829+00:00",
-  "completed_at": "2026-11-20T08:32:54.913642+00:00",
-  "duration_ms": 68994,
+  "started_at": "2026-11-20T22:04:22.963662+00:00",
+  "completed_at": "2026-11-20T22:06:27.386325+00:00",
+  "duration_ms": 124422,
   "targets_scanned": [
     "crmitprocenter.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
+      "resource": "censys",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,23 +49,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "domscan",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "fullhunt",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "driftnet",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,31 +89,15 @@
       "error": null
     },
     {
+      "resource": "chinaz",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,39 +121,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "argosdns",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "c99",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +145,31 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "binaryedge",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +185,23 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "dnsdumpster",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "builtwith",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -233,7 +217,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,7 +225,23 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
       "resource": "leakix",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,15 +257,23 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 30,
       "error": null
     },
     {
       "resource": "odin",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,27 +297,11 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "anubis",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 86,
       "error": null
     },
     {
@@ -321,27 +313,11 @@
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "anubis",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 115,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 74,
       "error": null
     },
     {
@@ -353,7 +329,15 @@
       "error": null
     },
     {
-      "resource": "redhuntlabs",
+      "resource": "rapidscan",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -365,7 +349,23 @@
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 226,
+      "duration_ms": 219,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 258,
       "error": null
     },
     {
@@ -377,15 +377,23 @@
       "error": null
     },
     {
+      "resource": "rsecloud",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "reconeer",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
+      "duration_ms": 55,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "securitytrails",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,27 +409,11 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 289,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 103,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 456,
+      "duration_ms": 437,
       "error": null
     },
     {
@@ -437,15 +429,15 @@
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 942,
+      "duration_ms": 1159,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "thc",
+      "resource": "myssl",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 96,
+      "findings_count": 0,
+      "duration_ms": 1199,
       "error": null
     },
     {
@@ -457,19 +449,19 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1268,
+      "findings_count": 1,
+      "duration_ms": 103,
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "riddler",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3064,
       "error": null
     },
     {
@@ -481,15 +473,7 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3063,
-      "error": null
-    },
-    {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -501,11 +485,11 @@
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 3049,
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "virustotal",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -514,6 +498,22 @@
     },
     {
       "resource": "whoisfreaks",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3274,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,27 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3297,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3079,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20653,
+      "duration_ms": 3138,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30076,
+      "duration_ms": 30073,
       "error": null
     },
     {
@@ -573,15 +557,7 @@
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31286,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "crmitprocenter.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 33071,
       "error": null
     },
     {
@@ -589,7 +565,31 @@
       "target": "crmitprocenter.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65694,
+      "duration_ms": 50241,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61739,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65272,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "crmitprocenter.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 124414,
       "error": null
     }
   ]
