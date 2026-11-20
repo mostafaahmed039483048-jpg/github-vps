@@ -1,9 +1,9 @@
 {
   "root_domain": "bingtomorrow.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:47:48.916130+00:00",
-  "completed_at": "2026-11-20T08:49:45.923630+00:00",
-  "duration_ms": 117007,
+  "started_at": "2026-11-20T22:42:13.280477+00:00",
+  "completed_at": "2026-11-20T22:43:49.314078+00:00",
+  "duration_ms": 96033,
   "targets_scanned": [
     "bingtomorrow.com"
   ],
@@ -17,71 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
+      "resource": "driftnet",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,47 +33,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "argosdns",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,6 +49,14 @@
       "error": null
     },
     {
+      "resource": "dnsdumpster",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domainsproject",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
@@ -161,23 +65,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "c99",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +81,23 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "fullhunt",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "chinaz",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +121,91 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "builtwith",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "abuseipdb",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -242,6 +234,14 @@
     },
     {
       "resource": "leakix",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,11 +265,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 29,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -282,14 +290,6 @@
     },
     {
       "resource": "profundis",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -333,7 +325,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 177,
+      "duration_ms": 182,
       "error": null
     },
     {
@@ -345,7 +337,23 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 229,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -361,19 +369,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 281,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 50,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rsecloud",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 22,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 498,
+      "duration_ms": 441,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 980,
+      "duration_ms": 956,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2444,
+      "duration_ms": 1419,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 99,
+      "duration_ms": 182,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
+      "duration_ms": 3064,
       "error": null
     },
     {
@@ -469,7 +469,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3058,
+      "duration_ms": 3050,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisfreaks",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
@@ -517,7 +509,15 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 3365,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3107,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32283,
+      "duration_ms": 3069,
       "error": null
     },
     {
@@ -557,23 +549,15 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42503,
+      "duration_ms": 6565,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "reconcloud",
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61277,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "bingtomorrow.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65988,
+      "duration_ms": 32853,
       "error": null
     },
     {
@@ -581,7 +565,23 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65615,
+      "duration_ms": 30481,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42119,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bingtomorrow.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65956,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingtomorrow.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 117000,
+      "duration_ms": 96025,
       "error": null
     }
   ]
