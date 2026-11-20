@@ -1,47 +1,23 @@
 {
   "root_domain": "1drive.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-19T21:04:40.809710+00:00",
-  "completed_at": "2026-11-19T21:05:46.803759+00:00",
-  "duration_ms": 65994,
+  "started_at": "2026-11-20T06:53:53.929269+00:00",
+  "completed_at": "2026-11-20T06:55:02.912489+00:00",
+  "duration_ms": 68983,
   "targets_scanned": [
     "1drive.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "argosdns",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
+      "resource": "binaryedge",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +33,31 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "chaos",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,15 +73,7 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "bevigil",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -90,6 +82,46 @@
     },
     {
       "resource": "chinaz",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +145,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "google",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,15 +153,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
+      "resource": "facebook",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "digitalyama",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +177,15 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "certspotter",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,31 +209,15 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
+      "resource": "digitorus",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 31,
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "huntermap",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,31 +233,15 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "merklemap",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 37,
       "error": null
     },
     {
       "resource": "leakix",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,6 +257,14 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "1drive.com",
       "recursion_depth": 0,
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 107,
+      "duration_ms": 65,
       "error": null
     },
     {
@@ -325,7 +325,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 196,
+      "duration_ms": 194,
       "error": null
     },
     {
@@ -349,23 +349,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 247,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 268,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 212,
       "error": null
     },
     {
@@ -373,11 +357,11 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 71,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "redhuntlabs",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -390,6 +374,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 284,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 16,
       "error": null
     },
     {
@@ -421,7 +421,15 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 552,
+      "duration_ms": 517,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1095,
       "error": null
     },
     {
@@ -429,15 +437,15 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 970,
+      "duration_ms": 1143,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "thc",
       "target": "1drive.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1252,
+      "findings_count": 1,
+      "duration_ms": 100,
       "error": null
     },
     {
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 109,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3099,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 3040,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3036,
       "error": null
     },
     {
@@ -497,19 +497,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3291,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3297,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3140,
+      "duration_ms": 3050,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11236,
+      "duration_ms": 29200,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32030,
+      "duration_ms": 31326,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44523,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "1drive.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 57700,
+      "duration_ms": 44305,
       "error": null
     },
     {
@@ -581,7 +573,7 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61457,
+      "duration_ms": 61508,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "1drive.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65974,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "1drive.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65633,
       "error": null
     }
   ]
