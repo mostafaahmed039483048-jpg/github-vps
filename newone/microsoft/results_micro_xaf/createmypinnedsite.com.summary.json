@@ -1,127 +1,23 @@
 {
   "root_domain": "createmypinnedsite.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:17:57.921104+00:00",
-  "completed_at": "2026-11-20T08:19:03.910684+00:00",
-  "duration_ms": 65989,
+  "started_at": "2026-11-20T21:46:11.249043+00:00",
+  "completed_at": "2026-11-20T21:48:14.317655+00:00",
+  "duration_ms": 123068,
   "targets_scanned": [
     "createmypinnedsite.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "bevigil",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "fullhunt",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "censys",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +41,23 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "bevigil",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +73,55 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "bufferover",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "argosdns",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +145,15 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "digitalyama",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +169,30 @@
       "error": null
     },
     {
+      "resource": "builtwith",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "dnsrepo",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
@@ -209,11 +201,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "facebook",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -225,15 +217,15 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "digitorus",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 36,
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "huntermap",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,11 +257,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 52,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 122,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
@@ -313,11 +321,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "alienvault",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 93,
+      "duration_ms": 177,
       "error": null
     },
     {
@@ -337,19 +345,19 @@
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "hudsonrock",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 107,
+      "duration_ms": 245,
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "hackertarget",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 200,
+      "duration_ms": 268,
       "error": null
     },
     {
@@ -361,27 +369,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 248,
-      "error": null
-    },
-    {
       "resource": "reconeer",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 49,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 55,
       "error": null
     },
     {
@@ -393,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "robtex",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "securitytrails",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 266,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -421,7 +413,7 @@
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 15,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 548,
+      "duration_ms": 442,
       "error": null
     },
     {
@@ -437,15 +429,23 @@
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1173,
+      "duration_ms": 1188,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1948,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 120,
+      "duration_ms": 108,
       "error": null
     },
     {
@@ -457,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1496,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 69,
+      "duration_ms": 3068,
       "error": null
     },
     {
@@ -489,6 +473,22 @@
       "error": null
     },
     {
+      "resource": "urlscan",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3055,
+      "error": null
+    },
+    {
       "resource": "virustotal",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
@@ -497,19 +497,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3066,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3426,
       "error": null
     },
     {
@@ -537,43 +537,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3056,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3294,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3131,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30884,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "createmypinnedsite.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 40559,
+      "duration_ms": 3100,
       "error": null
     },
     {
@@ -581,7 +549,31 @@
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 53115,
+      "duration_ms": 11942,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18448,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32400,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61764,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "createmypinnedsite.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65980,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "createmypinnedsite.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 123056,
       "error": null
     }
   ]
