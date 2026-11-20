@@ -1,135 +1,23 @@
 {
   "root_domain": "bingchannelpartnerawards.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:44:22.930079+00:00",
-  "completed_at": "2026-11-20T07:45:31.913906+00:00",
-  "duration_ms": 68983,
+  "started_at": "2026-11-20T21:34:07.263698+00:00",
+  "completed_at": "2026-11-20T21:35:16.245155+00:00",
+  "duration_ms": 68981,
   "targets_scanned": [
     "bingchannelpartnerawards.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "domscan",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "digitalyama",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +41,15 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "dnsdb",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +65,15 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "facebook",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "domainsproject",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +97,23 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "c99",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +129,79 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "google",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,7 +213,23 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -241,6 +249,14 @@
       "error": null
     },
     {
+      "resource": "netlas",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "merklemap",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
@@ -249,7 +265,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "onyphe",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,23 +281,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45,
-      "error": null
-    },
-    {
       "resource": "profundis",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 69,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
@@ -313,19 +321,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "alienvault",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 75,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 194,
       "error": null
     },
     {
@@ -337,23 +337,7 @@
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 138,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 220,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rapidfinder",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -361,11 +345,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hudsonrock",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 57,
+      "duration_ms": 249,
       "error": null
     },
     {
@@ -373,11 +357,11 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 289,
+      "duration_ms": 255,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "redhuntlabs",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -390,6 +374,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 37,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 497,
+      "duration_ms": 434,
       "error": null
     },
     {
@@ -429,15 +429,23 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1235,
+      "duration_ms": 1265,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 2064,
+      "duration_ms": 3072,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3042,
       "error": null
     },
     {
@@ -453,15 +461,7 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 111,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
       "resource": "urlscan",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3039,
       "error": null
     },
     {
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "threatcrowd",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 3112,
       "error": null
     },
     {
@@ -521,14 +521,6 @@
       "error": null
     },
     {
-      "resource": "windvane",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "zoomeyeapi",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
@@ -537,27 +529,19 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "windvane",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3308,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "myssl",
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3100,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingchannelpartnerawards.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 22126,
+      "duration_ms": 23341,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32720,
+      "duration_ms": 31169,
       "error": null
     },
     {
@@ -573,7 +557,15 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61504,
+      "duration_ms": 47150,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61282,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65955,
+      "duration_ms": 65969,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingchannelpartnerawards.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 68293,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingchannelpartnerawards.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65606,
+      "duration_ms": 65194,
       "error": null
     }
   ]
