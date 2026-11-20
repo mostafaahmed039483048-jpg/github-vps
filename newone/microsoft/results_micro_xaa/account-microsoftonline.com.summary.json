@@ -1,37 +1,21 @@
 {
   "root_domain": "account-microsoftonline.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:58:32.923950+00:00",
-  "completed_at": "2026-11-20T08:59:42.919153+00:00",
-  "duration_ms": 69995,
+  "started_at": "2026-11-20T22:40:37.259840+00:00",
+  "completed_at": "2026-11-20T22:41:46.247537+00:00",
+  "duration_ms": 68987,
   "targets_scanned": [
     "account-microsoftonline.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "facebook",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "binaryedge",
       "target": "account-microsoftonline.com",
@@ -41,31 +25,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "argosdns",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +57,15 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "github",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -106,30 +74,6 @@
     },
     {
       "resource": "arpsyndicate",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,6 +105,14 @@
       "error": null
     },
     {
+      "resource": "chinaz",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "coderog",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
@@ -169,7 +121,7 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "chaos",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "facebook",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "dnsrepo",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +161,62 @@
       "error": null
     },
     {
+      "resource": "google",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
@@ -217,15 +225,15 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "intelx",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "merklemap",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "digitorus",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -265,14 +273,6 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 35,
-      "error": null
-    },
-    {
       "resource": "onyphe",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,7 @@
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 68,
+      "duration_ms": 66,
       "error": null
     },
     {
@@ -329,14 +329,6 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 248,
-      "error": null
-    },
-    {
       "resource": "rapidfinder",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
@@ -345,11 +337,19 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "alienvault",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 285,
+      "duration_ms": 204,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 228,
       "error": null
     },
     {
@@ -361,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 48,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 456,
+      "duration_ms": 261,
       "error": null
     },
     {
@@ -393,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "reconeer",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 95,
       "error": null
     },
     {
@@ -409,19 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34,
+      "duration_ms": 17,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "rapiddns",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1395,
+      "findings_count": 1,
+      "duration_ms": 427,
       "error": null
     },
     {
@@ -429,23 +429,15 @@
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1492,
+      "duration_ms": 1004,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 100,
+      "duration_ms": 1333,
       "error": null
     },
     {
@@ -457,19 +449,27 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "thc",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3046,
+      "findings_count": 1,
+      "duration_ms": 117,
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "riddler",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3296,
+      "duration_ms": 3097,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20,
       "error": null
     },
     {
@@ -505,23 +505,15 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3086,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3106,
-      "error": null
-    },
-    {
-      "resource": "windvane",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,27 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "windvane",
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 13862,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3360,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "account-microsoftonline.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3117,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28429,
+      "duration_ms": 13804,
       "error": null
     },
     {
@@ -557,15 +565,7 @@
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31033,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "account-microsoftonline.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61815,
+      "duration_ms": 31687,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65980,
+      "duration_ms": 49972,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65980,
+      "duration_ms": 65985,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "account-microsoftonline.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65268,
+      "duration_ms": 65594,
       "error": null
     }
   ]
