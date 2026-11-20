@@ -1,151 +1,23 @@
 {
   "root_domain": "contososuites.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:48:30.925428+00:00",
-  "completed_at": "2026-11-20T06:49:39.914101+00:00",
-  "duration_ms": 68988,
+  "started_at": "2026-11-20T19:58:15.249420+00:00",
+  "completed_at": "2026-11-20T19:59:24.244371+00:00",
+  "duration_ms": 68994,
   "targets_scanned": [
     "contososuites.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
+      "resource": "coderog",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "builtwith",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "argosdns",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +49,23 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "fullhunt",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +81,95 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "github",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +185,23 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "binaryedge",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +217,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 40,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 47,
       "error": null
     },
     {
@@ -305,6 +305,14 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 68,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "contososuites.com",
       "recursion_depth": 0,
@@ -313,19 +321,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "alienvault",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 67,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 194,
+      "duration_ms": 206,
       "error": null
     },
     {
@@ -345,11 +345,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "hudsonrock",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 296,
+      "duration_ms": 240,
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 60,
+      "duration_ms": 45,
       "error": null
     },
     {
@@ -385,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "hackertarget",
       "target": "contososuites.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 461,
-      "error": null
-    },
-    {
-      "resource": "securitytrails",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "findings_count": 2,
+      "duration_ms": 488,
       "error": null
     },
     {
@@ -409,11 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 17,
+      "duration_ms": 22,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 462,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1148,
+      "duration_ms": 999,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -429,15 +437,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1649,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3038,
+      "duration_ms": 1578,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 119,
+      "duration_ms": 122,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3037,
+      "duration_ms": 3045,
       "error": null
     },
     {
@@ -473,14 +473,6 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3034,
-      "error": null
-    },
-    {
       "resource": "trickest",
       "target": "contososuites.com",
       "recursion_depth": 0,
@@ -489,11 +481,27 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3055,
+      "error": null
+    },
+    {
       "resource": "virustotal",
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "contososuites.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3270,
       "error": null
     },
     {
@@ -510,14 +518,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "contososuites.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3392,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3055,
+      "duration_ms": 3101,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20905,
+      "duration_ms": 26944,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30373,
+      "duration_ms": 31573,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 34998,
+      "duration_ms": 46700,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41853,
+      "duration_ms": 61270,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65977,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "contososuites.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65396,
+      "duration_ms": 65418,
       "error": null
     }
   ]

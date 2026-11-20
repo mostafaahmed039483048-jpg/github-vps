@@ -1,16 +1,16 @@
 {
   "root_domain": "appetitesallooonsj.shop",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:41:03.416312+00:00",
-  "completed_at": "2026-11-20T06:42:08.622017+00:00",
-  "duration_ms": 65205,
+  "started_at": "2026-11-20T19:54:08.377357+00:00",
+  "completed_at": "2026-11-20T19:59:40.791965+00:00",
+  "duration_ms": 332414,
   "targets_scanned": [
     "appetitesallooonsj.shop"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
@@ -34,6 +34,14 @@
     },
     {
       "resource": "facebook",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,14 +97,6 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "bufferover",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
@@ -121,14 +121,6 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "binaryedge",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
@@ -137,23 +129,15 @@
       "error": null
     },
     {
+      "resource": "argosdns",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "github",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,6 +185,22 @@
       "error": null
     },
     {
+      "resource": "digitalyama",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "coderog",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
@@ -221,7 +221,7 @@
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 109,
+      "duration_ms": 79,
       "error": null
     },
     {
@@ -249,19 +249,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 48,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 91,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -337,19 +337,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 233,
-      "error": null
-    },
-    {
       "resource": "hudsonrock",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 212,
+      "duration_ms": 191,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 221,
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 57,
       "error": null
     },
     {
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "hackertarget",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 428,
+      "findings_count": 1,
+      "duration_ms": 532,
       "error": null
     },
     {
@@ -413,15 +413,23 @@
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 19,
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "rapiddns",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 559,
+      "findings_count": 0,
+      "duration_ms": 487,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1214,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1274,
+      "duration_ms": 1224,
       "error": "'NoneType' object is not iterable"
-    },
-    {
-      "resource": "riddler",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3053,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 110,
+      "duration_ms": 113,
       "error": null
     },
     {
@@ -457,11 +457,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "crtsh",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3077,
+      "findings_count": 1,
+      "duration_ms": 3205,
       "error": null
     },
     {
@@ -473,11 +473,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "riddler",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 5564,
+      "duration_ms": 3056,
       "error": null
     },
     {
@@ -505,11 +505,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "shrewdeye",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3087,
+      "duration_ms": 3073,
       "error": null
     },
     {
@@ -537,19 +537,19 @@
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "sitedossier",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22445,
+      "duration_ms": 3492,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "threatcrowd",
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23440,
+      "duration_ms": 3092,
       "error": null
     },
     {
@@ -557,15 +557,7 @@
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31289,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34047,
+      "duration_ms": 29130,
       "error": null
     },
     {
@@ -573,15 +565,7 @@
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44097,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "appetitesallooonsj.shop",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 58694,
+      "duration_ms": 44162,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "appetitesallooonsj.shop",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61538,
+      "duration_ms": 61798,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65488,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "appetitesallooonsj.shop",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 332369,
       "error": null
     }
   ]

@@ -1,167 +1,23 @@
 {
   "root_domain": "bulk-approach.site",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:45:56.920456+00:00",
-  "completed_at": "2026-11-20T06:47:05.914426+00:00",
-  "duration_ms": 68993,
+  "started_at": "2026-11-20T19:57:43.250713+00:00",
+  "completed_at": "2026-11-20T19:58:52.246020+00:00",
+  "duration_ms": 68995,
   "targets_scanned": [
     "bulk-approach.site"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "bufferover",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "binaryedge",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "domscan",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +49,31 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "chaos",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +89,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
+      "resource": "builtwith",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,11 +97,123 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "censys",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -241,15 +225,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "leakix",
+      "resource": "huntermap",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,6 +241,14 @@
       "error": null
     },
     {
+      "resource": "leakix",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
@@ -273,7 +257,23 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "netlas",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 74,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
@@ -321,19 +313,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "anubis",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 180,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 62,
       "error": null
     },
     {
@@ -345,11 +329,27 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 174,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 204,
+      "duration_ms": 263,
       "error": null
     },
     {
@@ -365,7 +365,15 @@
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 52,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 428,
       "error": null
     },
     {
@@ -374,14 +382,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 437,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 517,
+      "duration_ms": 499,
       "error": null
     },
     {
@@ -425,20 +425,20 @@
       "error": null
     },
     {
-      "resource": "racent",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 982,
-      "error": "'list' object has no attribute 'get'"
-    },
-    {
       "resource": "myssl",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1078,
+      "duration_ms": 1146,
       "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1304,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "threatbook",
@@ -453,23 +453,15 @@
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 105,
+      "duration_ms": 113,
       "error": null
     },
     {
-      "resource": "crtsh",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 1332,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "riddler",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3059,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3034,
+      "duration_ms": 3078,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -505,23 +505,15 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3065,
+      "duration_ms": 3269,
       "error": null
     },
     {
       "resource": "whoisfreaks",
-      "target": "bulk-approach.site",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "zoomeyeapi",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "zoomeyeapi",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3293,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,7 +541,7 @@
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
+      "duration_ms": 3081,
       "error": null
     },
     {
@@ -557,15 +549,15 @@
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30977,
+      "duration_ms": 29541,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "crtsh",
       "target": "bulk-approach.site",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 34985,
+      "findings_count": 1,
+      "duration_ms": 42814,
       "error": null
     },
     {
@@ -573,7 +565,7 @@
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44176,
+      "duration_ms": 42402,
       "error": null
     },
     {
@@ -581,7 +573,15 @@
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61204,
+      "duration_ms": 61317,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bulk-approach.site",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65985,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bulk-approach.site",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65702,
+      "duration_ms": 65408,
       "error": null
     }
   ]
