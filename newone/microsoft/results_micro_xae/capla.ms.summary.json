@@ -1,37 +1,21 @@
 {
   "root_domain": "capla.ms",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T07:55:57.932446+00:00",
-  "completed_at": "2026-11-20T07:57:07.917296+00:00",
-  "duration_ms": 69984,
+  "started_at": "2026-11-20T21:25:10.248957+00:00",
+  "completed_at": "2026-11-20T21:26:34.983522+00:00",
+  "duration_ms": 84734,
   "targets_scanned": [
     "capla.ms"
   ],
   "total_unique_findings": 13,
   "fresh_findings_count": 13,
-  "historical_findings_count": 0,
-  "new_findings_count": 13,
+  "historical_findings_count": 13,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "bevigil",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "facebook",
       "target": "capla.ms",
@@ -41,7 +25,15 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "bevigil",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,7 +49,31 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "coderog",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +89,103 @@
       "error": null
     },
     {
+      "resource": "domscan",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "argosdns",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,118 +209,6 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "intelx",
       "target": "capla.ms",
       "recursion_depth": 0,
@@ -217,19 +217,19 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 50,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 24,
       "error": null
     },
     {
@@ -249,11 +249,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "odin",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61,
       "error": null
     },
     {
@@ -265,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "profundis",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -274,14 +282,6 @@
     },
     {
       "resource": "onyphe",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 81,
       "error": null
     },
     {
@@ -318,14 +318,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 223,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
       "resource": "hackertarget",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 278,
+      "duration_ms": 267,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 46,
       "error": null
     },
     {
@@ -369,7 +369,15 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "alienvault",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 580,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,15 +385,7 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 513,
-      "error": null
-    },
-    {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,23 @@
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 23,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 556,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1156,
       "error": null
     },
     {
@@ -421,32 +437,8 @@
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 929,
+      "duration_ms": 1211,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1042,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3045,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 11,
-      "duration_ms": 130,
-      "error": null
     },
     {
       "resource": "threatbook",
@@ -457,11 +449,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "thc",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 11,
+      "duration_ms": 113,
+      "error": null
+    },
+    {
+      "resource": "riddler",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3102,
+      "duration_ms": 3049,
       "error": null
     },
     {
@@ -473,19 +473,19 @@
       "error": null
     },
     {
+      "resource": "threatminer",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 15,
+      "error": null
+    },
+    {
       "resource": "trickest",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3499,
       "error": null
     },
     {
@@ -505,19 +505,19 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3043,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3099,
       "error": null
     },
     {
@@ -537,27 +537,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "sitedossier",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22159,
+      "duration_ms": 3271,
       "error": null
     },
     {
-      "resource": "reconcloud",
+      "resource": "threatcrowd",
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28604,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "capla.ms",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41902,
+      "duration_ms": 3078,
       "error": null
     },
     {
@@ -565,15 +557,23 @@
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44570,
+      "duration_ms": 24656,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "reconcloud",
       "target": "capla.ms",
       "recursion_depth": 0,
-      "findings_count": 13,
-      "duration_ms": 50357,
+      "findings_count": 0,
+      "duration_ms": 30235,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "capla.ms",
+      "recursion_depth": 0,
+      "findings_count": 8,
+      "duration_ms": 35869,
       "error": null
     },
     {
@@ -581,15 +581,15 @@
       "target": "capla.ms",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65956,
+      "duration_ms": 65985,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "crtsh",
       "target": "capla.ms",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65497,
+      "findings_count": 13,
+      "duration_ms": 84717,
       "error": null
     }
   ]
