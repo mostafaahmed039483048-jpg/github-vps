@@ -1,79 +1,23 @@
 {
   "root_domain": "accesstutorial.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:44:40.917670+00:00",
-  "completed_at": "2026-11-20T08:46:53.925821+00:00",
-  "duration_ms": 133008,
+  "started_at": "2026-11-20T22:29:17.252370+00:00",
+  "completed_at": "2026-11-20T22:30:26.244235+00:00",
+  "duration_ms": 68991,
   "targets_scanned": [
     "accesstutorial.com"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "builtwith",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "arpsyndicate",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,6 +33,14 @@
       "error": null
     },
     {
+      "resource": "chaos",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "certspotter",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
@@ -97,47 +49,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
+      "resource": "censys",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "dnsdumpster",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,31 +73,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
+      "resource": "fofa",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,15 +97,111 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "chinaz",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "builtwith",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,27 +213,27 @@
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
       "resource": "intelx",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "leakix",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "netlas",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -273,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "leakix",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +273,23 @@
       "error": null
     },
     {
+      "resource": "odin",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "onyphe",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 76,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
@@ -321,19 +313,27 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 76,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 183,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 227,
       "error": null
     },
     {
@@ -349,15 +349,15 @@
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 286,
+      "duration_ms": 251,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hudsonrock",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
+      "duration_ms": 266,
       "error": null
     },
     {
@@ -366,6 +366,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61,
       "error": null
     },
     {
@@ -385,11 +393,11 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "shodan",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 477,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -401,19 +409,19 @@
       "error": null
     },
     {
-      "resource": "shodan",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 20,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 515,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1172,
+      "duration_ms": 925,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -429,15 +437,7 @@
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1574,
-      "error": null
-    },
-    {
-      "resource": "riddler",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3061,
+      "duration_ms": 1544,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 125,
+      "duration_ms": 119,
       "error": null
     },
     {
@@ -457,23 +457,23 @@
       "error": null
     },
     {
+      "resource": "riddler",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3070,
+      "error": null
+    },
+    {
       "resource": "shrewdeye",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3060,
+      "duration_ms": 3059,
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3392,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -494,14 +494,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "threatcrowd",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3069,
       "error": null
     },
     {
@@ -521,6 +513,14 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3277,
+      "error": null
+    },
+    {
       "resource": "windvane",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
@@ -537,19 +537,11 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "threatcrowd",
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22182,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 26080,
+      "duration_ms": 3164,
       "error": null
     },
     {
@@ -557,7 +549,15 @@
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30020,
+      "duration_ms": 31863,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61904,
       "error": null
     },
     {
@@ -565,23 +565,7 @@
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61578,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65985,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "accesstutorial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65375,
+      "duration_ms": 61608,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "accesstutorial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 133000,
+      "duration_ms": 65980,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65980,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "accesstutorial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65586,
       "error": null
     }
   ]

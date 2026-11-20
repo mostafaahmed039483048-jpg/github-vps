@@ -1,29 +1,21 @@
 {
   "root_domain": "channel4uk.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T08:47:08.920252+00:00",
-  "completed_at": "2026-11-20T08:48:17.914326+00:00",
-  "duration_ms": 68994,
+  "started_at": "2026-11-20T22:29:32.348889+00:00",
+  "completed_at": "2026-11-20T22:30:41.246252+00:00",
+  "duration_ms": 68897,
   "targets_scanned": [
     "channel4uk.com"
   ],
   "total_unique_findings": 3,
   "fresh_findings_count": 3,
-  "historical_findings_count": 0,
-  "new_findings_count": 3,
+  "historical_findings_count": 3,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "binaryedge",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "driftnet",
       "target": "channel4uk.com",
@@ -33,23 +25,7 @@
       "error": null
     },
     {
-      "resource": "dnsrepo",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
+      "resource": "builtwith",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "argosdns",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -73,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "dnsdumpster",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +57,39 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "binaryedge",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -90,6 +98,14 @@
     },
     {
       "resource": "chaos",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,31 +129,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "certspotter",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +145,15 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "domscan",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,6 +169,30 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "github",
       "target": "channel4uk.com",
       "recursion_depth": 0,
@@ -177,31 +201,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "c99",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,19 +217,19 @@
       "error": null
     },
     {
+      "resource": "digitorus",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
+      "error": null
+    },
+    {
       "resource": "intelx",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32,
       "error": null
     },
     {
@@ -257,15 +257,23 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "netlas",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 39,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "abuseipdb",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "channel4uk.com",
       "recursion_depth": 0,
@@ -313,27 +313,11 @@
       "error": null
     },
     {
-      "resource": "anubis",
+      "resource": "crtsh",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 92,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 185,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 53,
       "error": null
     },
     {
@@ -345,11 +329,35 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 86,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 178,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 211,
+      "duration_ms": 213,
       "error": null
     },
     {
@@ -358,22 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 268,
       "error": null
     },
     {
@@ -393,6 +385,14 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
       "resource": "securitytrails",
       "target": "channel4uk.com",
       "recursion_depth": 0,
@@ -409,11 +409,19 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -421,23 +429,15 @@
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 494,
+      "duration_ms": 418,
       "error": null
-    },
-    {
-      "resource": "racent",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 917,
-      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "myssl",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1163,
+      "duration_ms": 979,
       "error": null
     },
     {
@@ -453,16 +453,16 @@
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 111,
+      "duration_ms": 104,
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "racent",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
-      "error": null
+      "duration_ms": 1224,
+      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "urlscan",
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "riddler",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3063,
+      "duration_ms": 3052,
       "error": null
     },
     {
@@ -494,14 +494,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3292,
       "error": null
     },
     {
@@ -521,6 +513,14 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3052,
+      "error": null
+    },
+    {
       "resource": "windvane",
       "target": "channel4uk.com",
       "recursion_depth": 0,
@@ -537,11 +537,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "channel4uk.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3086,
+      "duration_ms": 3091,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25400,
+      "duration_ms": 27126,
       "error": null
     },
     {
@@ -557,15 +565,7 @@
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32581,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "channel4uk.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 56061,
+      "duration_ms": 32877,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61572,
+      "duration_ms": 61433,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65983,
+      "duration_ms": 65888,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "channel4uk.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65634,
+      "duration_ms": 65621,
       "error": null
     }
   ]
