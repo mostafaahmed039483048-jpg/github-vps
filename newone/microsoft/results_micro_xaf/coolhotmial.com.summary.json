@@ -1,159 +1,23 @@
 {
   "root_domain": "coolhotmial.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:13:17.328871+00:00",
-  "completed_at": "2026-11-20T20:15:20.330315+00:00",
-  "duration_ms": 123001,
+  "started_at": "2026-11-21T05:05:11.469306+00:00",
+  "completed_at": "2026-11-21T05:06:21.550966+00:00",
+  "duration_ms": 70081,
   "targets_scanned": [
     "coolhotmial.com"
   ],
-  "total_unique_findings": 1,
-  "fresh_findings_count": 1,
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
   "historical_findings_count": 1,
-  "new_findings_count": 0,
+  "new_findings_count": 1,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "dnsdumpster",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,6 +41,14 @@
       "error": null
     },
     {
+      "resource": "domscan",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "bevigil",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
@@ -185,7 +57,71 @@
       "error": null
     },
     {
-      "resource": "facebook",
+      "resource": "driftnet",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +137,71 @@
       "error": null
     },
     {
+      "resource": "censys",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domainsproject",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +229,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27,
+      "duration_ms": 30,
       "error": null
     },
     {
@@ -249,7 +249,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "odin",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,7 +257,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,11 +269,11 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 37,
+      "duration_ms": 39,
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "profundis",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "onyphe",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,11 +309,19 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 114,
+      "duration_ms": 58,
       "error": null
     },
     {
       "resource": "rapidapi",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -333,11 +341,19 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 188,
+      "duration_ms": 222,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "hudsonrock",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 228,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -349,19 +365,11 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 249,
+      "duration_ms": 261,
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 49,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "robtex",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,19 +385,11 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "reconeer",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 459,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 58,
       "error": null
     },
     {
@@ -413,15 +413,15 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 20,
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rapiddns",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 958,
+      "duration_ms": 677,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1119,
+      "duration_ms": 1022,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1244,
+      "duration_ms": 1176,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -445,7 +445,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 96,
+      "duration_ms": 118,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 7,
       "error": null
     },
     {
@@ -497,19 +497,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3042,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3151,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3466,
+      "duration_ms": 3361,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3122,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31603,
+      "duration_ms": 3096,
       "error": null
     },
     {
@@ -565,7 +557,23 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42383,
+      "duration_ms": 8186,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30360,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "coolhotmial.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 46442,
       "error": null
     },
     {
@@ -573,15 +581,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65914,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "coolhotmial.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65530,
+      "duration_ms": 65984,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "coolhotmial.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 122993,
+      "duration_ms": 70072,
       "error": null
     }
   ]
