@@ -1,0 +1,596 @@
+{
+  "root_domain": "bogdanss.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T00:54:56.256285+00:00",
+  "completed_at": "2026-11-21T00:56:06.247397+00:00",
+  "duration_ms": 69991,
+  "targets_scanned": [
+    "bogdanss.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "censys",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 73,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 259,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 260,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 452,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1098,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1243,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "riddler",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3055,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 127,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3054,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3141,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 8735,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 13099,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33094,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61458,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 65499,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65979,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bogdanss.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65589,
+      "error": null
+    }
+  ]
+}
