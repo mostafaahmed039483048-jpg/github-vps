@@ -1,0 +1,596 @@
+{
+  "root_domain": "dfofficehosted.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T00:44:57.261009+00:00",
+  "completed_at": "2026-11-21T00:46:06.246913+00:00",
+  "duration_ms": 68985,
+  "targets_scanned": [
+    "dfofficehosted.com"
+  ],
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 0,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "dnsrepo",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 91,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 183,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 214,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 257,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 62,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 451,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1270,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1393,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 110,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3094,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3366,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3516,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3225,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31104,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 33624,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33956,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61707,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65975,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "dfofficehosted.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65352,
+      "error": null
+    }
+  ]
+}
