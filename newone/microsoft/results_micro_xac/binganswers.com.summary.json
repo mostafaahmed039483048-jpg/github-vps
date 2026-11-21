@@ -1,9 +1,9 @@
 {
   "root_domain": "binganswers.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:11:06.261455+00:00",
-  "completed_at": "2026-11-20T20:13:32.326732+00:00",
-  "duration_ms": 146065,
+  "started_at": "2026-11-21T04:57:27.468434+00:00",
+  "completed_at": "2026-11-21T04:58:36.464607+00:00",
+  "duration_ms": 68996,
   "targets_scanned": [
     "binganswers.com"
   ],
@@ -17,46 +17,6 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "c99",
       "target": "binganswers.com",
       "recursion_depth": 0,
@@ -65,87 +25,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "facebook",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
+      "resource": "driftnet",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,23 +57,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "dnsdb",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,11 +73,139 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "fullhunt",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -222,6 +214,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "abuseipdb",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 29,
       "error": null
     },
     {
@@ -265,15 +265,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 64,
-      "error": null
-    },
-    {
-      "resource": "profundis",
+      "resource": "netlas",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "binganswers.com",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 116,
+      "duration_ms": 50,
       "error": null
     },
     {
@@ -341,7 +341,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
+      "duration_ms": 182,
       "error": null
     },
     {
@@ -349,15 +349,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 210,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 242,
+      "duration_ms": 214,
       "error": null
     },
     {
@@ -369,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "hackertarget",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 257,
       "error": null
     },
     {
@@ -382,6 +374,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 67,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 11,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 466,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1305,
+      "duration_ms": 473,
       "error": null
     },
     {
@@ -437,15 +429,15 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1307,
+      "duration_ms": 942,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "thc",
+      "resource": "myssl",
       "target": "binganswers.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 112,
+      "findings_count": 0,
+      "duration_ms": 1351,
       "error": null
     },
     {
@@ -457,19 +449,19 @@
       "error": null
     },
     {
+      "resource": "thc",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 122,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3053,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3074,
+      "duration_ms": 3044,
       "error": null
     },
     {
@@ -489,6 +481,14 @@
       "error": null
     },
     {
+      "resource": "shrewdeye",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3051,
+      "error": null
+    },
+    {
       "resource": "virustotal",
       "target": "binganswers.com",
       "recursion_depth": 0,
@@ -501,11 +501,11 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3466,
+      "duration_ms": 3469,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "whoisxml",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +513,7 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,7 +541,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3074,
+      "duration_ms": 3055,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 27055,
+      "duration_ms": 7898,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30383,
+      "duration_ms": 30885,
       "error": null
     },
     {
@@ -565,23 +565,7 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61617,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65974,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "binganswers.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65624,
+      "duration_ms": 42144,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "binganswers.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 146057,
+      "duration_ms": 49523,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65986,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "binganswers.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65642,
       "error": null
     }
   ]

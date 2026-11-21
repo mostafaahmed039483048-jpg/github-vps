@@ -1,9 +1,9 @@
 {
   "root_domain": "controllerfreegaming.org",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:04:50.246838+00:00",
-  "completed_at": "2026-11-20T20:05:59.246978+00:00",
-  "duration_ms": 69000,
+  "started_at": "2026-11-21T04:57:08.467188+00:00",
+  "completed_at": "2026-11-21T04:58:17.466991+00:00",
+  "duration_ms": 68999,
   "targets_scanned": [
     "controllerfreegaming.org"
   ],
@@ -17,95 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
+      "resource": "censys",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,15 +33,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "binaryedge",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "fullhunt",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "digitalyama",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,31 +65,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "certspotter",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,11 +81,139 @@
       "error": null
     },
     {
+      "resource": "chinaz",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "driftnet",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25,
       "error": null
     },
     {
@@ -225,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "odin",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "digitorus",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -274,14 +282,6 @@
     },
     {
       "resource": "pugrecon",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,7 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 94,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 197,
+      "duration_ms": 60,
       "error": null
     },
     {
@@ -334,6 +326,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 184,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 211,
+      "duration_ms": 245,
       "error": null
     },
     {
@@ -365,15 +365,15 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 263,
+      "duration_ms": 256,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rsecloud",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 66,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "reconeer",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 436,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1153,
+      "duration_ms": 777,
       "error": null
     },
     {
@@ -437,15 +429,23 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1194,
+      "duration_ms": 1174,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1782,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 108,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -461,15 +461,15 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3053,
+      "duration_ms": 3065,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3069,
       "error": null
     },
     {
@@ -481,11 +481,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "trickest",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -505,19 +505,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3491,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3271,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3073,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "controllerfreegaming.org",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31587,
+      "duration_ms": 3136,
       "error": null
     },
     {
@@ -557,15 +549,15 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42490,
+      "duration_ms": 7763,
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "reconcloud",
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61385,
+      "duration_ms": 31780,
       "error": null
     },
     {
@@ -573,7 +565,15 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65989,
+      "duration_ms": 50471,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "controllerfreegaming.org",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61567,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65989,
+      "duration_ms": 65987,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "controllerfreegaming.org",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65657,
+      "duration_ms": 65576,
       "error": null
     }
   ]
