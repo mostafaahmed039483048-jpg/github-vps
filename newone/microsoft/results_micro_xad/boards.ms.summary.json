@@ -1,0 +1,596 @@
+{
+  "root_domain": "boards.ms",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T00:51:46.255139+00:00",
+  "completed_at": "2026-11-21T00:52:52.258388+00:00",
+  "duration_ms": 66003,
+  "targets_scanned": [
+    "boards.ms"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "censys",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 39,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 239,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 247,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 51,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 537,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1026,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1062,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3083,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 105,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3051,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3109,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 8062,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22055,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 22155,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 18873,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20672,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33084,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "boards.ms",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65992,
+      "error": null
+    }
+  ]
+}
