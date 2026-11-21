@@ -1,9 +1,9 @@
 {
   "root_domain": "bingrealestate.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:19:32.320772+00:00",
-  "completed_at": "2026-11-20T20:21:09.252789+00:00",
-  "duration_ms": 96932,
+  "started_at": "2026-11-21T05:06:33.571666+00:00",
+  "completed_at": "2026-11-21T05:07:43.466353+00:00",
+  "duration_ms": 69894,
   "targets_scanned": [
     "bingrealestate.com"
   ],
@@ -25,31 +25,7 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
+      "resource": "c99",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +41,23 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "google",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,79 +81,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
+      "resource": "arpsyndicate",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "dnsdb",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +105,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "github",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +121,103 @@
       "error": null
     },
     {
+      "resource": "coderog",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "digitalyama",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,39 +233,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 41,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42,
-      "error": null
-    },
-    {
       "resource": "leakix",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "odin",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,11 +249,27 @@
       "error": null
     },
     {
+      "resource": "odin",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "netlas",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,7 +317,15 @@
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 88,
+      "duration_ms": 61,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 180,
       "error": null
     },
     {
@@ -326,14 +334,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 196,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 204,
+      "duration_ms": 184,
       "error": null
     },
     {
@@ -361,27 +361,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 281,
-      "error": null
-    },
-    {
-      "resource": "robtex",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "reconeer",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 93,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "hackertarget",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 246,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,19 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 22,
+      "duration_ms": 19,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 424,
+      "duration_ms": 473,
       "error": null
     },
     {
@@ -429,23 +429,15 @@
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1261,
+      "duration_ms": 909,
       "error": "'list' object has no attribute 'get'"
     },
     {
-      "resource": "myssl",
+      "resource": "riddler",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1922,
-      "error": null
-    },
-    {
-      "resource": "thc",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 110,
+      "duration_ms": 3076,
       "error": null
     },
     {
@@ -457,19 +449,19 @@
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "shrewdeye",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3044,
+      "duration_ms": 3052,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "thc",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "findings_count": 1,
+      "duration_ms": 113,
       "error": null
     },
     {
@@ -481,11 +473,19 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "trickest",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3466,
       "error": null
     },
     {
@@ -505,19 +505,19 @@
       "error": null
     },
     {
+      "resource": "threatcrowd",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3050,
+      "error": null
+    },
+    {
       "resource": "whoisxml",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3273,
       "error": null
     },
     {
@@ -537,11 +537,19 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "crtsh",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3062,
+      "duration_ms": 11262,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23668,
       "error": null
     },
     {
@@ -549,15 +557,7 @@
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 9427,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29072,
+      "duration_ms": 28852,
       "error": null
     },
     {
@@ -565,15 +565,7 @@
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30832,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingrealestate.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 33007,
+      "duration_ms": 32678,
       "error": null
     },
     {
@@ -581,15 +573,23 @@
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61475,
+      "duration_ms": 61613,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "commoncrawl",
       "target": "bingrealestate.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 96918,
+      "duration_ms": 65881,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingrealestate.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65884,
       "error": null
     }
   ]

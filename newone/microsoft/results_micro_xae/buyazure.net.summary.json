@@ -1,9 +1,9 @@
 {
   "root_domain": "buyazure.net",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:12:10.165137+00:00",
-  "completed_at": "2026-11-20T20:14:08.264938+00:00",
-  "duration_ms": 118099,
+  "started_at": "2026-11-21T05:06:40.465507+00:00",
+  "completed_at": "2026-11-21T05:07:49.463775+00:00",
+  "duration_ms": 68998,
   "targets_scanned": [
     "buyazure.net"
   ],
@@ -17,7 +17,71 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "coderog",
+      "resource": "c99",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,15 +105,7 @@
       "error": null
     },
     {
-      "resource": "chaos",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "fofa",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,63 +121,7 @@
       "error": null
     },
     {
-      "resource": "google",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "digitalyama",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,15 +137,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
+      "resource": "domainsproject",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "builtwith",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +161,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "censys",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +169,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "bufferover",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,15 +177,7 @@
       "error": null
     },
     {
-      "resource": "c99",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
+      "resource": "chinaz",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "arpsyndicate",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +201,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "coderog",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -230,6 +214,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33,
       "error": null
     },
     {
@@ -249,14 +249,6 @@
       "error": null
     },
     {
-      "resource": "netlas",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "odin",
       "target": "buyazure.net",
       "recursion_depth": 0,
@@ -265,11 +257,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
+      "duration_ms": 38,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -309,7 +309,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 133,
+      "duration_ms": 63,
       "error": null
     },
     {
@@ -329,6 +329,14 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 186,
+      "error": null
+    },
+    {
       "resource": "rapidscan",
       "target": "buyazure.net",
       "recursion_depth": 0,
@@ -341,7 +349,15 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 208,
+      "duration_ms": 224,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -357,23 +373,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 43,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 437,
+      "duration_ms": 71,
       "error": null
     },
     {
@@ -393,7 +393,7 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "securitytrails",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -401,7 +401,7 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "shodan",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 12,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 436,
+      "duration_ms": 434,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 908,
+      "duration_ms": 1172,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1023,
+      "duration_ms": 1306,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 102,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -461,23 +461,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3037,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3035,
       "error": null
     },
     {
@@ -489,7 +473,7 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "urlscan",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,7 +481,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "shrewdeye",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3040,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -509,11 +501,19 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3358,
+      "duration_ms": 3360,
       "error": null
     },
     {
       "resource": "whoisxml",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,7 +541,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3082,
+      "duration_ms": 3059,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21671,
+      "duration_ms": 28825,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28304,
+      "duration_ms": 30978,
       "error": null
     },
     {
@@ -565,23 +565,7 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41941,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65075,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "buyazure.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65567,
+      "duration_ms": 61511,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "buyazure.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 118090,
+      "duration_ms": 65987,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65986,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "buyazure.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65638,
       "error": null
     }
   ]

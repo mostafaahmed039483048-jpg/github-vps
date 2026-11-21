@@ -1,9 +1,9 @@
 {
   "root_domain": "bingauctions.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:20:30.250213+00:00",
-  "completed_at": "2026-11-20T20:21:39.247045+00:00",
-  "duration_ms": 68996,
+  "started_at": "2026-11-21T05:06:50.466817+00:00",
+  "completed_at": "2026-11-21T05:07:59.465639+00:00",
+  "duration_ms": 68998,
   "targets_scanned": [
     "bingauctions.com"
   ],
@@ -17,7 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "binaryedge",
+      "resource": "domscan",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "chinaz",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "certspotter",
+      "resource": "driftnet",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -41,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "google",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,15 +49,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
+      "resource": "coderog",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,7 +81,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "dnsdb",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,31 +89,7 @@
       "error": null
     },
     {
-      "resource": "driftnet",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
+      "resource": "domainsproject",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,6 +105,22 @@
       "error": null
     },
     {
+      "resource": "censys",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "argosdns",
       "target": "bingauctions.com",
       "recursion_depth": 0,
@@ -145,7 +129,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "certspotter",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -153,23 +137,7 @@
       "error": null
     },
     {
-      "resource": "github",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
+      "resource": "digitalyama",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +153,23 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "dnsdumpster",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +185,23 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "bevigil",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,19 +217,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29,
-      "error": null
-    },
-    {
       "resource": "intelx",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "odin",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 36,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,7 +265,15 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "abuseipdb",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,14 +290,6 @@
     },
     {
       "resource": "pugrecon",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "onyphe",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,15 +317,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 64,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 191,
+      "duration_ms": 52,
       "error": null
     },
     {
@@ -334,6 +326,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 173,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 224,
+      "duration_ms": 226,
       "error": null
     },
     {
@@ -365,7 +365,15 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 269,
+      "duration_ms": 251,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -378,14 +386,6 @@
     },
     {
       "resource": "rsecloud",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "robtex",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 525,
+      "duration_ms": 862,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1003,
+      "duration_ms": 1146,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1854,
+      "duration_ms": 1372,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 99,
+      "duration_ms": 106,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3039,
+      "duration_ms": 3044,
       "error": null
     },
     {
@@ -485,7 +485,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3041,
+      "duration_ms": 3039,
       "error": null
     },
     {
@@ -497,15 +497,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3345,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
+      "resource": "whoisfreaks",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "sitedossier",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3283,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -541,23 +541,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3074,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 29259,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingauctions.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42061,
+      "duration_ms": 3062,
       "error": null
     },
     {
@@ -565,7 +549,15 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 44186,
+      "duration_ms": 6562,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28846,
       "error": null
     },
     {
@@ -573,7 +565,15 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61414,
+      "duration_ms": 41726,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingauctions.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65992,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65987,
+      "duration_ms": 65993,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingauctions.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65654,
+      "duration_ms": 65662,
       "error": null
     }
   ]
