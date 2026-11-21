@@ -1,9 +1,9 @@
 {
   "root_domain": "apps.windows",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:15:21.759582+00:00",
-  "completed_at": "2026-11-20T20:16:27.244676+00:00",
-  "duration_ms": 65485,
+  "started_at": "2026-11-21T05:02:50.465704+00:00",
+  "completed_at": "2026-11-21T05:03:56.466948+00:00",
+  "duration_ms": 66001,
   "targets_scanned": [
     "apps.windows"
   ],
@@ -17,7 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "digitalyama",
+      "resource": "bufferover",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,47 +25,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "chinaz",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,7 +41,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "digitalyama",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,31 +49,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
+      "resource": "c99",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "domscan",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,31 +73,7 @@
       "error": null
     },
     {
-      "resource": "bufferover",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
+      "resource": "dnsrepo",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,6 +97,38 @@
       "error": null
     },
     {
+      "resource": "facebook",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "arpsyndicate",
       "target": "apps.windows",
       "recursion_depth": 0,
@@ -193,7 +137,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "binaryedge",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +153,7 @@
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "argosdns",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +161,51 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "coderog",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -233,7 +217,15 @@
       "error": null
     },
     {
-      "resource": "leakix",
+      "resource": "digitorus",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,15 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "leakix",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,11 +261,19 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 29,
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "odin",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,14 +297,6 @@
       "error": null
     },
     {
-      "resource": "onyphe",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "quake",
       "target": "apps.windows",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 80,
+      "duration_ms": 51,
       "error": null
     },
     {
@@ -318,22 +318,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 178,
       "error": null
     },
     {
@@ -349,19 +333,11 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 193,
+      "duration_ms": 175,
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 48,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
+      "resource": "rapidfinder",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -369,15 +345,23 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "hudsonrock",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 244,
+      "duration_ms": 180,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "reconeer",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -390,6 +374,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 246,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 21,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 504,
+      "duration_ms": 498,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 924,
+      "duration_ms": 956,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,15 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1128,
+      "duration_ms": 1091,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 110,
       "error": null
     },
     {
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 117,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3054,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3100,
+      "duration_ms": 3045,
       "error": null
     },
     {
@@ -489,11 +481,27 @@
       "error": null
     },
     {
+      "resource": "threatminer",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 13,
+      "error": null
+    },
+    {
       "resource": "virustotal",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "apps.windows",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3036,
       "error": null
     },
     {
@@ -513,11 +521,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "zoomeyeapi",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3495,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -529,11 +537,11 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "sitedossier",
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -541,7 +549,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3084,
+      "duration_ms": 3071,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 14501,
+      "duration_ms": 7883,
       "error": null
     },
     {
@@ -557,7 +565,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16743,
+      "duration_ms": 12529,
       "error": null
     },
     {
@@ -565,7 +573,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31493,
+      "duration_ms": 31727,
       "error": null
     },
     {
@@ -573,15 +581,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 45210,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "apps.windows",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61674,
+      "duration_ms": 47732,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "apps.windows",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65475,
+      "duration_ms": 65991,
       "error": null
     }
   ]
