@@ -1,0 +1,596 @@
+{
+  "root_domain": "americanprogress-outlook.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T02:02:55.273952+00:00",
+  "completed_at": "2026-11-21T02:04:04.247271+00:00",
+  "duration_ms": 68973,
+  "targets_scanned": [
+    "americanprogress-outlook.com"
+  ],
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 0,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "domscan",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 69,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 76,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 204,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 222,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 250,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 49,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 17,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 447,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1219,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1542,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 102,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3063,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3098,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3273,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3122,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33048,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 43517,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45036,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61666,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65954,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "americanprogress-outlook.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65602,
+      "error": null
+    }
+  ]
+}
