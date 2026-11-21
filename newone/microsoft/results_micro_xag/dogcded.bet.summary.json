@@ -1,127 +1,23 @@
 {
   "root_domain": "dogcded.bet",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:49:04.922204+00:00",
-  "completed_at": "2026-11-20T06:50:13.914865+00:00",
-  "duration_ms": 68992,
+  "started_at": "2026-11-21T04:59:04.483132+00:00",
+  "completed_at": "2026-11-21T05:00:13.465292+00:00",
+  "duration_ms": 68982,
   "targets_scanned": [
     "dogcded.bet"
   ],
   "total_unique_findings": 1,
   "fresh_findings_count": 1,
-  "historical_findings_count": 0,
-  "new_findings_count": 1,
+  "historical_findings_count": 1,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsdumpster",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
+      "resource": "certspotter",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,14 +41,6 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "github",
       "target": "dogcded.bet",
       "recursion_depth": 0,
@@ -161,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "chinaz",
+      "resource": "bufferover",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,23 +57,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
+      "resource": "coderog",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,11 +73,147 @@
       "error": null
     },
     {
+      "resource": "c99",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "censys",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
       "error": null
     },
     {
@@ -217,23 +225,7 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 33,
-      "error": null
-    },
-    {
       "resource": "intelx",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "merklemap",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "merklemap",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,11 +257,19 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "odin",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 41,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 40,
       "error": null
     },
     {
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +317,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 205,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 76,
       "error": null
     },
     {
@@ -345,11 +329,27 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 194,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 217,
+      "duration_ms": 216,
       "error": null
     },
     {
@@ -361,19 +361,19 @@
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 47,
-      "error": null
-    },
-    {
       "resource": "hackertarget",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 293,
+      "duration_ms": 249,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -385,11 +385,11 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "reconeer",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 43,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 18,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 479,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1007,
+      "duration_ms": 474,
       "error": null
     },
     {
@@ -437,15 +429,23 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1188,
+      "duration_ms": 922,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1681,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 100,
+      "duration_ms": 98,
       "error": null
     },
     {
@@ -461,15 +461,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3050,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 3054,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3041,
       "error": null
     },
     {
@@ -509,7 +509,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3309,
+      "duration_ms": 3271,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3068,
+      "duration_ms": 3055,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 12718,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "dogcded.bet",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 20269,
+      "duration_ms": 26936,
       "error": null
     },
     {
@@ -565,7 +557,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28841,
+      "duration_ms": 31763,
       "error": null
     },
     {
@@ -573,7 +565,15 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 43681,
+      "duration_ms": 47925,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "dogcded.bet",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61887,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65991,
+      "duration_ms": 65962,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "dogcded.bet",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65619,
+      "duration_ms": 65642,
       "error": null
     }
   ]
