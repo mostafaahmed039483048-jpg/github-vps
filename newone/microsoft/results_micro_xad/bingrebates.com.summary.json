@@ -1,9 +1,9 @@
 {
   "root_domain": "bingrebates.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:21:09.256280+00:00",
-  "completed_at": "2026-11-20T20:22:19.246765+00:00",
-  "duration_ms": 69990,
+  "started_at": "2026-11-21T05:07:43.469655+00:00",
+  "completed_at": "2026-11-21T05:08:55.642978+00:00",
+  "duration_ms": 72173,
   "targets_scanned": [
     "bingrebates.com"
   ],
@@ -17,55 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "coderog",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
+      "resource": "fullhunt",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -81,23 +33,31 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "argosdns",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,7 +73,79 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "google",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,6 +169,22 @@
       "error": null
     },
     {
+      "resource": "bufferover",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "chinaz",
       "target": "bingrebates.com",
       "recursion_depth": 0,
@@ -153,55 +201,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "dnsrepo",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -229,7 +229,7 @@
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30,
+      "duration_ms": 23,
       "error": null
     },
     {
@@ -241,6 +241,14 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 24,
+      "error": null
+    },
+    {
       "resource": "merklemap",
       "target": "bingrebates.com",
       "recursion_depth": 0,
@@ -249,23 +257,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 36,
-      "error": null
-    },
-    {
       "resource": "odin",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "netlas",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "netlas",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,6 +297,14 @@
       "error": null
     },
     {
+      "resource": "pugrecon",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
       "target": "bingrebates.com",
       "recursion_depth": 0,
@@ -317,7 +317,7 @@
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 87,
+      "duration_ms": 53,
       "error": null
     },
     {
@@ -329,11 +329,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "hudsonrock",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 247,
+      "duration_ms": 223,
       "error": null
     },
     {
@@ -345,19 +345,11 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "alienvault",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 263,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 52,
+      "duration_ms": 235,
       "error": null
     },
     {
@@ -369,11 +361,11 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "hackertarget",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 250,
       "error": null
     },
     {
@@ -385,15 +377,15 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "reconeer",
       "target": "bingrebates.com",
       "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 443,
+      "findings_count": 0,
+      "duration_ms": 50,
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "rsecloud",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 16,
+      "duration_ms": 14,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 788,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 931,
+      "duration_ms": 1005,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -429,15 +437,15 @@
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1608,
+      "duration_ms": 1473,
       "error": null
     },
     {
-      "resource": "riddler",
+      "resource": "thc",
       "target": "bingrebates.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3056,
+      "findings_count": 1,
+      "duration_ms": 102,
       "error": null
     },
     {
@@ -449,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 107,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
+      "resource": "riddler",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3045,
+      "duration_ms": 3058,
       "error": null
     },
     {
@@ -473,6 +473,14 @@
       "error": null
     },
     {
+      "resource": "threatminer",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 14,
+      "error": null
+    },
+    {
       "resource": "urlscan",
       "target": "bingrebates.com",
       "recursion_depth": 0,
@@ -481,15 +489,15 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "virustotal",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3271,
+      "duration_ms": 0,
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "whoisxml",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -505,19 +513,11 @@
       "error": null
     },
     {
-      "resource": "threatcrowd",
+      "resource": "shrewdeye",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3097,
-      "error": null
-    },
-    {
-      "resource": "whoisxml",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3057,
       "error": null
     },
     {
@@ -537,11 +537,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "sitedossier",
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 11179,
+      "duration_ms": 3363,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3060,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 25794,
+      "duration_ms": 24420,
       "error": null
     },
     {
@@ -557,15 +565,7 @@
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31550,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42279,
+      "duration_ms": 30649,
       "error": null
     },
     {
@@ -573,15 +573,7 @@
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65981,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bingrebates.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65981,
+      "duration_ms": 65986,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingrebates.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65742,
+      "duration_ms": 65662,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bingrebates.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 72162,
       "error": null
     }
   ]

@@ -1,55 +1,23 @@
 {
   "root_domain": "dotnetpodcasts.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T06:57:04.925562+00:00",
-  "completed_at": "2026-11-20T06:58:13.913509+00:00",
-  "duration_ms": 68987,
+  "started_at": "2026-11-21T05:07:07.470751+00:00",
+  "completed_at": "2026-11-21T05:08:16.464974+00:00",
+  "duration_ms": 68994,
   "targets_scanned": [
     "dotnetpodcasts.com"
   ],
   "total_unique_findings": 2,
   "fresh_findings_count": 2,
-  "historical_findings_count": 0,
-  "new_findings_count": 2,
+  "historical_findings_count": 2,
+  "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "bufferover",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
+      "resource": "censys",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,95 +33,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "builtwith",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,6 +49,14 @@
       "error": null
     },
     {
+      "resource": "argosdns",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "driftnet",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
@@ -177,7 +65,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "google",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +73,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "dnsdb",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +81,23 @@
       "error": null
     },
     {
-      "resource": "chaos",
+      "resource": "binaryedge",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,19 +113,107 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 23,
-      "error": null
-    },
-    {
-      "resource": "intelx",
+      "resource": "bufferover",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -233,7 +225,7 @@
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "intelx",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,19 +241,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "merklemap",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
       "error": null
     },
     {
@@ -273,7 +257,15 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "digitorus",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 33,
+      "error": null
+    },
+    {
+      "resource": "netlas",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,6 +274,14 @@
     },
     {
       "resource": "profundis",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,14 +305,6 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 81,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
@@ -321,19 +313,19 @@
       "error": null
     },
     {
-      "resource": "alienvault",
+      "resource": "anubis",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 195,
+      "duration_ms": 63,
       "error": null
     },
     {
-      "resource": "rapidfinder",
+      "resource": "crtsh",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 110,
       "error": null
     },
     {
@@ -345,11 +337,19 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
+      "resource": "rapidfinder",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 231,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 187,
       "error": null
     },
     {
@@ -361,15 +361,23 @@
       "error": null
     },
     {
+      "resource": "hudsonrock",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 201,
+      "error": null
+    },
+    {
       "resource": "reconeer",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 50,
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,15 +385,7 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 285,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +409,19 @@
       "error": null
     },
     {
+      "resource": "hackertarget",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 14,
+      "duration_ms": 24,
       "error": null
     },
     {
@@ -421,7 +429,7 @@
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 499,
+      "duration_ms": 513,
       "error": null
     },
     {
@@ -429,23 +437,15 @@
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 938,
+      "duration_ms": 1155,
       "error": "'list' object has no attribute 'get'"
-    },
-    {
-      "resource": "myssl",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1550,
-      "error": null
     },
     {
       "resource": "thc",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 99,
+      "duration_ms": 107,
       "error": null
     },
     {
@@ -457,23 +457,23 @@
       "error": null
     },
     {
+      "resource": "myssl",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2258,
+      "error": null
+    },
+    {
       "resource": "riddler",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 3048,
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3047,
-      "error": null
-    },
-    {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,11 +497,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "whoisxml",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3389,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -513,7 +513,15 @@
       "error": null
     },
     {
-      "resource": "whoisxml",
+      "resource": "shrewdeye",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3044,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -529,11 +537,11 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "sitedossier",
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -541,31 +549,7 @@
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3060,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32195,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 38070,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "dotnetpodcasts.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 48145,
+      "duration_ms": 3081,
       "error": null
     },
     {
@@ -573,7 +557,23 @@
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61448,
+      "duration_ms": 20312,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30536,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "dotnetpodcasts.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30322,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65977,
+      "duration_ms": 65987,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "dotnetpodcasts.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65631,
+      "duration_ms": 65734,
       "error": null
     }
   ]
