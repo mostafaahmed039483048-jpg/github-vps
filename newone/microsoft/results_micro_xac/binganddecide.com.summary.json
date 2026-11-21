@@ -1,9 +1,9 @@
 {
   "root_domain": "binganddecide.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:03:50.270249+00:00",
-  "completed_at": "2026-11-20T20:04:56.246271+00:00",
-  "duration_ms": 65976,
+  "started_at": "2026-11-21T04:51:48.469491+00:00",
+  "completed_at": "2026-11-21T04:52:54.462444+00:00",
+  "duration_ms": 65992,
   "targets_scanned": [
     "binganddecide.com"
   ],
@@ -17,7 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "coderog",
+      "resource": "driftnet",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,23 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "github",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -49,7 +65,55 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
+      "resource": "arpsyndicate",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -65,7 +129,15 @@
       "error": null
     },
     {
-      "resource": "c99",
+      "resource": "google",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -89,95 +161,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "certspotter",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +177,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "censys",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +185,23 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "binaryedge",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,11 +217,11 @@
       "error": null
     },
     {
-      "resource": "digitorus",
+      "resource": "abuseipdb",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -249,11 +249,11 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "netlas",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -265,19 +265,11 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "digitorus",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "profundis",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 40,
       "error": null
     },
     {
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "profundis",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "binganddecide.com",
       "recursion_depth": 0,
@@ -305,23 +305,15 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 68,
+      "error": null
+    },
+    {
       "resource": "rapidapi",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 98,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,27 +329,27 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 134,
-      "error": null
-    },
-    {
       "resource": "alienvault",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 187,
+      "duration_ms": 172,
       "error": null
     },
     {
-      "resource": "reconeer",
+      "resource": "rapidfinder",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 476,
       "error": null
     },
     {
@@ -369,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "hackertarget",
       "target": "binganddecide.com",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 231,
+      "findings_count": 1,
+      "duration_ms": 550,
       "error": null
     },
     {
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "shodan",
+      "resource": "reconeer",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 47,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,11 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "shodan",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 244,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -421,15 +413,15 @@
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 15,
+      "duration_ms": 18,
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "hudsonrock",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 542,
+      "duration_ms": 949,
       "error": null
     },
     {
@@ -437,15 +429,23 @@
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1020,
+      "duration_ms": 1168,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1242,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 104,
+      "duration_ms": 100,
       "error": null
     },
     {
@@ -457,19 +457,11 @@
       "error": null
     },
     {
-      "resource": "myssl",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1400,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3064,
+      "duration_ms": 3047,
       "error": null
     },
     {
@@ -478,6 +470,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3042,
       "error": null
     },
     {
@@ -505,11 +505,11 @@
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "sitedossier",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3051,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -537,35 +537,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3466,
-      "error": null
-    },
-    {
       "resource": "threatcrowd",
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3117,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 11932,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "binganddecide.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 28474,
+      "duration_ms": 3225,
       "error": null
     },
     {
@@ -573,7 +549,31 @@
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31503,
+      "duration_ms": 19413,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 29893,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32389,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "binganddecide.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55897,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61301,
+      "duration_ms": 61308,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "binganddecide.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65966,
+      "duration_ms": 65984,
       "error": null
     }
   ]

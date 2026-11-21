@@ -1,9 +1,9 @@
 {
   "root_domain": "appgridn.live",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:00:50.250700+00:00",
-  "completed_at": "2026-11-20T20:01:59.246690+00:00",
-  "duration_ms": 68995,
+  "started_at": "2026-11-21T04:49:14.474083+00:00",
+  "completed_at": "2026-11-21T04:50:20.462793+00:00",
+  "duration_ms": 65988,
   "targets_scanned": [
     "appgridn.live"
   ],
@@ -13,147 +13,11 @@
   "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
-  "successful_resource_executions": 71,
-  "failed_resource_executions": 1,
+  "successful_resource_executions": 72,
+  "failed_resource_executions": 0,
   "resource_executions": [
     {
       "resource": "dnsrepo",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,6 +41,22 @@
       "error": null
     },
     {
+      "resource": "github",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "c99",
       "target": "appgridn.live",
       "recursion_depth": 0,
@@ -185,7 +65,23 @@
       "error": null
     },
     {
-      "resource": "github",
+      "resource": "fofa",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +97,119 @@
       "error": null
     },
     {
+      "resource": "dnsdb",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "fullhunt",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,19 +221,11 @@
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 27,
       "error": null
     },
     {
       "resource": "intelx",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -253,11 +253,11 @@
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 70,
+      "duration_ms": 31,
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "odin",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,7 +265,7 @@
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,31 +305,15 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "anubis",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 115,
+      "duration_ms": 60,
       "error": null
     },
     {
-      "resource": "alienvault",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 182,
-      "error": null
-    },
-    {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,19 +329,27 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 231,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 185,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 236,
       "error": null
     },
     {
@@ -369,15 +361,23 @@
       "error": null
     },
     {
-      "resource": "hackertarget",
+      "resource": "reconeer",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 245,
+      "duration_ms": 71,
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "rapiddns",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 473,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -385,7 +385,7 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "robtex",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,31 +413,39 @@
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 23,
+      "duration_ms": 15,
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "hackertarget",
       "target": "appgridn.live",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 436,
+      "findings_count": 1,
+      "duration_ms": 746,
       "error": null
-    },
-    {
-      "resource": "racent",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 910,
-      "error": "'list' object has no attribute 'get'"
     },
     {
       "resource": "myssl",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1009,
+      "duration_ms": 1077,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 1494,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 114,
       "error": null
     },
     {
@@ -449,35 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 118,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3052,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 17,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3038,
+      "duration_ms": 3082,
       "error": null
     },
     {
@@ -497,15 +481,15 @@
       "error": null
     },
     {
-      "resource": "virustotal",
+      "resource": "shrewdeye",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3152,
       "error": null
     },
     {
-      "resource": "whoisfreaks",
+      "resource": "virustotal",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "zoomeyeapi",
+      "resource": "sitedossier",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3949,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,11 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "zoomeyeapi",
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3272,
+      "duration_ms": 0,
       "error": null
     },
     {
@@ -549,15 +541,7 @@
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3131,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "appgridn.live",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 11071,
+      "duration_ms": 3096,
       "error": null
     },
     {
@@ -565,7 +549,7 @@
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28769,
+      "duration_ms": 8869,
       "error": null
     },
     {
@@ -573,15 +557,15 @@
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30083,
+      "duration_ms": 30426,
       "error": null
     },
     {
-      "resource": "commoncrawl",
+      "resource": "crtsh",
       "target": "appgridn.live",
       "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 65993,
+      "findings_count": 1,
+      "duration_ms": 35665,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "appgridn.live",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65678,
+      "duration_ms": 52807,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61592,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "appgridn.live",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65981,
       "error": null
     }
   ]

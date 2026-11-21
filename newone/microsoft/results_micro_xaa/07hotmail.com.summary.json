@@ -1,9 +1,9 @@
 {
   "root_domain": "07hotmail.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T19:53:49.807407+00:00",
-  "completed_at": "2026-11-20T19:58:39.266638+00:00",
-  "duration_ms": 289459,
+  "started_at": "2026-11-21T04:46:40.752959+00:00",
+  "completed_at": "2026-11-21T04:49:57.478445+00:00",
+  "duration_ms": 196725,
   "targets_scanned": [
     "07hotmail.com"
   ],
@@ -16,22 +16,6 @@
   "successful_resource_executions": 71,
   "failed_resource_executions": 1,
   "resource_executions": [
-    {
-      "resource": "facebook",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "dnsdumpster",
       "target": "07hotmail.com",
@@ -49,7 +33,15 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "facebook",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +89,7 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "fofa",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,14 +121,6 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "argosdns",
       "target": "07hotmail.com",
       "recursion_depth": 0,
@@ -145,7 +129,23 @@
       "error": null
     },
     {
+      "resource": "binaryedge",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "github",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,7 +221,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 202,
+      "duration_ms": 283,
       "error": null
     },
     {
@@ -249,19 +249,19 @@
       "error": null
     },
     {
+      "resource": "anubis",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 275,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitorus",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 85,
       "error": null
     },
     {
@@ -305,19 +305,19 @@
       "error": null
     },
     {
-      "resource": "anubis",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 263,
-      "error": null
-    },
-    {
       "resource": "rapidapi",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 144,
       "error": null
     },
     {
@@ -341,7 +341,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 337,
+      "duration_ms": 362,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 254,
+      "duration_ms": 223,
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 91,
+      "duration_ms": 127,
       "error": null
     },
     {
@@ -381,7 +381,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 585,
+      "duration_ms": 535,
       "error": null
     },
     {
@@ -409,27 +409,19 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 477,
-      "error": null
-    },
-    {
       "resource": "shodanx",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32,
+      "duration_ms": 28,
       "error": null
     },
     {
-      "resource": "myssl",
+      "resource": "rapiddns",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1117,
+      "duration_ms": 650,
       "error": null
     },
     {
@@ -437,15 +429,23 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1355,
+      "duration_ms": 1331,
       "error": "'NoneType' object is not iterable"
+    },
+    {
+      "resource": "myssl",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1510,
+      "error": null
     },
     {
       "resource": "thc",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 116,
+      "duration_ms": 125,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3057,
+      "duration_ms": 3076,
       "error": null
     },
     {
@@ -477,7 +477,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3178,
+      "duration_ms": 3156,
       "error": null
     },
     {
@@ -497,19 +497,19 @@
       "error": null
     },
     {
+      "resource": "crtsh",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 4428,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3485,
       "error": null
     },
     {
@@ -537,19 +537,19 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "07hotmail.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3495,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3177,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "07hotmail.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 9408,
+      "duration_ms": 3369,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 6,
-      "duration_ms": 15042,
+      "duration_ms": 6623,
       "error": null
     },
     {
@@ -565,15 +565,15 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29295,
+      "duration_ms": 30140,
       "error": null
     },
     {
-      "resource": "crtsh",
+      "resource": "submd",
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 38592,
+      "duration_ms": 43661,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61551,
+      "duration_ms": 61583,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "07hotmail.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 289423,
+      "duration_ms": 196689,
       "error": null
     }
   ]

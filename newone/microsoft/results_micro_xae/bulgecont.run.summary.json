@@ -1,9 +1,9 @@
 {
   "root_domain": "bulgecont.run",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T19:56:34.252071+00:00",
-  "completed_at": "2026-11-20T19:57:43.247034+00:00",
-  "duration_ms": 68994,
+  "started_at": "2026-11-21T04:51:53.467574+00:00",
+  "completed_at": "2026-11-21T04:53:03.463376+00:00",
+  "duration_ms": 69995,
   "targets_scanned": [
     "bulgecont.run"
   ],
@@ -13,91 +13,11 @@
   "new_findings_count": 0,
   "reused_historical_findings_count": 0,
   "total_resource_executions": 72,
-  "successful_resource_executions": 72,
-  "failed_resource_executions": 0,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "dnsrepo",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
+      "resource": "bevigil",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -113,55 +33,7 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fullhunt",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
+      "resource": "coderog",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -177,7 +49,55 @@
       "error": null
     },
     {
-      "resource": "driftnet",
+      "resource": "chinaz",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,6 +113,78 @@
       "error": null
     },
     {
+      "resource": "domainsproject",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "facebook",
       "target": "bulgecont.run",
       "recursion_depth": 0,
@@ -201,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "bevigil",
+      "resource": "censys",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +201,7 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "domscan",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -225,15 +217,15 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
+      "resource": "digitorus",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 45,
+      "duration_ms": 24,
       "error": null
     },
     {
-      "resource": "merklemap",
+      "resource": "huntermap",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "merklemap",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -265,19 +257,19 @@
       "error": null
     },
     {
-      "resource": "digitorus",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "netlas",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
       "error": null
     },
     {
@@ -297,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "quake",
+      "resource": "pugrecon",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -305,7 +297,7 @@
       "error": null
     },
     {
-      "resource": "rapidapi",
+      "resource": "quake",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,11 +309,11 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 88,
+      "duration_ms": 50,
       "error": null
     },
     {
-      "resource": "rapidscan",
+      "resource": "rapidapi",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,19 +329,27 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 297,
-      "error": null
-    },
-    {
       "resource": "alienvault",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 367,
+      "duration_ms": 172,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 186,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 95,
+      "duration_ms": 54,
       "error": null
     },
     {
@@ -369,7 +369,15 @@
       "error": null
     },
     {
-      "resource": "rsecloud",
+      "resource": "racent",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 961,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "robtex",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -377,15 +385,7 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 524,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "rsecloud",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -413,7 +413,7 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 13,
+      "duration_ms": 19,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 713,
-      "error": null
-    },
-    {
-      "resource": "racent",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 1602,
+      "duration_ms": 1091,
       "error": null
     },
     {
@@ -437,7 +429,15 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1901,
+      "duration_ms": 1278,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1264,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 99,
+      "duration_ms": 101,
       "error": null
     },
     {
@@ -461,19 +461,11 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3079,
+      "duration_ms": 3074,
       "error": null
     },
     {
-      "resource": "shrewdeye",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3048,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +473,15 @@
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "shrewdeye",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3045,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,6 +497,14 @@
       "error": null
     },
     {
+      "resource": "sitedossier",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3272,
+      "error": null
+    },
+    {
       "resource": "whoisfreaks",
       "target": "bulgecont.run",
       "recursion_depth": 0,
@@ -505,23 +513,7 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3392,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "windvane",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,27 +529,19 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3086,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 29834,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "bulgecont.run",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 32384,
+      "duration_ms": 3056,
       "error": null
     },
     {
@@ -565,7 +549,23 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33120,
+      "duration_ms": 26054,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30944,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "bulgecont.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 36239,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61537,
+      "duration_ms": 61299,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65979,
+      "duration_ms": 65987,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bulgecont.run",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65306,
+      "duration_ms": 65922,
       "error": null
     }
   ]

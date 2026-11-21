@@ -1,9 +1,9 @@
 {
   "root_domain": "bing-ppe.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T19:54:56.003603+00:00",
-  "completed_at": "2026-11-20T19:56:05.248941+00:00",
-  "duration_ms": 69245,
+  "started_at": "2026-11-21T04:48:42.838435+00:00",
+  "completed_at": "2026-11-21T04:49:48.463452+00:00",
+  "duration_ms": 65625,
   "targets_scanned": [
     "bing-ppe.com"
   ],
@@ -16,22 +16,6 @@
   "successful_resource_executions": 72,
   "failed_resource_executions": 0,
   "resource_executions": [
-    {
-      "resource": "facebook",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
     {
       "resource": "dnsdumpster",
       "target": "bing-ppe.com",
@@ -49,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "facebook",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -97,7 +81,15 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "fofa",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -129,14 +121,6 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "argosdns",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
@@ -145,7 +129,23 @@
       "error": null
     },
     {
+      "resource": "binaryedge",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "github",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -193,7 +193,7 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "digitalyama",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,6 +209,14 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 103,
+      "error": null
+    },
+    {
       "resource": "huntermap",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
@@ -221,7 +229,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
+      "duration_ms": 36,
       "error": null
     },
     {
@@ -242,22 +250,6 @@
     },
     {
       "resource": "leakix",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "abuseipdb",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 105,
-      "error": null
-    },
-    {
-      "resource": "odin",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "odin",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -298,6 +290,14 @@
     },
     {
       "resource": "quake",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -337,19 +337,19 @@
       "error": null
     },
     {
-      "resource": "hudsonrock",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 196,
-      "error": null
-    },
-    {
       "resource": "alienvault",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 251,
+      "duration_ms": 227,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 203,
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 61,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -377,11 +377,11 @@
       "error": null
     },
     {
-      "resource": "rapiddns",
+      "resource": "hackertarget",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 4,
-      "duration_ms": 458,
+      "duration_ms": 536,
       "error": null
     },
     {
@@ -390,14 +390,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
-      "findings_count": 4,
-      "duration_ms": 542,
       "error": null
     },
     {
@@ -421,7 +413,15 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 29,
+      "duration_ms": 16,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 4,
+      "duration_ms": 765,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 2,
-      "duration_ms": 1327,
+      "duration_ms": 1243,
       "error": null
     },
     {
@@ -437,7 +437,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1546,
+      "duration_ms": 1722,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 3,
-      "duration_ms": 115,
+      "duration_ms": 123,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3190,
+      "duration_ms": 3049,
       "error": null
     },
     {
@@ -477,7 +477,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3114,
+      "duration_ms": 3086,
       "error": null
     },
     {
@@ -509,7 +509,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3493,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3093,
+      "duration_ms": 3090,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26131,
+      "duration_ms": 17281,
       "error": null
     },
     {
@@ -557,31 +557,15 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 30934,
+      "duration_ms": 29605,
       "error": null
     },
     {
       "resource": "crtsh",
       "target": "bing-ppe.com",
       "recursion_depth": 0,
-      "findings_count": 2,
-      "duration_ms": 42515,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65205,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bing-ppe.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61703,
+      "duration_ms": 49176,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "bing-ppe.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65528,
+      "duration_ms": 49911,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61629,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "bing-ppe.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65577,
       "error": null
     }
   ]
