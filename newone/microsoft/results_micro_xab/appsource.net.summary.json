@@ -1,9 +1,9 @@
 {
   "root_domain": "appsource.net",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:12:53.250364+00:00",
-  "completed_at": "2026-11-20T20:14:07.313380+00:00",
-  "duration_ms": 74063,
+  "started_at": "2026-11-21T05:00:35.468259+00:00",
+  "completed_at": "2026-11-21T05:01:44.465660+00:00",
+  "duration_ms": 68997,
   "targets_scanned": [
     "appsource.net"
   ],
@@ -17,95 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "domscan",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "driftnet",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "digitalyama",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +33,7 @@
       "error": null
     },
     {
-      "resource": "binaryedge",
+      "resource": "dnsrepo",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,14 +49,6 @@
       "error": null
     },
     {
-      "resource": "bevigil",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "coderog",
       "target": "appsource.net",
       "recursion_depth": 0,
@@ -153,7 +57,7 @@
       "error": null
     },
     {
-      "resource": "arpsyndicate",
+      "resource": "fofa",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +65,23 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "builtwith",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +105,71 @@
       "error": null
     },
     {
-      "resource": "argosdns",
+      "resource": "bevigil",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +185,23 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "digitalyama",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,7 +213,7 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 26,
+      "duration_ms": 32,
       "error": null
     },
     {
@@ -233,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "merklemap",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "leakix",
       "target": "appsource.net",
       "recursion_depth": 0,
@@ -249,7 +241,7 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "merklemap",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -269,11 +261,11 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 47,
+      "duration_ms": 43,
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "netlas",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -297,6 +289,14 @@
       "error": null
     },
     {
+      "resource": "onyphe",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "quake",
       "target": "appsource.net",
       "recursion_depth": 0,
@@ -309,7 +309,7 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 77,
+      "duration_ms": 79,
       "error": null
     },
     {
@@ -321,19 +321,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 177,
+      "error": null
+    },
+    {
       "resource": "rapidfinder",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 184,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 214,
+      "duration_ms": 222,
       "error": null
     },
     {
@@ -377,19 +377,19 @@
       "error": null
     },
     {
+      "resource": "reconeer",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 54,
+      "error": null
+    },
+    {
       "resource": "robtex",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 53,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
+      "duration_ms": 17,
       "error": null
     },
     {
@@ -421,15 +421,7 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 422,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 1192,
+      "duration_ms": 465,
       "error": null
     },
     {
@@ -437,8 +429,16 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1260,
+      "duration_ms": 1222,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "myssl",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2417,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -453,23 +453,7 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 126,
-      "error": null
-    },
-    {
-      "resource": "shrewdeye",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3041,
-      "error": null
-    },
-    {
-      "resource": "urlscan",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 99,
       "error": null
     },
     {
@@ -477,11 +461,27 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3077,
+      "duration_ms": 3043,
       "error": null
     },
     {
       "resource": "trickest",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -513,11 +513,11 @@
       "error": null
     },
     {
-      "resource": "threatminer",
+      "resource": "shrewdeye",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 3054,
       "error": null
     },
     {
@@ -541,7 +541,7 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3271,
+      "duration_ms": 3272,
       "error": null
     },
     {
@@ -549,15 +549,7 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3100,
-      "error": null
-    },
-    {
-      "resource": "submd",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 25524,
+      "duration_ms": 3093,
       "error": null
     },
     {
@@ -565,23 +557,15 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32947,
+      "duration_ms": 31753,
       "error": null
     },
     {
-      "resource": "waybackarchive",
-      "target": "appsource.net",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 53530,
-      "error": null
-    },
-    {
-      "resource": "commoncrawl",
+      "resource": "submd",
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65993,
+      "duration_ms": 42152,
       "error": null
     },
     {
@@ -589,7 +573,23 @@
       "target": "appsource.net",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 74054,
+      "duration_ms": 55055,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65986,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "appsource.net",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65651,
       "error": null
     }
   ]
