@@ -1,0 +1,596 @@
+{
+  "root_domain": "blacksmithz.run",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T00:27:15.267178+00:00",
+  "completed_at": "2026-11-21T00:28:21.244385+00:00",
+  "duration_ms": 65977,
+  "targets_scanned": [
+    "blacksmithz.run"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "bufferover",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 20,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 63,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 184,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 220,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 276,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 14,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 424,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1080,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1164,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 97,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3060,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3064,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3547,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3092,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 31418,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28931,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 45046,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 54308,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61289,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "blacksmithz.run",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65969,
+      "error": null
+    }
+  ]
+}
