@@ -1,0 +1,596 @@
+{
+  "root_domain": "affirmednetworks.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T00:29:34.253819+00:00",
+  "completed_at": "2026-11-21T00:30:40.250503+00:00",
+  "duration_ms": 65996,
+  "targets_scanned": [
+    "affirmednetworks.com"
+  ],
+  "total_unique_findings": 32,
+  "fresh_findings_count": 32,
+  "historical_findings_count": 0,
+  "new_findings_count": 32,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "bufferover",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 38,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 59,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 3,
+      "duration_ms": 208,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 261,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 69,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 347,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 16,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 21,
+      "duration_ms": 519,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 984,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "riddler",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3065,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3079,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 12,
+      "duration_ms": 103,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3271,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3125,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 8628,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 23410,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 30060,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 60452,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "affirmednetworks.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65983,
+      "error": null
+    }
+  ]
+}
