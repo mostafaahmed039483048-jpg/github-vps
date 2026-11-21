@@ -1,9 +1,9 @@
 {
   "root_domain": "bingray.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:17:12.261666+00:00",
-  "completed_at": "2026-11-20T20:18:18.244563+00:00",
-  "duration_ms": 65982,
+  "started_at": "2026-11-21T05:03:51.465452+00:00",
+  "completed_at": "2026-11-21T05:05:00.462722+00:00",
+  "duration_ms": 68997,
   "targets_scanned": [
     "bingray.com"
   ],
@@ -17,95 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "fofa",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsrepo",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "censys",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "fullhunt",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -121,7 +33,79 @@
       "error": null
     },
     {
+      "resource": "digitalyama",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "domainsproject",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,39 +129,7 @@
       "error": null
     },
     {
-      "resource": "dnsdb",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdumpster",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
+      "resource": "google",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +153,71 @@
       "error": null
     },
     {
-      "resource": "digitalyama",
+      "resource": "arpsyndicate",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -217,15 +233,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 30,
-      "error": null
-    },
-    {
-      "resource": "huntermap",
+      "resource": "merklemap",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -241,19 +249,11 @@
       "error": null
     },
     {
-      "resource": "merklemap",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitorus",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 33,
+      "duration_ms": 28,
       "error": null
     },
     {
@@ -273,7 +273,7 @@
       "error": null
     },
     {
-      "resource": "pugrecon",
+      "resource": "profundis",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -281,7 +281,7 @@
       "error": null
     },
     {
-      "resource": "profundis",
+      "resource": "pugrecon",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,7 +309,7 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 119,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -321,19 +321,19 @@
       "error": null
     },
     {
+      "resource": "alienvault",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 181,
+      "error": null
+    },
+    {
       "resource": "rapidfinder",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 177,
       "error": null
     },
     {
@@ -349,15 +349,7 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 233,
-      "error": null
-    },
-    {
-      "resource": "redhuntlabs",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 216,
       "error": null
     },
     {
@@ -365,19 +357,11 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 252,
+      "duration_ms": 255,
       "error": null
     },
     {
-      "resource": "reconeer",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 45,
-      "error": null
-    },
-    {
-      "resource": "robtex",
+      "resource": "redhuntlabs",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -390,6 +374,22 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 41,
       "error": null
     },
     {
@@ -413,15 +413,7 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 20,
-      "error": null
-    },
-    {
-      "resource": "rapiddns",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 435,
+      "duration_ms": 13,
       "error": null
     },
     {
@@ -429,7 +421,7 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 989,
+      "duration_ms": 1161,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +429,23 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1612,
+      "duration_ms": 1768,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 2011,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 106,
       "error": null
     },
     {
@@ -449,27 +457,11 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 121,
-      "error": null
-    },
-    {
       "resource": "riddler",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3043,
-      "error": null
-    },
-    {
-      "resource": "trickest",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 3053,
       "error": null
     },
     {
@@ -477,11 +469,19 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3033,
+      "duration_ms": 3056,
       "error": null
     },
     {
       "resource": "urlscan",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -501,7 +501,7 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3274,
+      "duration_ms": 3362,
       "error": null
     },
     {
@@ -541,15 +541,7 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3067,
-      "error": null
-    },
-    {
-      "resource": "waybackarchive",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 2712,
+      "duration_ms": 3090,
       "error": null
     },
     {
@@ -557,7 +549,7 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 24176,
+      "duration_ms": 7260,
       "error": null
     },
     {
@@ -565,15 +557,7 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 32519,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingray.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42316,
+      "duration_ms": 30787,
       "error": null
     },
     {
@@ -581,7 +565,15 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 57786,
+      "duration_ms": 45070,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61789,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "bingray.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65971,
+      "duration_ms": 65988,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "bingray.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65660,
       "error": null
     }
   ]

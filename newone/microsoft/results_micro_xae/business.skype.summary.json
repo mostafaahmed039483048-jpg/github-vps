@@ -1,9 +1,9 @@
 {
   "root_domain": "business.skype",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:08:40.250703+00:00",
-  "completed_at": "2026-11-20T20:09:46.244778+00:00",
-  "duration_ms": 65994,
+  "started_at": "2026-11-21T05:03:18.469585+00:00",
+  "completed_at": "2026-11-21T05:04:25.463513+00:00",
+  "duration_ms": 66993,
   "targets_scanned": [
     "business.skype"
   ],
@@ -17,7 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "arpsyndicate",
+      "resource": "bufferover",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,7 +25,7 @@
       "error": null
     },
     {
-      "resource": "builtwith",
+      "resource": "driftnet",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -33,7 +33,47 @@
       "error": null
     },
     {
-      "resource": "fofa",
+      "resource": "domainsproject",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -57,135 +97,7 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bufferover",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "argosdns",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "coderog",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domainsproject",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "digitalyama",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "certspotter",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "domscan",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "google",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chinaz",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +113,7 @@
       "error": null
     },
     {
-      "resource": "censys",
+      "resource": "google",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -209,7 +121,95 @@
       "error": null
     },
     {
-      "resource": "huntermap",
+      "resource": "fofa",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -221,11 +221,11 @@
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 22,
       "error": null
     },
     {
-      "resource": "intelx",
+      "resource": "huntermap",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -257,6 +257,14 @@
       "error": null
     },
     {
+      "resource": "abuseipdb",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 27,
+      "error": null
+    },
+    {
       "resource": "odin",
       "target": "business.skype",
       "recursion_depth": 0,
@@ -265,15 +273,7 @@
       "error": null
     },
     {
-      "resource": "abuseipdb",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 55,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
+      "resource": "onyphe",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -289,7 +289,7 @@
       "error": null
     },
     {
-      "resource": "onyphe",
+      "resource": "pugrecon",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -309,27 +309,11 @@
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 85,
+      "duration_ms": 58,
       "error": null
     },
     {
       "resource": "rapidapi",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hudsonrock",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 177,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -345,19 +329,27 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 105,
+      "error": null
+    },
+    {
       "resource": "alienvault",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 210,
-      "error": null
-    },
-    {
-      "resource": "reconeer",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 46,
+      "duration_ms": 178,
       "error": null
     },
     {
@@ -369,19 +361,11 @@
       "error": null
     },
     {
-      "resource": "robtex",
+      "resource": "hudsonrock",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 280,
+      "duration_ms": 218,
       "error": null
     },
     {
@@ -393,7 +377,15 @@
       "error": null
     },
     {
-      "resource": "securitytrails",
+      "resource": "reconeer",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 59,
+      "error": null
+    },
+    {
+      "resource": "robtex",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -409,11 +401,27 @@
       "error": null
     },
     {
+      "resource": "securitytrails",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
       "resource": "shodanx",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 19,
+      "duration_ms": 14,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 254,
       "error": null
     },
     {
@@ -421,15 +429,7 @@
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 499,
-      "error": null
-    },
-    {
-      "resource": "myssl",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 986,
+      "duration_ms": 495,
       "error": null
     },
     {
@@ -437,8 +437,16 @@
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1176,
+      "duration_ms": 1239,
       "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 102,
+      "error": null
     },
     {
       "resource": "threatbook",
@@ -449,31 +457,23 @@
       "error": null
     },
     {
-      "resource": "thc",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 143,
-      "error": null
-    },
-    {
-      "resource": "riddler",
+      "resource": "myssl",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3049,
+      "duration_ms": 1550,
       "error": null
     },
     {
-      "resource": "shrewdeye",
+      "resource": "threatminer",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3061,
+      "duration_ms": 24,
       "error": null
     },
     {
-      "resource": "trickest",
+      "resource": "urlscan",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -481,7 +481,7 @@
       "error": null
     },
     {
-      "resource": "urlscan",
+      "resource": "trickest",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -497,22 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "sitedossier",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 3273,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "business.skype",
       "recursion_depth": 0,
@@ -521,7 +505,15 @@
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "riddler",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3046,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,19 +529,35 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3035,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3365,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3076,
-      "error": null
-    },
-    {
-      "resource": "reconcloud",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 31014,
+      "duration_ms": 3094,
       "error": null
     },
     {
@@ -557,31 +565,15 @@
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 34920,
+      "duration_ms": 25520,
       "error": null
     },
     {
-      "resource": "waybackarchive",
+      "resource": "reconcloud",
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 42005,
-      "error": null
-    },
-    {
-      "resource": "crtsh",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 1,
-      "duration_ms": 61566,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "business.skype",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 61791,
+      "duration_ms": 29951,
       "error": null
     },
     {
@@ -589,7 +581,15 @@
       "target": "business.skype",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65998,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "business.skype",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65385,
       "error": null
     }
   ]

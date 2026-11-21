@@ -1,9 +1,9 @@
 {
   "root_domain": "bingastrology.com",
   "recursive_depth": 0,
-  "started_at": "2026-11-20T20:17:03.250795+00:00",
-  "completed_at": "2026-11-20T20:18:12.247095+00:00",
-  "duration_ms": 68996,
+  "started_at": "2026-11-21T05:03:25.480398+00:00",
+  "completed_at": "2026-11-21T05:04:34.465291+00:00",
+  "duration_ms": 68984,
   "targets_scanned": [
     "bingastrology.com"
   ],
@@ -17,7 +17,7 @@
   "failed_resource_executions": 1,
   "resource_executions": [
     {
-      "resource": "chinaz",
+      "resource": "dnsdumpster",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -25,95 +25,7 @@
       "error": null
     },
     {
-      "resource": "censys",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "arpsyndicate",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "c99",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "fofa",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "builtwith",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "github",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "dnsdb",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "driftnet",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "chaos",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "bevigil",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "binaryedge",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "facebook",
+      "resource": "domainsproject",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -137,7 +49,7 @@
       "error": null
     },
     {
-      "resource": "domainsproject",
+      "resource": "domscan",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -145,7 +57,31 @@
       "error": null
     },
     {
-      "resource": "domscan",
+      "resource": "chaos",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -161,7 +97,7 @@
       "error": null
     },
     {
-      "resource": "coderog",
+      "resource": "dnsdb",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -169,7 +105,31 @@
       "error": null
     },
     {
-      "resource": "dnsdumpster",
+      "resource": "fofa",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -185,7 +145,15 @@
       "error": null
     },
     {
-      "resource": "fullhunt",
+      "resource": "google",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -201,7 +169,39 @@
       "error": null
     },
     {
-      "resource": "google",
+      "resource": "driftnet",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -213,7 +213,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 35,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -233,14 +233,6 @@
       "error": null
     },
     {
-      "resource": "leakix",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "merklemap",
       "target": "bingastrology.com",
       "recursion_depth": 0,
@@ -249,7 +241,15 @@
       "error": null
     },
     {
-      "resource": "netlas",
+      "resource": "leakix",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -261,11 +261,19 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 55,
+      "duration_ms": 30,
       "error": null
     },
     {
-      "resource": "odin",
+      "resource": "netlas",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -282,14 +290,6 @@
     },
     {
       "resource": "profundis",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "pugrecon",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -317,23 +317,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 95,
-      "error": null
-    },
-    {
-      "resource": "alienvault",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 198,
-      "error": null
-    },
-    {
-      "resource": "rapidfinder",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
+      "duration_ms": 68,
       "error": null
     },
     {
@@ -345,11 +329,27 @@
       "error": null
     },
     {
+      "resource": "rapidfinder",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 183,
+      "error": null
+    },
+    {
       "resource": "hudsonrock",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 219,
+      "duration_ms": 187,
       "error": null
     },
     {
@@ -357,7 +357,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 51,
+      "duration_ms": 48,
       "error": null
     },
     {
@@ -366,14 +366,6 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
-      "error": null
-    },
-    {
-      "resource": "hackertarget",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 274,
       "error": null
     },
     {
@@ -390,6 +382,14 @@
       "recursion_depth": 0,
       "findings_count": 0,
       "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 251,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 18,
+      "duration_ms": 14,
       "error": null
     },
     {
@@ -421,7 +421,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 433,
+      "duration_ms": 954,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 996,
+      "duration_ms": 1227,
       "error": "'list' object has no attribute 'get'"
     },
     {
@@ -437,7 +437,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 1452,
+      "duration_ms": 1473,
       "error": null
     },
     {
@@ -453,7 +453,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 1,
-      "duration_ms": 123,
+      "duration_ms": 104,
       "error": null
     },
     {
@@ -461,7 +461,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3056,
+      "duration_ms": 3045,
       "error": null
     },
     {
@@ -477,7 +477,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3046,
+      "duration_ms": 3038,
       "error": null
     },
     {
@@ -497,14 +497,6 @@
       "error": null
     },
     {
-      "resource": "whoisfreaks",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 0,
-      "error": null
-    },
-    {
       "resource": "whoisxml",
       "target": "bingastrology.com",
       "recursion_depth": 0,
@@ -513,15 +505,15 @@
       "error": null
     },
     {
-      "resource": "sitedossier",
+      "resource": "threatminer",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3272,
+      "duration_ms": 30,
       "error": null
     },
     {
-      "resource": "windvane",
+      "resource": "whoisfreaks",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
@@ -537,11 +529,27 @@
       "error": null
     },
     {
+      "resource": "windvane",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "bingastrology.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3270,
+      "error": null
+    },
+    {
       "resource": "threatcrowd",
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 3093,
+      "duration_ms": 3058,
       "error": null
     },
     {
@@ -549,7 +557,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 8330,
+      "duration_ms": 27568,
       "error": null
     },
     {
@@ -557,15 +565,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 28974,
-      "error": null
-    },
-    {
-      "resource": "threatminer",
-      "target": "bingastrology.com",
-      "recursion_depth": 0,
-      "findings_count": 0,
-      "duration_ms": 42056,
+      "duration_ms": 30891,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65041,
+      "duration_ms": 41068,
       "error": null
     },
     {
@@ -581,7 +581,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65985,
+      "duration_ms": 65972,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "target": "bingastrology.com",
       "recursion_depth": 0,
       "findings_count": 0,
-      "duration_ms": 65647,
+      "duration_ms": 65667,
       "error": null
     }
   ]
