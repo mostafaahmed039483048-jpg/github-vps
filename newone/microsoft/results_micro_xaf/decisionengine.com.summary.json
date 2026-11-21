@@ -1,0 +1,596 @@
+{
+  "root_domain": "decisionengine.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T00:04:44.255477+00:00",
+  "completed_at": "2026-11-21T00:05:53.246808+00:00",
+  "duration_ms": 68991,
+  "targets_scanned": [
+    "decisionengine.com"
+  ],
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 0,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "builtwith",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 26,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 35,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 105,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 215,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 218,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 256,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 55,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 14,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 473,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1183,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "thc",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 113,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1458,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3083,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3077,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3515,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3110,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 10361,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32948,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61631,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65983,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "decisionengine.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65677,
+      "error": null
+    }
+  ]
+}
