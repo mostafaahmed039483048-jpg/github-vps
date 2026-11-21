@@ -1,0 +1,596 @@
+{
+  "root_domain": "dialin.teams.microsoft.com",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T00:50:31.272364+00:00",
+  "completed_at": "2026-11-21T00:51:37.245637+00:00",
+  "duration_ms": 65973,
+  "targets_scanned": [
+    "dialin.teams.microsoft.com"
+  ],
+  "total_unique_findings": 1,
+  "fresh_findings_count": 1,
+  "historical_findings_count": 0,
+  "new_findings_count": 1,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "fofa",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "censys",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 25,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 66,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 104,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 191,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 42,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 244,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 254,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 436,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 854,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 97,
+      "error": null
+    },
+    {
+      "resource": "threatbook",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 995,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3056,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3073,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3366,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3114,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 32967,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 34099,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61757,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61660,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "dialin.teams.microsoft.com",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65964,
+      "error": null
+    }
+  ]
+}
