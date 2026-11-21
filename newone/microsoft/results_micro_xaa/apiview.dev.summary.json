@@ -1,0 +1,596 @@
+{
+  "root_domain": "apiview.dev",
+  "recursive_depth": 0,
+  "started_at": "2026-11-21T02:37:33.788084+00:00",
+  "completed_at": "2026-11-21T02:38:39.243978+00:00",
+  "duration_ms": 65455,
+  "targets_scanned": [
+    "apiview.dev"
+  ],
+  "total_unique_findings": 2,
+  "fresh_findings_count": 2,
+  "historical_findings_count": 0,
+  "new_findings_count": 2,
+  "reused_historical_findings_count": 0,
+  "total_resource_executions": 72,
+  "successful_resource_executions": 71,
+  "failed_resource_executions": 1,
+  "resource_executions": [
+    {
+      "resource": "censys",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsrepo",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bufferover",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "driftnet",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fofa",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "fullhunt",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chaos",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "builtwith",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "c99",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "binaryedge",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domscan",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "domainsproject",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdb",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "chinaz",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitalyama",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "arpsyndicate",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "certspotter",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "github",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "coderog",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "argosdns",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "bevigil",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "facebook",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "google",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "dnsdumpster",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "digitorus",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 21,
+      "error": null
+    },
+    {
+      "resource": "intelx",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "huntermap",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "leakix",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "merklemap",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "odin",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "netlas",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "abuseipdb",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 36,
+      "error": null
+    },
+    {
+      "resource": "profundis",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "pugrecon",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "onyphe",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "quake",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidapi",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "anubis",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 72,
+      "error": null
+    },
+    {
+      "resource": "rapidfinder",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "rapidscan",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "alienvault",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 182,
+      "error": null
+    },
+    {
+      "resource": "hudsonrock",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 208,
+      "error": null
+    },
+    {
+      "resource": "hackertarget",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 260,
+      "error": null
+    },
+    {
+      "resource": "redhuntlabs",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "reconeer",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65,
+      "error": null
+    },
+    {
+      "resource": "rsecloud",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "robtex",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodan",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "securitytrails",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "shodanx",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 12,
+      "error": null
+    },
+    {
+      "resource": "rapiddns",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 883,
+      "error": null
+    },
+    {
+      "resource": "myssl",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 994,
+      "error": null
+    },
+    {
+      "resource": "racent",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 1151,
+      "error": "'list' object has no attribute 'get'"
+    },
+    {
+      "resource": "threatbook",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "thc",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 127,
+      "error": null
+    },
+    {
+      "resource": "shrewdeye",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3109,
+      "error": null
+    },
+    {
+      "resource": "urlscan",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "riddler",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3218,
+      "error": null
+    },
+    {
+      "resource": "trickest",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "virustotal",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisxml",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "whoisfreaks",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "threatcrowd",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3112,
+      "error": null
+    },
+    {
+      "resource": "zoomeyeapi",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "windvane",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 0,
+      "error": null
+    },
+    {
+      "resource": "sitedossier",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 3495,
+      "error": null
+    },
+    {
+      "resource": "waybackarchive",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 1,
+      "duration_ms": 18482,
+      "error": null
+    },
+    {
+      "resource": "reconcloud",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 28576,
+      "error": null
+    },
+    {
+      "resource": "crtsh",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 2,
+      "duration_ms": 42894,
+      "error": null
+    },
+    {
+      "resource": "submd",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 44583,
+      "error": null
+    },
+    {
+      "resource": "threatminer",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 61611,
+      "error": null
+    },
+    {
+      "resource": "commoncrawl",
+      "target": "apiview.dev",
+      "recursion_depth": 0,
+      "findings_count": 0,
+      "duration_ms": 65448,
+      "error": null
+    }
+  ]
+}
